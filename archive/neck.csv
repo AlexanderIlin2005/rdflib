@@ -1,0 +1,2272 @@
+agi,agistr,agistrint,arcres,classes,cooldown,critstrkrtng,dmg,dodgertng,firres,frores,hastertng,int,mastrtng,name_enus,natres,nsockets,parryrtng,quality,reqlevel,slotbak,socket1,socket2,socket3,speed,sta,str,versatility
+,,,,,,53.0,,,,,,,,Stormpike Sage's Pendant,,,,Epic,10.0,2.0,,,,,200.0,,318.0
+,,,,,,53.0,,,,,,,,Frostwolf Advisor's Pendant,,,,Epic,10.0,2.0,,,,,200.0,,318.0
+,,,,,,223.0,,,,,148.0,,,Stormpike Soldier's Pendant,,,,Epic,10.0,2.0,,,,,200.0,,
+,,,,,,223.0,,,,,148.0,,,Frostwolf Legionnaire's Pendant,,,,Epic,10.0,2.0,,,,,200.0,,
+3.0,,,,,,,,,,,,3.0,,Brilliant Necklace,,,,Uncommon,20.0,2.0,,,,,6.0,3.0,3.0
+3.0,,,,,,,,,,,,,,Malachite Pendant,,,,Uncommon,13.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Thick Bronze Necklace,,,,Uncommon,17.0,2.0,,,,,5.0,,
+,,,,,,4.0,,,,,,4.0,,Thal'darah's Pendant,,,,Uncommon,,2.0,,,,,6.0,,
+5.0,,,,,,5.0,,,,,,,,Ambassador's Amulet,,,,Rare,,2.0,,,,,7.0,,
+6.0,,,,,,,,,,,,,,Scout's Medallion,,,,Rare,18.0,2.0,,,,,6.0,,
+6.0,,,,,,,,,,,,,,Sentinel's Medallion,,,,Rare,18.0,2.0,,,,,6.0,,
+,,,,,,,,,,,,,,Ornate Tigerseye Necklace,,,,Uncommon,15.0,2.0,,,,,,,4.0
+5.0,,,,,,5.0,,,,,,,,Orthus' Amulet,,,,Rare,,2.0,,,,,7.0,,
+,,,,,,4.0,,,,,,4.0,,Overlord's Favor,,,,Uncommon,,2.0,,,,,6.0,,
+4.0,,,,,,,,,,,,,,Amulet of Shrill Screams,,,,Uncommon,,2.0,,,,,6.0,,
+,,,,,,,,,,,8.0,,,Hook Charm Necklace,,,,Rare,20.0,2.0,,,,,6.0,,4.0
+,,,,,,,,,,,,,,Northwatch Amulet,,,,Uncommon,,2.0,,,,,6.0,4.0,
+4.0,,,,,,,,,,,,,,Spy-Mistress' Necklace,,,,Uncommon,,2.0,,,,,6.0,,
+,,,,,,,,,,,4.0,,,Pendant of Good Fortune,,,,Uncommon,20.0,2.0,,,,,6.0,,9.0
+,,,,,,,,,,,,,,Crawling Amulet,,,,Uncommon,,2.0,,,,,7.0,5.0,
+,,,,,,8.0,,,,,3.0,,,Hematite Tortoise Pendant,,,,Rare,16.0,2.0,,,,,5.0,,
+,,,,,0.0004166666666666667,,,9.0,,,,,,Pendant of the Agate Shield,,,,Uncommon,26.0,2.0,,,,,7.0,6.0,
+,,,,,,,,,,,,,,Pendant of Myzrael,,,,Uncommon,30.0,2.0,,,,,8.0,,8.0
+,,,,,,,,,,,,,,River Pride Choker,,,,Rare,28.0,2.0,,,,,7.0,4.0,
+4.0,,,,,,,,,,,,4.0,,Kaleidoscope Chain,,,,Rare,30.0,2.0,,,,,8.0,4.0,4.0
+7.0,,,,,,,,,,,,,,Scout's Medallion,,,,Rare,28.0,2.0,,,,,7.0,,
+,,,,,,10.0,,,,,,,,Amulet of Truesight,,,,Rare,29.0,2.0,,,,,,,
+,,,,,,,,,,,,6.0,,Crystal Starfire Medallion,,,,Uncommon,26.0,2.0,,,,,7.0,,5.0
+5.0,,,,,,,,,,,,,,Darkmoon Pendant,,,,Rare,30.0,2.0,,,,,8.0,,
+7.0,,,,,,,,,,,,,,Sentinel's Medallion,,,,Rare,28.0,2.0,,,,,7.0,,
+,,,,,,5.0,,,,,,5.0,,Darkmoon Necklace,,,,Rare,30.0,2.0,,,,,8.0,,
+5.0,,,,,,,,,,,,,,Gnomeregan Amulet,,,,Uncommon,26.0,2.0,,,,,7.0,,
+,,,,,,,,,,,,,,Senior Sergeant's Insignia,,,,Rare,30.0,2.0,,,,,8.0,,4.0
+,,,,,,,,,,,,4.0,,Ghostshard Talisman,,,,Rare,30.0,2.0,,,,,8.0,,
+,,,,,,3.0,,,,,,5.0,,Booty Bay Pendant,,,,Rare,,2.0,,,,,8.0,,
+,,,,,,,,,,,,,,Mankrik's Amulet,,,,Uncommon,,2.0,,,,,8.0,5.0,
+,,,,,,,,,,,,5.0,,Necklace of Evil Faces,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,0.0004166666666666667,,,,,,,6.0,,Amulet of the Moon,,,,Uncommon,25.0,2.0,,,,,,,6.0
+,,,,,0.0004166666666666667,,,,,,,,,Heavy Golden Necklace of Battle,,,,Uncommon,30.0,2.0,,,,,8.0,6.0,
+,,,,,,,,,,,,,,Greenstone Talisman,,,,Uncommon,30.0,2.0,,,,,8.0,5.0,
+,,,,,,,,,,,,5.0,,Scorn's Icy Choker,,,,Rare,30.0,2.0,,,,,8.0,,
+,,,,,,,,,,,,,,Emberspark Pendant,,,,Uncommon,30.0,2.0,,,,,8.0,,9.0
+,,,,,,7.0,,,,,11.0,,,Stygian Bone Amulet,,,,Rare,30.0,2.0,,,,,8.0,,
+,,,,,,,,,,,,,,Steelwing Pendant,,,,Uncommon,,2.0,,,,,7.0,5.0,
+,,,,,,,,,,,,5.0,,Cerulean Talisman,,,,Uncommon,27.0,2.0,,,,,7.0,,
+,,,,,,,,,,,,,,Basalt Necklace,,,,Uncommon,27.0,2.0,,,,,7.0,5.0,
+5.0,,,,,,,,,,,,,,Luring Necklace,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,,,,,,,,,,Small Pouch of Incense,,,,Uncommon,,2.0,,,,,7.0,5.0,
+,,,,,,6.0,,,,,,5.0,,Amulet of Brilliant Talent,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,,,,,,,,5.0,,Basilisk Scale Necklace,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,,,,,,,,,,Bronze Torc,,,,Uncommon,21.0,2.0,,,,,,,5.0
+,,,,,,,,,,,,,,Torntusk Pendant,,,,Uncommon,,2.0,,,,,7.0,5.0,
+5.0,,,,,,,,,,,,,,Tundra Necklace,,,,Uncommon,28.0,2.0,,,,,7.0,,
+,,,,,,7.0,,,,,9.0,,,Temperature-Sensing Necklace,,,,Rare,28.0,2.0,,,,,7.0,,
+5.0,,,,,,,,,,,,,,Choker of Renewal,,,,Uncommon,,2.0,,,,,7.0,,
+5.0,,,,,,,,,,,,,,Wolfpack Medallion,,,,Uncommon,26.0,2.0,,,,,7.0,,
+5.0,,,,,,,,,,,,,,Razorbeak Amulet,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,,,,,,,,5.0,,Spectral Necklace,,,,Uncommon,25.0,2.0,,,,,7.0,,
+5.0,,,,,,,,,,,,,,Goris' Medallion,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,,,,,,,,,,Dorn's Amulet,,,,Uncommon,,2.0,,,,,8.0,5.0,
+,,,,,,,,,,,,,,Necklace of Harmony,,,,Uncommon,29.0,2.0,,,,,,,10.0
+,,,,,,,,,,,,,,Armsmaster's Sealed Locket,,,,Rare,28.0,2.0,,,,,7.0,,16.0
+,,,,,,10.0,,,,,6.0,,,Scorched Scarlet Key,,,,Rare,28.0,2.0,,,,,7.0,,
+,,,,,,5.0,,,,,,5.0,,Grounding Choker,,,,Rare,,2.0,,,,,7.0,,
+,,,,,,4.0,,,,,,,,Flashfire Collar,,,,Rare,,2.0,,,,,7.0,5.0,
+,,,,,,,,,,,,,,Small Pouch of Incense,,,,Uncommon,,2.0,,,,,7.0,5.0,
+,,,,,,5.0,,,,,,5.0,,Frazzlecraz Necklace,,,,Rare,,2.0,,,,,8.0,,
+,,,,,,,,,,,,9.0,,Mark of the Kirin Tor,,,,Uncommon,30.0,2.0,,,,,,,3.0
+5.0,,,,,,,,,,,,,,Whalefang Pendant,,,,Uncommon,,2.0,,,,,8.0,,
+,,,,,,,,,,,,,,Master Sergeant's Insignia,,,,Rare,30.0,2.0,,,,,8.0,,4.0
+,,,,,,5.0,,,,,,5.0,,Airburst Amulet,,,,Rare,,2.0,,,,,8.0,,
+,,,,,,,,,,,,5.0,,Necklace of Evil Faces,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,,5.0,,,,,,5.0,,Grounding Choker,,,,Rare,,2.0,,,,,7.0,,
+,,,,,,,,,,,,,,Glowing Green Talisman,,,,Uncommon,25.0,2.0,,,,,7.0,,9.0
+5.0,5.0,,,,,,,,,,,,,Barbaric Iron Collar,,,,Uncommon,25.0,2.0,,,,,,5.0,
+5.0,,,,,,,,,,,,,,Velvet Choker,,,,Uncommon,,2.0,,,,,7.0,,
+,,,,,,3.0,,,,,,,,Gazlowe's Charm,,,,Rare,36.0,2.0,,,,,9.0,4.0,
+,,,,,,8.0,,,,,,,,Tempest Talisman,,,,Rare,36.0,2.0,,,,,9.0,,13.0
+9.0,,,,,,,,,,,,,,Scout's Medallion,,,,Rare,38.0,2.0,,,,,9.0,,
+,,,,,,6.0,,,,,,6.0,,Triune Amulet,,,,Rare,35.0,2.0,,,,,9.0,,
+,,,,,,11.0,,,,,,,,Wyrmbog Amulet,,,,Rare,,2.0,,,,,9.0,,
+,,,,,,,,,,,,6.0,,Necklace of Calisea,,,,Rare,38.0,2.0,,,,,9.0,,6.0
+,,,,,,,,,,,11.0,,,Evil Eye Pendant,,,,Rare,40.0,2.0,,,,,10.0,,12.0
+,,,,,,,,,,,15.0,,,Anarchist's Pendant,,,,Rare,39.0,2.0,,,,,9.0,,6.0
+,,,,,,,,,,,13.0,,,Gemshard Heart,,,,Rare,34.0,2.0,,,,,9.0,,6.0
+7.0,7.0,,,,0.0004166666666666667,,,,,,,,,Aquamarine Pendant of the Warrior,,,,Uncommon,39.0,2.0,,,,,,7.0,
+,,,,,,,,,,,,9.0,,Dark Advisor's Pendant,,,,Rare,40.0,2.0,,,,,10.0,,
+,,,,,,4.0,,,,,,6.0,,Reaper's Amulet,,,,Uncommon,,2.0,,,,,9.0,,
+,,,,,0.0004166666666666667,,,,,,,9.0,,Jade Pendant of Blasting,,,,Uncommon,31.0,2.0,,,,,8.0,,
+,,,,,,,,,,,7.0,,,Chimaera Heart Pendant,,,,Uncommon,,2.0,,,,,12.0,8.0,
+,,,,,,,,,,,4.0,6.0,,Mirage Amulet,,,,Uncommon,,2.0,,,,,9.0,,
+6.0,,,,,,,,,,,,,,Argent Medallion,,,,Uncommon,,2.0,,,,,9.0,,
+,,,,,,,,,,,6.0,7.0,,Demon Heart Pendant,,,,Rare,,2.0,,,,,11.0,,
+,,,,,,7.0,,,,,,7.0,,Amulet of Living Wood,,,,Uncommon,,2.0,,,,,11.0,,
+,,,,,,,,,,,7.0,7.0,,Heart of the Fiend,,,,Rare,40.0,2.0,,,,,10.0,,
+,,,,,,,,,,,,9.0,,Barbed Thorn Necklace,,,,Rare,40.0,2.0,,,,,10.0,,
+,,,,,0.0004166666666666667,,,,,,,11.0,,Citrine Pendant of Golden Healing,,,,Uncommon,34.0,2.0,,,,,9.0,,
+,,,,,,11.0,,,,,,,,Pendant of Ferocity,,,,Uncommon,,2.0,,,,,9.0,,
+,,,,,,,,,,,6.0,8.0,,Firewater Amulet,,,,Uncommon,,2.0,,,,,12.0,,
+,,,,,,10.0,,,,,12.0,,,Glowing Eye of Mordresh,,,,Rare,40.0,2.0,,,,,10.0,,
+,,,,,,16.0,,,,,7.0,,,Elder Magus Pendant,,,,Rare,40.0,2.0,,,,,10.0,,
+,,,,,,6.0,,,,,,6.0,,Pendant of the Ill-Advised,,,,Uncommon,,2.0,,,,,9.0,,
+6.0,,,,,,,,,,,,,,Light-Touched Pendant,,,,Uncommon,,2.0,,,,,9.0,,
+,,,,,,,,,,,,,,Chain of Lethon,,,,Rare,,2.0,,,,,9.0,6.0,
+,,,,,,,,,,,,,,Thallium Choker,,,,Uncommon,31.0,2.0,,,,,8.0,5.0,
+8.0,,,,,,,,,,,,,,Sunprism Pendant,,,,Uncommon,,2.0,,,,,13.0,,
+,,,,,,7.0,,,,,,8.0,,Dream Pendant,,,,Rare,,2.0,,,,,12.0,,
+,,,,,,5.0,,,,,,,,Flamestar Amulet,,,,Uncommon,,2.0,,,,,11.0,7.0,
+,,,,,,5.0,,,,,,,,Flamestar Amulet,,,,Uncommon,,2.0,,,,,11.0,7.0,
+,,,,,,,,,,,7.0,7.0,,Kelsey's Necklace,,,,Rare,,2.0,,,,,11.0,,
+,,,,,,,,,,,7.0,7.0,,Kelsey's Necklace,,,,Rare,,2.0,,,,,11.0,,
+,,,,,,6.0,,,,,,,,Gnomeregan Medallion of Merit,,,,Uncommon,,2.0,,,,,11.0,7.0,
+,,,,,,,,,,,6.0,7.0,,Gretel's Pendant,,,,Uncommon,,2.0,,,,,11.0,,
+,,,,,,,,,,,,,,Chain of Lethon,,,,Rare,,2.0,,,,,9.0,6.0,
+8.0,,,,,,,,,,,7.0,,,Dream Amulet,,,,Rare,,2.0,,,,,12.0,,
+,,,,,,,,,,,7.0,,,Dream Medallion,,,,Rare,,2.0,,,,,12.0,8.0,
+7.0,,,,,,,,,,,6.0,,,Amulet of the Thorium Brotherhood,,,,Rare,,2.0,,,,,11.0,,
+,,,,,,6.0,,,,,,,,Bilgewater Brooch,,,,Uncommon,,2.0,,,,,11.0,7.0,
+7.0,,,,,,,,,,,,,,Pendant of the Gaping Chasm,,,,Uncommon,,2.0,,,,,10.0,,
+7.0,,,,,,,,,,,,,,Jack's Lucky Charm,,,,Uncommon,,2.0,,,,,10.0,,
+7.0,,,,,,5.0,,,,,,,,Purified Jaedenar Amulet,,,,Uncommon,,2.0,,,,,10.0,,
+,,,,,,7.0,,,,,,,,Gidwin's Medallion,,,,Rare,,2.0,,,,,10.0,7.0,
+,,,,,,,,,,,,,,Tellurium Necklace,,,,Uncommon,40.0,2.0,,,,,10.0,7.0,
+,,,,,,,,,,,7.0,,,Necklace of the Dark Blaze,,,,Rare,39.0,2.0,,,,,9.0,,14.0
+9.0,,,,,,,,,,,,,,Sentinel's Medallion,,,,Rare,38.0,2.0,,,,,9.0,,
+,,,,,,4.0,,,,,,6.0,,Amulet of Spilling Blood,,,,Uncommon,,2.0,,,,,9.0,,
+6.0,,,,,,,,,,,,,,Marsh Chain,,,,Uncommon,37.0,2.0,,,,,9.0,,
+,,,,,,,,,,,,,,Iridium Chain,,,,Uncommon,36.0,2.0,,,,,9.0,6.0,
+,,,,,,,,,,,,6.0,,Chain of Taerar,,,,Rare,,2.0,,,,,9.0,,
+6.0,,,,,,,,,,,,,,Chain of Emeriss,,,,Rare,,2.0,,,,,9.0,,
+,,,,,,,,,,,,6.0,,Chain of Taerar,,,,Rare,,2.0,,,,,9.0,,
+,,,,,,,,,,,,6.0,,Jet Chain,,,,Uncommon,34.0,2.0,,,,,9.0,,
+,,,,,,,,,,,,,,Andrea's Locket,,,,Uncommon,,2.0,,,,,9.0,6.0,
+8.0,,,,,,,,,,,6.0,,,Amulet of Newfound Knowledge,,,,Rare,,2.0,,,,,12.0,,
+7.0,,,,,,7.0,,,,,,,,Amulet of the Kaldorei Spirit,,,,Uncommon,,2.0,,,,,11.0,,
+7.0,,,,,,6.0,,,,,,,,Koristrasza's Amulet,,,,Rare,,2.0,,,,,10.0,,
+,,,,,,,,,,,,7.0,,Lodestone Necklace,,,,Uncommon,39.0,2.0,,,,,10.0,,
+,,,,,,13.0,,,,,,,,Splintered Obsidian Shard,,,,Rare,35.0,2.0,,,,,9.0,,7.0
+,,,,,,,,,,,4.0,6.0,,Mirage Amulet,,,,Uncommon,,2.0,,,,,9.0,,
+6.0,,,,,,,,,,,,,,Chain of Emeriss,,,,Rare,,2.0,,,,,9.0,,
+,,,,,,,,,,,,6.0,,Zen'Kiki's Thanks,,,,Uncommon,,2.0,,,,,9.0,,5.0
+6.0,,,,,,,,,,,,,,Forest Pendant,,,,Uncommon,33.0,2.0,,,,,9.0,,
+,,,,,,,,,,,16.0,,,Star of Mystaria,,,,Rare,42.0,2.0,,,,,10.0,,7.0
+,,,,,,,,,12.0,,,,,Drakefire Amulet,,,,Rare,50.0,2.0,,,,,13.0,,
+,,,,,1.0,,,,,,,,,Lei of Lilies,,,,Epic,46.0,2.0,,,,,11.0,,10.0
+,,,,,,5.0,,,,,,,,Shriveled Troll Heart,,,,Rare,44.0,2.0,,,,,11.0,5.0,
+,,,,,,16.0,,,,,11.0,,,The Dragon's Eye,,,,Rare,50.0,2.0,,,,,12.0,,
+,,,,,,,,,,,,,,Senior Sergeant's Insignia,,,,Rare,45.0,2.0,,,,,11.0,,5.0
+,,,,,,,,,,,8.0,,,Anastari Heirloom,,,,Rare,48.0,2.0,,,,,12.0,,18.0
+,,,,,,17.0,,,,,,,,Animated Chain Necklace,,,,Rare,48.0,2.0,,,,,12.0,,10.0
+11.0,,,,,,3.0,,,,,,,,Skibi's Pendant,,,,Rare,44.0,2.0,,,,,,4.0,
+11.0,,,,,,,,,,,,,,Sentinel's Medallion,,,,Rare,48.0,2.0,,,,,12.0,,
+,,,,,,,,,,,,12.0,,Horizon Choker,,,,Rare,46.0,2.0,,,,,11.0,,4.0
+,,,,,,,,,,,,,,Selenium Chain,,,,Uncommon,49.0,2.0,,,,,12.0,8.0,
+,,,,,,,,,,,,13.0,,Ruby Pendant of Fire,,,,Uncommon,42.0,2.0,,,,,,,
+,,,,,,8.0,,,,,,,,Diana's Pearl Necklace,,,,Rare,42.0,2.0,,,,,10.0,,15.0
+,,,,,,,,,,,,,,Vanadium Talisman,,,,Uncommon,45.0,2.0,,,,,11.0,7.0,
+7.0,,,,,,,,,,,,,,Arctic Pendant,,,,Uncommon,46.0,2.0,,,,,11.0,,
+,,,,,,7.0,,,,,7.0,,,Eidolon Talisman,,,,Rare,44.0,2.0,,,,,10.0,,
+11.0,,,,,,,,,,,,,,Scout's Medallion,,,,Rare,48.0,2.0,,,,,12.0,,
+,,,,,,,,,,,,,,Master Sergeant's Insignia,,,,Rare,45.0,2.0,,,,,11.0,,5.0
+,,,,,,18.0,,,,,7.0,,,Lifeblood Amulet,,,,Rare,44.0,2.0,,,,,11.0,,
+,,,,,,14.0,,,,,,,,Witch Doctor's Ritual Collar,,,,Rare,44.0,2.0,,,,,11.0,,11.0
+4.0,,,,,,,,,,,,,,Entwined Opaline Talisman,,,,Uncommon,42.0,2.0,,,,,10.0,,
+,,,,,,,,,,,,8.0,,Marble Necklace,,,,Uncommon,48.0,2.0,,,,,12.0,,
+,,,,,,,41.0,,,,,,,Opal Necklace of Impact,,,,Rare,45.0,2.0,,,,,,,
+7.0,,,,,,,,,,,,,,Desert Choker,,,,Uncommon,42.0,2.0,,,,,10.0,,
+,,,,,,,,,,,,,,Talisman of the Naga Lord,,,,Uncommon,42.0,2.0,,,,,10.0,2.0,
+,,,,,,,,,,,,6.0,,Fairy's Embrace,,,,Uncommon,42.0,2.0,,,,,10.0,,6.0
+,,,,,,,,,,,,7.0,,Darkmoon Necklace,,,,Uncommon,50.0,2.0,,,,,,,18.0
+,,,,,,,,,,,,7.0,,Onyx Choker,,,,Uncommon,43.0,2.0,,,,,11.0,,
+3.0,,,,,,,,,12.0,,,,,Talisman of Binding Shard,12.0,,,Legendary,60.0,2.0,,,,,4.0,7.0,
+,,,,,0.08333333333333333,13.0,,,,,13.0,,,Man'ari Training Amulet,,,,Heirloom,,2.0,,,,,14.0,,
+,,,,,0.03333333333333333,13.0,,,,,,9.0,,Eternal Horizon Choker,,,,Heirloom,,2.0,,,,,14.0,,
+,,,,,0.03333333333333333,,,,,,,,,Eternal Talisman of Evasion,,,,Heirloom,,2.0,,,,,14.0,9.0,13.0
+,,,,,0.03333333333333333,13.0,,,,,,,,Eternal Emberfury Talisman,,,,Heirloom,,2.0,,,,,14.0,9.0,
+9.0,,,,,0.03333333333333333,,,,,,13.0,,,Eternal Will of the Martyr,,,,Heirloom,,2.0,,,,,14.0,,
+,,,,,,,,,,,,15.0,,Choker of the Fire Lord,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,0.03333333333333333,,,,,,,9.0,,Eternal Amulet of the Redeemed,,,,Heirloom,,2.0,,,,,14.0,,13.0
+9.0,,,,,0.03333333333333333,,,,,,,,,Eternal Woven Ivy Necklace,,,,Heirloom,,2.0,,,,,14.0,,13.0
+,,,,,,,,,,,,9.0,,Choker of Enlightenment,,,,Epic,60.0,2.0,,,,,13.0,,6.0
+,,,,,,8.0,,7.0,,,,,,Eskhandar's Collar,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,10.0,,,,,,Medallion of Steadfast Might,,,,Epic,60.0,2.0,,,,,13.0,5.0,
+,,,,,,,,,,,,,,Lady Alizabeth's Pendant,,,,Rare,54.0,2.0,,,,,13.0,,13.0
+13.0,,,,,,5.0,,,,,,,,Prestor's Talisman of Connivery,,,,Epic,60.0,2.0,,,,,13.0,,
+11.0,,,,,,,,,,,,,,Amulet of the Darkmoon,,,,Epic,60.0,2.0,,,,,13.0,6.0,
+,,,,,,10.0,,,,,,,,Imperial Jewel,,,,Rare,51.0,2.0,,,,,13.0,,18.0
+7.0,,,,,,,,,7.0,,,,,Blazefury Medallion,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,12.0,,Jeweled Amulet of Cainwyn,,,,Epic,55.0,2.0,,,,,13.0,,6.0
+,,,,,,,,13.0,,,,,,Medallion of Grand Marshal Morris,,,,Rare,52.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,11.0,,Necklace of Calm Skies,,,,Rare,,2.0,,,,,17.0,,8.0
+,,,,,,,,,,,,,,Master Sergeant's Insignia,,,,Rare,58.0,2.0,,,,,13.0,,6.0
+12.0,,,,,,,,,,,,,,Sentinel's Medallion,,,,Rare,58.0,2.0,,,,,13.0,,
+,,,,,,5.0,,11.0,,,,,,Tiled-Stone Pendant,,,,Rare,,2.0,,,,,17.0,11.0,
+9.0,,,,,,,,,,,,,,Wind Dancer's Pendant,,,,Uncommon,,2.0,,,,,14.0,,
+,,,,,,7.0,,,,,,12.0,,Amulet of Vek'nilash,,,,Epic,60.0,2.0,,,,,13.0,,
+8.0,,,,,,,,,,,,,,Prismatic Pendant,,,,Uncommon,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,11.0,,Tooth of Gnarr,,,,Rare,55.0,2.0,,,,,13.0,,7.0
+,,,,Death knight,,6.0,,,,,,,,Choker of Damnation,,,,Uncommon,55.0,2.0,,,,,13.0,10.0,
+,,,,,,,,,,,11.0,12.0,,Amulet of the Tranquil Mind,,,,Rare,,2.0,,,,,17.0,,8.0
+,,,,,,,,,,,,7.0,,Angelista's Charm,,,,Epic,60.0,2.0,,,,,13.0,,9.0
+,,,,Death knight,,5.0,,,,,,,,Bladed Ebon Amulet,,,,Rare,,2.0,,,,,13.0,11.0,
+,,,,,,11.0,,,,,,,,Razor-Blade Pendant,,,,Rare,,2.0,,,,,17.0,12.0,
+,,,,,,11.0,,,,,,11.0,,Amulet of Constrained Power,,,,Rare,,2.0,,,,,17.0,,
+,,,,,,,,,,,,11.0,,Clutch of Undying Will,,,,Rare,,2.0,,,,,17.0,,9.0
+,,,,,,16.0,,,,,,11.0,,Puissance-Infused Pendant,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,8.0,,,,,,11.0,,Pendant of Revolutionary Thought,,,,Rare,,2.0,,,,,17.0,,
+8.0,8.0,,,,,8.0,,,,,,,,The Eye of Hakkar,,,,Epic,60.0,2.0,,,,,,8.0,
+,,,,,,,,14.0,,,,,,Talisman of Protection,,,,Rare,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,16.0,,Sapphire Pendant of Winter Night,,,,Uncommon,51.0,2.0,,,,,,,
+11.0,,,,,,8.0,,,,,,,,Hundred Tooth Necklace,,,,Rare,,2.0,,,,,17.0,,
+11.0,11.0,,,,,9.0,,,,,10.0,,,Chain of the Tolling Bell,,,,Rare,,2.0,,,,,17.0,11.0,
+9.0,,,,,,,,5.0,,,,,,Master Dragonslayer's Medallion,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,6.0,,Pendant of the Fallen Dragon,,,,Epic,60.0,2.0,,,,,13.0,,12.0
+,,,,,,,,,,,,,,Quicksilver Pendant,,,,Uncommon,54.0,2.0,,,,,13.0,8.0,
+,,,,,,12.0,,,,,16.0,,,Talisman of Evasion,,,,Rare,55.0,2.0,,,,,13.0,,
+,,,,,,,,3.0,,,,,,Pendant of the Shifting Sands,,,,Epic,60.0,2.0,,,,,13.0,8.0,
+,,,,,,,,,,,,8.0,,Amulet of the Shifting Sands,,,,Epic,60.0,2.0,,,,,13.0,,9.0
+8.0,,,,,,,,,,,,,,Swamp Pendant,,,,Uncommon,51.0,2.0,,,,,13.0,,
+,,,,,,11.0,,,,,,12.0,,Necklace of Fragmented Light,,,,Rare,,2.0,,,,,17.0,,
+11.0,11.0,,,,,10.0,,,,,,,,Worg-Fang Talisman,,,,Uncommon,,2.0,,,,,17.0,11.0,
+,,,,,,8.0,,,,,,11.0,,Chain of Vigilant Thought,,,,Rare,,2.0,,,,,17.0,,
+,,,,,,,,,,,,11.0,,Iceflow Collar,,,,Uncommon,,2.0,,,,,17.0,,16.0
+,,,,,,,,,,,,11.0,,Indomitable Choker of Light,,,,Rare,,2.0,,,,,17.0,,9.0
+,,,,,,,,,,,,11.0,,Runed Clamshell Choker,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,,,,,,,9.0,,Pendant of the Marsh,,,,Uncommon,,2.0,,,,,14.0,,10.0
+,,,,,,,,,,,,9.0,,Felforce Medallion,,,,Uncommon,,2.0,,,,,14.0,,
+,,,,,,,,,,,,9.0,,Crimson Pendant of Clarity,,,,Rare,,2.0,,,,,13.0,,9.0
+9.0,9.0,,,,,12.0,,,,,,,,Finely Wrought Chain,,,,Uncommon,,2.0,,,,,13.0,9.0,
+,,,,,,,,,,,,9.0,,Heartblood Prayer Beads,,,,Rare,60.0,2.0,,,,,13.0,,6.0
+,,,,,,,,,,12.0,,,,Touch of Frost,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,16.0,,Chains of the Lich,,,,Rare,55.0,2.0,,,,,,,
+8.0,8.0,,,,,7.0,,,,,,,,Barbed Choker,,,,Epic,60.0,2.0,,,,,13.0,8.0,
+8.0,8.0,,,,,,,,,,,3.0,,Dragonheart Necklace,,,,Epic,60.0,2.0,,,,,13.0,8.0,3.0
+,,,,,,,,,,,,11.0,,Orb of the Darkmoon,,,,Epic,60.0,2.0,,,,,13.0,,5.0
+,,,,,,,,,,,,12.0,,Lady Maye's Pendant,,,,Epic,59.0,2.0,,,,,13.0,,6.0
+,,,,,,,,,,,,8.0,,Granite Necklace,,,,Uncommon,57.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,,,Amulet of Shadow Shielding,,,,Epic,60.0,2.0,,,,,13.0,,4.0
+,,,,,,,,,,,,6.0,,Drake Tooth Necklace,10.0,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,,,Woven Steel Necklace,,,11.0,Rare,,2.0,,,,,17.0,12.0,
+11.0,11.0,,,,,9.0,,,,,10.0,,,Choker of Forceful Redemption,,,,Rare,,2.0,,,,,17.0,11.0,
+,,,,,,,,,,,6.0,,,Pugnacious Collar,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,,,,,,,9.0,,Preserver's Medallion,,,,Uncommon,,2.0,,,,,14.0,,12.0
+,,,,,,9.0,,,,,,,,Sedai's Necklace,,,,Uncommon,,2.0,,,,,14.0,9.0,
+,,,,,,14.0,,,,,,6.0,,Gem of Trapped Innocents,,,,Epic,60.0,2.0,,,,,14.0,,
+,,,,,,5.0,,9.0,,,,,,Mark of C'Thun,,,,Epic,60.0,2.0,,,,,13.0,,
+9.0,9.0,,,,,9.0,,,,,,,,Imbued Chain,,,,Uncommon,,2.0,,,,,13.0,9.0,
+9.0,9.0,,,,,7.0,,,,,,,,Sadist's Collar,,,,Epic,60.0,2.0,,,,,13.0,9.0,
+11.0,,,,,,7.0,,,,,,,,Pendant of Celerity,,,,Rare,55.0,2.0,,,,,13.0,,
+12.0,,,,,,,,,,,,,,Scout's Medallion,,,,Rare,58.0,2.0,,,,,13.0,,
+8.0,8.0,,,,,,,,,,,,,Choker of the Shifting Sands,,,,Epic,60.0,2.0,,,,,13.0,8.0,
+,,,,,,17.0,,,,,11.0,,,Halycon's Spiked Collar,,,,Rare,55.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,8.0,,Frostwolf Advisor's Pendant,,,,Rare,55.0,2.0,,,,,13.0,,8.0
+,,,,,,,,,,,,,,Senior Sergeant's Insignia,,,,Rare,58.0,2.0,,,,,13.0,,6.0
+8.0,,,,,,,,,,,,,,Jungle Necklace,,,,Uncommon,55.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,8.0,,Obsidian Pendant,,,,Uncommon,52.0,2.0,,,,,13.0,,
+,,,,,,,,8.0,,,,,,Verek's Collar,,,,Rare,51.0,2.0,,,,,13.0,8.0,
+,,,,,,6.0,,,,,,,,Worgtooth Pendant,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,8.0,,,,,,11.0,,Giant Turtle Collar,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,,,,,,,9.0,,Telhamat Pendant,,,,Uncommon,,2.0,,,,,14.0,,
+9.0,9.0,,,,,14.0,,,,,,,,Stormrage's Talisman of Seething,,,,Epic,60.0,2.0,,,,,14.0,9.0,
+,,,,,,,,,,,,9.0,,Amulet of the Fallen God,,,,Epic,60.0,2.0,,,,,13.0,,8.0
+9.0,,,,,,,,,,,,,,Sunstone Necklace,,,,Uncommon,59.0,2.0,,,,,13.0,,
+,,,,,,11.0,,,,,,,,Enforcer's Chain,,,,Uncommon,,2.0,,,,,13.0,9.0,
+,,,,,,,,,,,,9.0,,Pendant of Forgotten Names,,,,Epic,60.0,2.0,,,,,,,13.0
+,,,,,,,,,,,8.0,12.0,,Malice Stone Pendant,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,7.0,,,,,,Gluth's Missing Collar,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,6.0,,Amulet of the Redeemed,,,,Rare,58.0,2.0,,,,,13.0,,6.0
+,,,,,,,,,,,,14.0,,Jeklik's Opaline Talisman,,,,Rare,60.0,2.0,,,,,,,6.0
+,,,,,,8.0,,,,,,,,Emberfury Talisman,,,,Rare,55.0,2.0,,,,,13.0,8.0,
+,,,,,,,,,,,,4.0,,Necklace of Purity,10.0,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,7.0,,Wavefront Necklace,,,,Epic,60.0,2.0,,,,,13.0,,12.0
+,,,,,,,,,,,,8.0,,Charm of the Shifting Sands,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,,,,,12.0,,4.0,,Tempestria's Frozen Necklace,,,,Rare,56.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,,,Vermilion Necklace,,,,Uncommon,58.0,2.0,,,,,13.0,8.0,
+8.0,8.0,,,,,,,,,,,,,Frostwolf Legionnaire's Pendant,,,,Rare,55.0,2.0,,,,,13.0,8.0,
+8.0,8.0,,,,,,,,,,,,,Stormpike Soldier's Pendant,,,,Rare,55.0,2.0,,,,,13.0,8.0,
+,,,2.0,,,,,14.0,2.0,2.0,,,,Necklace of the Diamond Tower,2.0,,,Rare,56.0,2.0,,,,,,,
+,,,,,,,,,,,,8.0,,Stormpike Sage's Pendant,,,,Rare,55.0,2.0,,,,,13.0,,8.0
+,,,,,,,,,,,,12.0,,Jin'do's Evil Eye,,,,Epic,60.0,2.0,,,,,13.0,,4.0
+,,,,,,,,,,,,,,Fire Opal Necklace,,,,Rare,51.0,2.0,,,,,13.0,8.0,
+,,,,,,11.0,,,,,9.0,11.0,,Frostspeaker Collar,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,8.0,,,,,,,,Graven Shoveltusk Pendant,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,9.0,,,,,,,,Broken Choker,,,,Uncommon,,2.0,,,,,14.0,9.0,
+,,,,,,,,,,,,,,Hiddenite Necklace,,,,Uncommon,60.0,2.0,,,,,13.0,9.0,
+,,,,,,12.0,,,,,,9.0,,Draenethyst Chaplet,,,,Uncommon,,2.0,,,,,13.0,,
+9.0,9.0,,,,,9.0,,,,,,,,Garrote-String Necklace,,,,Rare,60.0,2.0,,,,,13.0,9.0,
+,,,,,,,,,,,,,,Fire Opal Collar,,,,Uncommon,58.0,2.0,,,,,13.0,9.0,
+,,,,,,,,,,,,9.0,,Anglesite Choker,,,,Uncommon,57.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,12.0,,Necklace of Necropsy,,,,Epic,60.0,2.0,,,,,13.0,,5.0
+8.0,8.0,,,,,,,,,,,,,Abyssal War Beads,,,,Rare,58.0,2.0,,,,,13.0,8.0,
+6.0,,,,,,,,5.0,,,,,,Pendant of the Qiraji Guardian,,,,Epic,60.0,2.0,,,,,13.0,6.0,
+8.0,8.0,,,,,,,,,,,,,Amulet of Foul Warding,11.0,,,Epic,60.0,2.0,,,,,13.0,8.0,
+,,,,,,5.0,,,,,5.0,9.0,,Soul Corrupter's Necklace,,,,Epic,60.0,2.0,,,,,13.0,,
+,,,,,,10.0,,,,,7.0,,,Fury of the Forgotten Swarm,,,,Rare,60.0,2.0,,,,,,6.0,
+,,,,,,,,,,,,13.0,,Living Emerald Pendant,,,,Rare,53.0,2.0,,,,,,,7.0
+,,,,,0.25,,,,,,,,,Blessed Medallion of Karabor,,,,Epic,,2.0,,,,,19.0,,
+10.0,,,,,,,,,,,,,,Mithril Chain of Heroism,,,,Epic,70.0,2.0,,,,,10.0,13.0,
+9.0,,,,,,8.0,,,,,,,,Worgen Claw Necklace,,,,Epic,70.0,2.0,,,,,18.0,,
+,,,,,,10.0,,,,,,,,Pendant of the Perilous,,,,Epic,70.0,2.0,,,,,10.0,13.0,
+10.0,,,,,,9.0,,,,,,,,Choker of Vile Intent,,,,Epic,70.0,2.0,,,,,18.0,,
+10.0,,,,,,,,,,,,,,Saberclaw Talisman,,,,Epic,70.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,10.0,,Shining Chain of the Afterworld,,,,Epic,70.0,2.0,,,,,17.0,,9.0
+11.0,11.0,,,,,15.0,,,,,,,,Adamantine Chain of the Unbroken,,,,Epic,70.0,2.0,,,,,16.0,11.0,
+,,,,,,,,,,,,9.0,,Teeth of Gruul,,,,Epic,70.0,2.0,,,,,14.0,,12.0
+,,,,,,,,,,,,11.0,,Necklace of Eternal Hope,,,,Epic,70.0,2.0,,,,,20.0,,5.0
+,,,,,,,,,,,,15.0,,Archaic Charm of Presence,,,,Epic,70.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,17.0,,Ritssyn's Lost Pendant,,,,Epic,70.0,2.0,,,,,11.0,,
+,,,,,,8.0,,,,,5.0,11.0,,Brooch of Heightened Potential,,,,Rare,68.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,,,Medallion of Karabor,,,,Epic,,2.0,,,,,19.0,,
+,,,,,,7.0,,,,,,10.0,,Brooch of Unquenchable Fury,,,,Epic,70.0,2.0,,,,,20.0,,
+,,,,,,10.0,,,,,,10.0,,Adornment of Stolen Souls,,,,Epic,70.0,2.0,,,,,15.0,,
+9.0,,,,,,,,11.0,,,,,,Necklace of the Juggernaut,,,,Epic,70.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,11.0,,Potent Sha'tari Pendant,,,,Rare,,2.0,,,,,16.0,,14.0
+,,,,,,,,9.0,,,,,,Thalodien's Charm,,,6.0,Rare,,2.0,,,,,16.0,,
+,,,,,,,,,,,9.0,9.0,,Guardian's Pendant of Subjugation,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,17.0,,6.0
+,,,,,,,,,,,,11.0,,Sethekk Oracle's Focus,,,,Rare,,2.0,,,,,16.0,,11.0
+8.0,,,,,,,,,,,,,,Shattered Sun Pendant of Might,,,,Epic,70.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,,Shattered Sun Pendant of Acumen,,,,Epic,70.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,15.0,,Shattered Sun Pendant of Restoration,,,,Epic,70.0,2.0,,,,,9.0,,8.0
+12.0,,,,,,,,,,,,,,Necklace of the Deep,,2.0,,Rare,65.0,2.0,Prismatic socket,Prismatic socket,,,12.0,,
+,,,,,,,,,,,,13.0,,Amulet of the Crusade,,1.0,,Rare,,2.0,Prismatic socket,,,,19.0,,10.0
+12.0,12.0,,,,,8.0,,,,,10.0,,,Hard Khorium Choker,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,15.0,12.0,
+,,,,,,,,,,,,11.0,,Karja's Medallion,,,,Rare,,2.0,,,,,16.0,,6.0
+,,,,,,6.0,,,,,8.0,,,Shattered Sun Pendant of Resolve,,,,Epic,70.0,2.0,,,,,22.0,,
+,,,,,,9.0,,,,,,13.0,,Emeline's Locket,,1.0,,Rare,,2.0,Prismatic socket,,,,19.0,,
+,,,,,1.0,19.0,,,,,13.0,,,Eye of the Night,,,,Rare,70.0,2.0,,,,,,,
+,,,,,,,,,,,9.0,10.0,,Amulet of Flowing Life,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,15.0,,9.0
+10.0,10.0,,,,,9.0,,,,,6.0,,,Natasha's Choker,,,,Rare,,2.0,,,,,15.0,10.0,
+,,,,,,,,,,,,9.0,,Vindicator's Pendant of Salvation,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,16.0,,13.0
+,,,,,,9.0,,,,,,14.0,,Hellfire-Encased Pendant,,,,Epic,70.0,2.0,,,,,12.0,,5.0
+,,,,,,,,11.0,,,,,,Steam-Hinge Chain of Valor,,,,Rare,68.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,10.0,,Charlotte's Ivy,,,,Epic,70.0,2.0,,,,,18.0,,7.0
+11.0,11.0,,,,,9.0,,,,,,,,Crystal Chalcedony Amulet,,1.0,,Uncommon,70.0,2.0,Prismatic socket,,,,10.0,11.0,
+13.0,,,,,,7.0,,,,,,,,The Severed Noose of Westwind,,1.0,,Rare,,2.0,Prismatic socket,,,,19.0,,
+,,,,,,,,,,,,11.0,,Talisman of the Breaker,,,,Epic,70.0,2.0,,,,,16.0,,
+,,,,,,,,,14.0,,,,,Amulet of the Torn-Heart,,,,Rare,,2.0,,,,,18.0,,
+11.0,11.0,,,,,10.0,,,,,,,,Choker of Animalistic Fury,,,,Epic,70.0,2.0,,,,,10.0,11.0,
+,,,,,,,,16.0,,,,,,Strength of the Untamed,,,,Rare,70.0,2.0,,,,,15.0,,
+,,,,,,,,10.0,,,,,,Mark of the Ravenguard,,,,Rare,,2.0,,,,,16.0,,
+,,,,,,,,11.0,,,,,,Medallion of the Valiant Guardian,,,,Rare,,2.0,,,,,16.0,11.0,
+,,,,,,,,7.0,,,,,,Natasha's Battle Chain,,,6.0,Rare,,2.0,,,,,15.0,,
+12.0,,,,,,,,,,,,,,Pendant of Cunning,,,,Rare,62.0,2.0,,,,,18.0,,
+,,,,,,,,,,,9.0,13.0,,Choker of Betrayal,,1.0,,Rare,,2.0,Prismatic socket,,,,19.0,,
+,,,,,,10.0,,9.0,,,,,,Collar of the Pit Lord,,,,Epic,70.0,2.0,,,,,22.0,,
+12.0,12.0,,,,,9.0,,,,,,,,Guardian's Pendant of Triumph,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,14.0,12.0,6.0
+,,,,,,,,,,,,12.0,,Hoarder's Necklace,,,,Uncommon,,2.0,,,,,17.0,,11.0
+,,,,,,7.0,,,,,,14.0,,Nadina's Pendant of Purity,,,,Epic,70.0,2.0,,,,,11.0,,8.0
+,,,,,,,,,,,,11.0,,Necklace of Resplendent Hope,,,,Rare,70.0,2.0,,,,,16.0,,13.0
+11.0,,,,,,7.0,,,,,,,,Bone Chain Necklace,,,,Rare,70.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,10.0,,Diamond Prism of Recurrence,,,,Rare,66.0,2.0,,,,,15.0,,12.0
+,,,,,,9.0,,,,,,,,Natasha's Pack Collar,,,,Rare,,2.0,,,,,15.0,10.0,
+,,,,,,,,,,,,10.0,,Ogre Slayer's Pendant,,,,Rare,,2.0,,,,,15.0,,
+,,,,,,14.0,,,,,,9.0,,Amulet of Unstable Power,,,,Rare,63.0,2.0,,,,,,,
+13.0,13.0,,,,,9.0,,,,,,,,Choker of the Betrayer,,1.0,,Rare,,2.0,Prismatic socket,,,,19.0,13.0,
+11.0,11.0,,,,,8.0,,,,,,,,Veteran's Pendant of Triumph,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,13.0,11.0,8.0
+,,,,,,,,,,,,11.0,,A'dal's Recovery Necklace,,,,Rare,,2.0,,,,,16.0,,14.0
+12.0,12.0,,,,,12.0,,,,,10.0,,,Spiked Collar of Servitude,,,,Rare,,2.0,,,,,18.0,12.0,
+11.0,,,,,,,,,,,,,,Telonicus' Pendant of Mayhem,,,,Epic,,2.0,,,,,17.0,,
+,,,,,,,,,,,14.0,14.0,,Brooch of Nature's Mercy,,,,Epic,70.0,2.0,,,,,15.0,,8.0
+,,,,,,,,,,,,11.0,,Painted Wooden Beads,,,,Uncommon,67.0,2.0,,,,,16.0,,
+,,,,,,,,11.0,,,,,,Maimfist's Choker,,,,Rare,,2.0,,,,,16.0,11.0,
+10.0,10.0,,,,,6.0,,,,,,,,Chain of Glowing Tendrils,,,,Rare,,2.0,,,,,15.0,10.0,
+10.0,,,,,,8.0,,,,,,,,Earthen Mark of Razing,,,,Rare,,2.0,,,,,15.0,,
+,,,,,,,,,,,,9.0,,Sigil of Shaffar,,,,Rare,64.0,2.0,,,,,14.0,,
+,,,,,,,,12.0,,,,,,Reinforced Titanium Neckguard,,1.0,,Rare,,2.0,Prismatic socket,,,,19.0,13.0,
+,,,,,,,,,,,9.0,11.0,,Ritual Neckguard,,,,Uncommon,,2.0,,,,,17.0,,
+11.0,11.0,,,,,10.0,,,,,8.0,,,Choker of Endless Nightmares,,,,Epic,70.0,2.0,,,,,,11.0,
+,,,,,,,,15.0,,,,,,The Darkener's Grasp,,,6.0,Epic,,2.0,,,,,17.0,,
+,,,,,,,,,,,,11.0,,Lord Sanguinar's Claim,,,,Epic,,2.0,,,,,17.0,,7.0
+,,,,,,,,,,,,11.0,,Omor's Unyielding Will,,,,Rare,70.0,2.0,,,,,16.0,,
+11.0,,,,,,,,,,,,,,Tanzanite Pendant,,,,Uncommon,70.0,2.0,,,,,16.0,,
+,,,,,,9.0,,,,,9.0,,,Brooch of Deftness,,,,Epic,70.0,2.0,,,,,20.0,,
+,,,,,,,,,,,,,,Tarren Mill Vitality Locket,,,,Rare,70.0,2.0,,,,,16.0,,14.0
+11.0,11.0,,,,,,,,,,,,,Shattrath Choker of Power,,,,Rare,,2.0,,,,,16.0,11.0,14.0
+,,,17.0,,1.0,,,,,,,,,Pendant of the Null Rune,,,,Rare,70.0,2.0,,,,,10.0,,
+,,,,,1.0,,,,,,,9.0,,Living Ruby Pendant,,,,Rare,70.0,2.0,,,,,20.0,,9.0
+10.0,10.0,,,,,9.0,,,,,8.0,,,Insignia of the Mag'hari Hero,,,,Rare,,2.0,,,,,12.0,10.0,
+,,,,,,,,,,,,9.0,,Multi-Colored Beads,,,,Uncommon,62.0,2.0,,,,,14.0,,
+,,,,,,,,,,,,9.0,,Necklace of Bloodied Feathers,,,,Rare,,2.0,,,,,14.0,,
+,,,,,,7.0,,,,,,9.0,,Luminous Pearls of Insight,,,,Rare,63.0,2.0,,,,,14.0,,
+9.0,9.0,,,,,8.0,,,,,,,,Pendant of Battle-Lust,,,,Rare,61.0,2.0,,,,,13.0,9.0,
+,,,,,,7.0,,6.0,,,,,,Betrayer's Choker,,1.0,,Rare,,2.0,Prismatic socket,,,,19.0,13.0,
+,,,,,,,,11.0,,,,,,Blood-Infused Pendant,,,,Rare,,2.0,,,,,18.0,12.0,
+9.0,,,,,,,,,,,11.0,,,Clutch of Demise,,,,Epic,70.0,2.0,,,,,22.0,,
+11.0,11.0,,,,,11.0,,,,,,,,Sin'dorei Pendant of Triumph,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,7.0,11.0,7.0
+,,,,,,,,,,,9.0,9.0,,Vindicator's Pendant of Reprieve,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,13.0,,7.0
+,,,,,,10.0,,,,,,11.0,,The Sun King's Talisman,,,,Epic,,2.0,,,,,17.0,,
+,,,,,,,,,,,,9.0,,Crystal Citrine Necklace,,1.0,,Uncommon,70.0,2.0,Prismatic socket,,,,15.0,,9.0
+,,,,,,,,,,,,11.0,,Choker of Fluid Thought,,,,Rare,70.0,2.0,,,,,16.0,,10.0
+,,,,,,12.0,,,,,,11.0,,Torc of the Sethekk Prophet,,,,Rare,,2.0,,,,,16.0,,
+,,,,,,,,,,,11.0,11.0,,Loop of Cursed Bones,,,,Epic,70.0,2.0,,,,,15.0,,
+,,,,,,,,,,,,11.0,,Swampstone Necklace,,,,Rare,70.0,2.0,,,,,16.0,,10.0
+,,,,,,,,,,,,11.0,,Ethereum Torque,,,,Rare,70.0,2.0,,,,,16.0,,
+,,,,,1.0,,,,17.0,,,,,Pendant of Frozen Flame,,,,Rare,70.0,2.0,,,,,10.0,,
+,,,,,1.0,,,,,17.0,,,,Pendant of Thawing,,,,Rare,70.0,2.0,,,,,10.0,,
+10.0,,,,,,,,,,,,,,Pink Sapphire Necklace,,,,Uncommon,65.0,2.0,,,,,15.0,,
+,,,,,,,,,,,,10.0,,Natasha's Guardian Cord,,,,Rare,,2.0,,,,,15.0,,9.0
+,,,,,,,,,,,,,,Amethyst Pendant,,,,Uncommon,63.0,2.0,,,,,14.0,9.0,
+9.0,,,,,,,,,,,,,,Gronn-Blessed Warbeads,,,,Rare,64.0,2.0,,,,,14.0,,
+,,,,,,,,,,,,9.0,,Lunatic's Choker,,,,Uncommon,,2.0,,,,,14.0,,7.0
+9.0,,,,,,,,,,,,,,Choker of Bloodied Feathers,,,,Rare,,2.0,,,,,14.0,,
+,,,,,,,,,,,,9.0,,Guardian's Pendant of Salvation,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,18.0,,12.0
+,,,,,,11.0,,,,,5.0,12.0,,Amulet of Unfettered Magics,,,,Epic,70.0,2.0,,,,,13.0,,
+,,,,,,,,,,,,11.0,,Baleen Braided Collar,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,,,,,,,11.0,,Sin'dorei Pendant of Salvation,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,13.0,,15.0
+,,,,,,,,,,,16.0,,,Pendant of Titans,,,,Epic,70.0,2.0,,,,,17.0,,21.0
+11.0,,,,,,,,,,,,,,Jagged Bark Pendant,,,,Rare,70.0,2.0,,,,,16.0,,
+,,,,,1.0,,,10.0,,,,10.0,,Chain of the Twilight Owl,,,,Rare,70.0,2.0,,,,,17.0,,
+,,,,,,8.0,,10.0,,,,,,Frayed Tether of the Drowned,,,,Epic,70.0,2.0,,,,,19.0,,
+,,,,,,,,13.0,,,,,,Barbed Choker of Discipline,,,,Epic,70.0,2.0,,,,,18.0,,
+,,,,,,,,,,,,,,Silver Rope Chain,,,,Uncommon,68.0,2.0,,,,,16.0,11.0,
+,,,,,,,,,,,,15.0,,Gezzarak's Fang,,,,Rare,70.0,2.0,,,,,13.0,,6.0
+11.0,11.0,,,,,12.0,,,,,,,,Talon Lord's Collar,,,,Rare,,2.0,,,,,16.0,11.0,
+,,,,,,9.0,,,,,,11.0,,Hydra-Fang Necklace,,,,Rare,70.0,2.0,,,,,16.0,,
+,,,,,,9.0,,12.0,,,,,,Enchanted Thorium Torque,,,,Rare,70.0,2.0,,,,,16.0,,
+,,,,,1.0,,,,,,,,,Pendant of Withering,17.0,,,Rare,70.0,2.0,,,,,10.0,,
+,,,,,1.0,,,,,,,,,Pendant of Shadow's End,,,,Rare,70.0,2.0,,,,,10.0,,
+,,,,,,,,,,,,11.0,,Kunzite Necklace,,,,Uncommon,67.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,11.0,,Amulet of Glacial Tranquility,,,,Epic,70.0,2.0,,,,,16.0,,5.0
+,,,,,,,,14.0,,,,,,Strength of the Violet Tower,,,,Uncommon,,2.0,,,,,16.0,11.0,
+,,,,,,,,,,,,11.0,,Diopside Beads,,,,Uncommon,66.0,2.0,,,,,16.0,,
+9.0,,,,,,8.0,,,,,,,,Necklace of Trophies,,,,Rare,67.0,2.0,,,,,,13.0,
+12.0,,,,,,,,,,,,,,Haramad's Bargain,,,,Epic,70.0,2.0,,,,,,13.0,
+,,,,,,,,,,,,14.0,,Medallion of the Lightbearer,,,,Epic,70.0,2.0,,,,,9.0,,8.0
+,,,,,1.0,12.0,47.0,,,,,,,Braided Eternium Chain,,,,Rare,70.0,2.0,,,,,,,
+,,,,,,10.0,,,,,,,,Choker of Repentance,,,,Epic,70.0,2.0,,,,,12.0,12.0,
+,,,,,,,,,,,,,,Talisman of Tenacity,,,,Rare,63.0,2.0,,,,,14.0,,12.0
+,,,,,,,,12.0,,,,,,Chain of the Sovereign,,,,Uncommon,,2.0,,,,,19.0,13.0,
+,,,,,,12.0,,,,,,13.0,,Amulet of the Malefic Necromancer,,1.0,,Uncommon,,2.0,Prismatic socket,,,,19.0,,
+12.0,12.0,,,,,11.0,,,,,,,,Neckcharm of the Bloodletter,,,,Uncommon,,2.0,,,,,18.0,12.0,
+,,,,,,,,,,,7.0,11.0,,Brooch of the Highborne,,,,Epic,70.0,2.0,,,,,18.0,,8.0
+,,,,,,,,,,,9.0,9.0,,Guardian's Pendant of Reprieve,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,14.0,,6.0
+,,,,,,8.0,,13.0,,,,,,Pendant of Titans,,,,Epic,70.0,2.0,,,,,16.0,,
+11.0,11.0,,,,,10.0,,,,,,,,Choker of Serrated Blades,,,,Epic,70.0,2.0,,,,,14.0,11.0,
+,,,,,,8.0,,,,,,8.0,,Vindicator's Pendant of Conquest,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,15.0,,7.0
+,,,,,,21.0,,,,,16.0,,,Choker of Endless Nightmares,,,,Epic,70.0,2.0,,,,,17.0,,
+,,,,,,,,,,,,10.0,,Vindicator's Pendant of Dominance,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,19.0,,7.0
+11.0,11.0,,,,,8.0,,,,,,,,Vindicator's Pendant of Triumph,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,13.0,11.0,7.0
+,,,,,,21.0,,,,,,,,Nadina's Pendant of Purity,,,,Epic,70.0,2.0,,,,,17.0,,16.0
+,,,,,1.0,,,,,,,11.0,,Embrace of the Dawn,,,,Rare,70.0,2.0,,,,,15.0,,10.0
+,,,,,,,,14.0,,,,,,Maladaar's Blessed Chaplet,,,,Rare,70.0,2.0,,,,,16.0,,
+,,,,,,8.0,,,,,,8.0,,Veteran's Pendant of Conquest,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,14.0,,8.0
+,,,,,,11.0,,,,,,,,Soldier's Dog Tags,,,,Rare,70.0,2.0,,,,,16.0,11.0,
+11.0,11.0,,,,,10.0,,,,,7.0,,,Traitor's Noose,,,,Rare,70.0,2.0,,,,,16.0,11.0,
+11.0,11.0,,,,,,,,,,10.0,,,The Savage's Choker,,,,Epic,70.0,2.0,,,,,15.0,11.0,
+,,,,,,,,,,,,13.0,,Pendant of the Lost Ages,,,,Epic,70.0,2.0,,,,,16.0,,
+11.0,11.0,,,,,10.0,,,,,,,,Blood Guard's Necklace of Ferocity,,,,Rare,70.0,2.0,,,,,16.0,11.0,
+,,,,,,11.0,,,,,,10.0,,Winterfall's Frozen Necklace,,,,Rare,69.0,2.0,,,,,10.0,,7.0
+,,,,,1.0,,,,,,,,,Thick Felsteel Necklace,,,,Rare,70.0,2.0,,,,,21.0,,13.0
+11.0,,,,,,,,,,,,,,Grom'tor's Pendant of Conquest,,,,Uncommon,,2.0,,,,,16.0,,
+,,,,,,,,,,,,12.0,,Choker of the Arctic Flow,,,,Epic,70.0,2.0,,,,,16.0,,
+,,,,,,9.0,,11.0,,,,,,Hailstone Pendant,,,,Epic,70.0,2.0,,,,,16.0,,
+11.0,,,,,,,,,,,,,,Expedition Pendant,,,,Uncommon,,2.0,,,,,16.0,,
+,,,,,,14.0,,,,,,10.0,,Earthen Mark of Power,,,,Rare,,2.0,,,,,15.0,,
+,,,,,,,,,,,,9.0,,Ethereal Healing Pendant,,,,Uncommon,,2.0,,,,,14.0,,8.0
+,,,,,,,,,,,,13.0,,Locket of Snowcrest,,,,Uncommon,,2.0,,,,,19.0,,12.0
+,,,,,,,,,,,10.0,12.0,,Artruis' Focus Stone,,,,Rare,,2.0,,,,,18.0,,
+,,,,,,10.0,,,,,,12.0,,Choker of Binding,,,,Rare,,2.0,,,,,18.0,,10.0
+,,,,,,9.0,,,,,9.0,10.0,,Pendant of Sunfire,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,15.0,,
+,,,,,,11.0,,,,,,12.0,,Neckcharm of Mighty Mojo,,,,Uncommon,,2.0,,,,,18.0,,
+,,,,,,,,,,,,11.0,,Guardian's Pendant of Dominance,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,20.0,,6.0
+,,,,,,14.0,,,,,,12.0,,Tatjana's Pendant,,,,Uncommon,,2.0,,,,,17.0,,
+12.0,12.0,,,,,11.0,,,,,,,,Pruning Pendant,,,,Uncommon,,2.0,,,,,17.0,12.0,
+11.0,11.0,,,,,7.0,,,,,,,,Scourge Ghoul Collar,,,,Uncommon,,2.0,,,,,17.0,11.0,
+,,,,,,9.0,,,,,6.0,15.0,,Translucent Spellthread Necklace,,,,Epic,70.0,2.0,,,,,,,
+,,,,,,7.0,,,,,,11.0,,Sin'dorei Pendant of Conquest,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,17.0,,7.0
+,,,,,,,,,,,,11.0,,Gold Mesh Collar,,,,Uncommon,70.0,2.0,,,,,17.0,,
+,,,,,,20.0,,,,,17.0,,,Translucent Spellthread Necklace,,,,Epic,70.0,2.0,,,,,17.0,,
+,,,,,,,,,,,8.0,8.0,,Vindicator's Pendant of Subjugation,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,15.0,,7.0
+11.0,,,,,,,,,,,,,,Snake Entwined Necklace,,,,Uncommon,69.0,2.0,,,,,17.0,,
+,,,,,,8.0,,,,,,11.0,,Choker of the Northern Wind,,,,Uncommon,,2.0,,,,,17.0,,
+,,,,,,,,,,,,8.0,,Veteran's Pendant of Salvation,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,15.0,,13.0
+,,,,,,,,,,,,14.0,,Emberspur Talisman,,,,Epic,70.0,2.0,,,,,,,13.0
+,,,,,,7.0,,,,,,,,Skeletal Necklace of Battlerage,,,,Rare,70.0,2.0,,,,,16.0,11.0,
+,,,,,,9.0,,,,,,11.0,,Warp Engineer's Prismatic Chain,,,,Rare,68.0,2.0,,,,,16.0,,
+,,,,,,,,,,,,9.0,,Veteran's Pendant of Dominance,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,17.0,,8.0
+11.0,,,,,,,,,,,,,,Epidote Stone Necklace,,,,Uncommon,68.0,2.0,,,,,16.0,,
+11.0,11.0,,,,,5.0,,,,,,,,Pendant of Triumph,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,13.0,11.0,8.0
+,,,,,,,,,,,,10.0,,Pendant of Dominance,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,18.0,,8.0
+,,,,,,,,,,,,12.0,,Manasurge Pendant,,,,Epic,70.0,2.0,,,,,21.0,,
+10.0,,,,,,9.0,,,,,,,,Amulet of Bitter Hatred,,,,Epic,70.0,2.0,,,,,16.0,,
+,,,,,,8.0,,,,,,11.0,,Pendant of the Battle-Mage,,,,Uncommon,,2.0,,,,,16.0,,
+,,,,,,,,,,,,11.0,,Wheeler Family Heirloom,,,,Uncommon,,2.0,,,,,16.0,,7.0
+,,,,,,6.0,,,,,,10.0,,Natasha's Ember Necklace,,,,Rare,,2.0,,,,,15.0,,
+,,,,,,,,,,,,10.0,,Natasha's Arcane Filament,,,,Rare,,2.0,,,,,15.0,,
+,,,,,,11.0,,,,,,10.0,,Dragonbone Talisman,,,,Uncommon,,2.0,,,,,15.0,,5.0
+,,,,,,,,,,,,10.0,,Earthen Mark of Health,,,,Rare,,2.0,,,,,15.0,,13.0
+,,,,,,,,,,,,5.0,,Amulet of Sanctification,,,,Rare,64.0,2.0,,,,,12.0,,13.0
+13.0,13.0,,,,,18.0,,,,,,,,Bouldercrag's Pendant,,,,Uncommon,,2.0,,,,,19.0,13.0,
+,,,,,,,,,,,,12.0,,Rescuer's Ripcord,,,,Uncommon,,2.0,,,,,18.0,,11.0
+,,,,,,9.0,,,,,,9.0,,Guardian's Pendant of Conquest,,1.0,,Epic,70.0,2.0,Prismatic socket,,,,17.0,,6.0
+12.0,12.0,,,,,10.0,,,,,,,,Vengeful Spirit Beads,,,,Uncommon,,2.0,,,,,17.0,12.0,
+11.0,11.0,,,,,16.0,,,,,6.0,,,Wyrm-Slave Collar,,,,Uncommon,,2.0,,,,,17.0,11.0,
+,,,,,,,,,,,,,,Coral Beads,,,,Uncommon,69.0,2.0,,,,,16.0,11.0,
+,,,,,,,,,,,,10.0,,Turquoise Brooch,,,,Uncommon,64.0,2.0,,,,,15.0,,
+,,,,,,,,,,,,,,Zircon Amulet,,,,Uncommon,61.0,2.0,,,,,14.0,9.0,
+,,,,,,,,,,,,,,Thick Adamantite Necklace,,,,Uncommon,66.0,2.0,,,,,34.0,,
+,,,,,,,,,,,,13.0,,Time-Forward Talisman,,,,Rare,76.0,2.0,,,,,20.0,,
+13.0,,,,,,9.0,,,2.0,,6.0,,,Sparkling Onyxia Tooth Pendant,,,,Epic,,2.0,,,,,20.0,,
+,,,,,,9.0,,,,,6.0,,,Penumbra Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+13.0,,,,,,10.0,,,,,4.0,,,Wodin's Lucky Necklace,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,,
+,,,,,,6.0,,,,,8.0,10.0,,Blood Queen's Crimson Choker,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,6.0,,,,,8.0,10.0,,Blood Queen's Crimson Choker,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,9.0,,,,,6.0,,,Penumbra Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+13.0,,,,,,9.0,,,,,6.0,,,Favor of the Dragon Queen,,1.0,,Epic,,2.0,Prismatic socket,,,,20.0,,
+13.0,,,,,,,,,,,13.0,,,Necklace of the Chrono-Lord,,,,Rare,78.0,2.0,,,,,20.0,,
+,,,,,,7.0,,10.0,,,,,,Noose of Malachite,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,10.0,
+,,,,,,,,9.0,,,,,,Titanium Earthguard Chain,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,17.0,13.0,3.0
+,,,,,,9.0,,,,,9.0,,,The Executioner's Vice,,,,Epic,80.0,2.0,,,,,20.0,13.0,
+,,,,,,8.0,,,,,9.0,,,Spiked Battleguard Choker,,,,Epic,80.0,2.0,,,,,19.0,14.0,
+13.0,,,,,,9.0,,,,,6.0,,,Sindragosa's Cruel Claw,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,,
+,,,,,,6.0,,10.0,,,,,,Boundless Ambition,,,,Epic,80.0,2.0,,,,,20.0,10.0,20.0
+,,,,,,9.0,,,,,6.0,,,Ahn'kahar Onyx Neckguard,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+,,,,,,9.0,,,,,5.0,,,Lana'thel's Chain of Flagellation,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+9.0,,,,,,6.0,,,,,10.0,,,Collar of Dissolution,,,,Epic,80.0,2.0,,,,,21.0,,
+,,,,,,,,9.0,,,,,,Torta's Oversized Choker,,,,Rare,78.0,2.0,,,,,18.0,12.0,3.0
+,,,,,,7.0,,,,,9.0,13.0,,Wyrmrest Necklace of Power,,1.0,,Epic,,2.0,Prismatic socket,,,,20.0,,
+,,,,,,9.0,,,,,8.0,11.0,,Raine's Choker of Combustion,,,,Rare,76.0,2.0,,,,,17.0,,
+,,,,,,11.0,,,,,,11.0,,Titanium Spellshock Necklace,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+13.0,,,,,,8.0,,,,,9.0,,,Barbed Ymirheim Choker,,,,Epic,80.0,2.0,,,,,20.0,,
+,,,,,,7.0,,13.0,,,,,,Heritage,,,,Epic,80.0,2.0,,,,,20.0,10.0,
+,,,,,,11.0,,,,,,10.0,,Mark of the Spider,,,,Rare,72.0,2.0,,,,,19.0,,
+13.0,,,,,,,,,,,,,,Loque'Nahak's Severed Fang,,,,Rare,74.0,2.0,,,,,20.0,,
+12.0,,,,,,10.0,,,,,,,,Pendant of the Outcast Hero,,,,Epic,80.0,2.0,,,,,25.0,,
+,,,,,,6.0,,,,,9.0,10.0,,Amulet of the Silent Eulogy,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+13.0,,,,,,6.0,,,,,9.0,,,Rimetooth Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,14.0,,
+,,,,,,9.0,,13.0,,,,,,Shard of the Crystal Forest,,,,Epic,80.0,2.0,,,,,20.0,9.0,
+,,,,,,8.0,,,,,,8.0,,Symbol of Redemption,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,18.0,,8.0
+,,,,,,,,10.0,,,,,,Fossilized Ammonite Choker,,,7.0,Epic,80.0,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,,13.0,,Amulet of Dazzling Light,,,,Rare,80.0,2.0,,,,,20.0,,11.0
+,,,,,,9.0,,,,,5.0,10.0,,Soulcleave Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+9.0,,,,,,11.0,,,,,,,,Titanium Impact Choker,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,23.0,,
+,,,,,,9.0,,,,,6.0,10.0,,Pendant of Split Veins,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,7.0,,,,,,13.0,,Life-Binder's Locket,,1.0,,Epic,,2.0,Prismatic socket,,,,20.0,,8.0
+13.0,,,,,,6.0,,,,,9.0,,,Rimetooth Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,14.0,,
+,,,,,,7.0,,,,,8.0,11.0,,Brilliant Hailstone Amulet,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,17.0,,
+,,,,,,6.0,,,,,9.0,10.0,,Amulet of the Silent Eulogy,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,13.0,,,,,,,,Gold Amulet of Kings,,,,Rare,80.0,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,,,,Amulet of Deflected Blows,,,13.0,Rare,78.0,2.0,,,,,20.0,13.0,
+,,,,,,7.0,,,,,,11.0,,Volitant Amulet,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,8.0
+13.0,,,,,,9.0,,,,,6.0,,,Sindragosa's Cruel Claw,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,,
+,,,,,,6.0,,13.0,,,,,,Chained Military Gorget,,,,Epic,80.0,2.0,,,,,20.0,11.0,
+,,,,,,,,,,,6.0,10.0,,Bone Sentinel's Amulet,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,9.0
+,,,,,,9.0,,,,,5.0,,,Lana'thel's Chain of Flagellation,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+13.0,13.0,,,,,9.0,,,,,,,,Hateful Gladiator's Pendant of Triumph,,,,Epic,80.0,2.0,,,,,19.0,13.0,9.0
+,,,,,,,,,,,7.0,12.0,,Charm of Meticulous Timing,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,9.0
+,,,,,,7.0,,13.0,,,,,,Eskhandar's Choker,,,,Epic,80.0,2.0,,,,,20.0,10.0,
+,,,,,,,,9.0,,,,,,Burning Skull Pendant,,,9.0,Rare,80.0,2.0,,,,,19.0,13.0,
+,,,,,,9.0,,,,,,13.0,,Relentless Gladiator's Pendant of Dominance,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,,,,,,,13.0,,Necromancer's Amulet,,,,Rare,80.0,2.0,,,,,20.0,,13.0
+,,,,,,8.0,,,,,,12.0,,Pendant of the Somber Witness,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,8.0
+,,,,,,,,9.0,,,,,,Amulet of Wills,,,,Rare,77.0,2.0,,,,,20.0,13.0,3.0
+,,,,,,,,7.0,,,,,,Marrowgar's Scratching Choker,,1.0,7.0,Epic,80.0,2.0,Prismatic socket,,,,15.0,13.0,
+,,,,,,9.0,,,,,,13.0,,Frozen Tear of Elune,,,,Epic,80.0,2.0,,,,,20.0,,9.0
+,,,,,,,,7.0,,,,,,Marrowgar's Scratching Choker,,1.0,7.0,Epic,80.0,2.0,Prismatic socket,,,,15.0,13.0,
+13.0,,,,,,9.0,,,,,3.0,,,Baltharus' Gift,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,,,,,,,14.0,,Alicite Pendant,,,,Rare,79.0,2.0,,,,,21.0,,
+,,,,,,7.0,,10.0,,,,,,Necklace of the Furious Standard,,,,Uncommon,,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,5.0,,,Infected Choker,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+,,,,,,,,,,,8.0,13.0,,Watchful Eye of Fate,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,16.0,,8.0
+,,,,,,,,,,,9.0,10.0,,Choker of Filthy Diamonds,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,6.0
+,,,,,,,,,,,7.0,13.0,,Love's Prisoner,,,,Epic,80.0,2.0,,,,,20.0,,10.0
+7.0,,,,,,10.0,,,,,9.0,,,Gem of Imprisoned Vassals,,,,Epic,80.0,2.0,,,,,24.0,,
+,,,,,,,,6.0,,,,,,Nexus War Champion Beads,,1.0,10.0,Epic,,2.0,Prismatic socket,,,,20.0,13.0,
+,,,,,,,,,,,,13.0,,Chaotic Spiral Amulet,,,,Rare,78.0,2.0,,,,,20.0,,13.0
+,,,,,,9.0,,,,,8.0,12.0,,Circle of Arcane Streams,,,,Epic,80.0,2.0,,,,,21.0,,
+12.0,,,,,,9.0,,,,,8.0,,,Pendulum of Infinity,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,9.0,,,,,6.0,,,Ahn'kahar Onyx Neckguard,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+,,,,,,9.0,,,,,6.0,13.0,,Pendant of the Shallow Grave,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,17.0,,
+10.0,,,,,,9.0,,,,,5.0,,,Precious' Putrid Collar,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,,,,,,7.0,13.0,,Chains of Adoration,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,11.0,,,,,9.0,15.0,,Congealed Mist Amulet,,,,Rare,80.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,8.0,Yoke of Niuzao,,,,Rare,80.0,2.0,,,,,23.0,15.0,11.0
+,,,,,,,,,,,,,,Alicite Pendant,,,,Uncommon,80.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,,13.0,,Lattice Choker of Light,,,,Epic,80.0,2.0,,,,,19.0,,8.0
+,,,,,,,,,,,9.0,10.0,,Choker of Filthy Diamonds,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,6.0
+,,,,,,,,,,,9.0,13.0,,Pendant of Lost Vocations,,,,Epic,80.0,2.0,,,,,18.0,,8.0
+,,,,,,,,10.0,,,,,,Amulet of Autopsy,,,,Epic,80.0,2.0,,,,,20.0,13.0,3.0
+,,,,,,9.0,,,,,,10.0,,Pendant of Burning Spirits,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,6.0
+,,,,,,13.0,,,,,,13.0,,Amulet of the Spell Flinger,,,,Rare,80.0,2.0,,,,,20.0,,
+13.0,,,,,,8.0,,,,,10.0,,,Brooch of the Wailing Night,,,,Epic,80.0,2.0,,,,,21.0,,
+13.0,,,,,,8.0,,,,,9.0,,,Nymph Heart Charm,,,,Epic,80.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,8.0,13.0,,Coil of Missing Gems,,,,Epic,80.0,2.0,,,,,20.0,,
+,,,,,,9.0,,,,,5.0,10.0,,Soulcleave Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,,,7.0,,,,,,The Warlord's Depravity,,,8.0,Epic,80.0,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,6.0,10.0,,Bone Sentinel's Amulet,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,9.0
+,,,,,,9.0,,,,,,14.0,,Necklace of the Glittering Chamber,,,,Epic,80.0,2.0,,,,,18.0,,9.0
+,,,,,,,,,,,8.0,13.0,,Blood Sun Necklace,,1.0,,Rare,75.0,2.0,Prismatic socket,,,,,,12.0
+,,,,,,,,,,,6.0,12.0,,Sapphire Amulet of Renewal,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,,9.0
+,,,,,,8.0,,,,,10.0,,,Spiked Battleguard Choker,,,,Rare,80.0,2.0,,,,,20.0,13.0,
+,,,,,,,,7.0,,,,,,Bile-Encrusted Medallion,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,13.0,3.0
+,,,,,,9.0,,,,,7.0,13.0,,Encircling Burnished Gold Chains,,,,Epic,80.0,2.0,,,,,21.0,,
+,,,,,,11.0,,,,,,,9.0,Razor-Sharp Chitin Choker,,,,Rare,80.0,2.0,,,,,23.0,15.0,
+13.0,,,,,,,,,,,,,,Mirkfallon Amulet,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,9.0,,,,,,13.0,,Hyjal Savior's Pendant,,,,Rare,,2.0,,,,,20.0,,8.0
+,,,,,,9.0,,,,,9.0,,,Choker of Lo'Gosh,,,,Uncommon,,2.0,,,,,20.0,13.0,
+,,,,,,13.0,,,,,,13.0,,Necklace of Taldaram,,,,Rare,80.0,2.0,,,,,20.0,,
+,,,,,,,,13.0,,,,,,Shadowseeker's Pendant,,,,Rare,80.0,2.0,,,,,20.0,13.0,
+,,,,,,7.0,,10.0,,,,,,Noose of Malachite,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,10.0,
+,,,,,,10.0,,,,,7.0,13.0,,Wail of the Val'kyr,,,,Epic,80.0,2.0,,,,,19.0,,
+10.0,,,,,,9.0,,,,,5.0,,,Precious' Putrid Collar,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,9.0,,,,,,13.0,,Winking Eye of Love,,,,Epic,80.0,2.0,,,,,20.0,,9.0
+,,,,Priest,,9.0,,,,,,13.0,9.0,Seraphic Medallion,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,9.0,13.0,,Evoker's Charm,,,,Epic,80.0,2.0,,,,,20.0,,9.0
+,,,,,,9.0,,,,,9.0,13.0,,Chain of Latent Energies,,,,Epic,80.0,2.0,,,,,18.0,,
+13.0,,,,,,9.0,,,,,8.0,,,Collar of Ceaseless Torment,,,,Epic,80.0,2.0,,,,,19.0,,
+,,,,,,9.0,,,,,,13.0,,Amulet of Binding Elements,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+13.0,,,,,,13.0,,,,,,,,Necklace of Arcane Spheres,,,,Rare,80.0,2.0,,,,,20.0,,
+,,,,,,7.0,,,,,9.0,13.0,,Chain of the Ancient Wyrm,,1.0,,Epic,,2.0,Prismatic socket,,,,20.0,,
+13.0,13.0,,,,,9.0,,,,,,,,Wrathful Gladiator's Pendant of Triumph,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,,,,,,,13.0,,Dragon Prow Amulet,,,,Rare,80.0,2.0,,,,,18.0,,13.0
+,,,,,,,,,,,,,,Necklace of Unerring Mettle,,,,Epic,80.0,2.0,,,,,20.0,13.0,11.0
+,,,,,,6.0,,11.0,,,,,,Fortitude of the Infernal,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,6.0,
+,,,,,,6.0,,,,,,10.0,,Holiday's Grace,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,9.0
+,,,,,,9.0,,,,,5.0,,,Collar of Haughty Disdain,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+,,,,,,9.0,,,,,,15.0,11.0,Yaungol Mist-Shaman's Amulet,,,,Rare,80.0,2.0,,,,,23.0,,
+15.0,,,,,,11.0,,,,,,,8.0,Suna's Shattered Locket,,,,Rare,80.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,9.0,Greenstone Pendant,,,,Uncommon,,2.0,,,,,21.0,14.0,9.0
+,,,,,,,,,,,,14.0,10.0,Acanthia's Lost Pendant,,,,Rare,80.0,2.0,,,,,21.0,,8.0
+,,,,,,8.0,,,,,,14.0,10.0,Pipefish Cord,,,,Rare,78.0,2.0,,,,,21.0,,
+,,,,,,,,,,,8.0,14.0,,Quicksilver Amulet,,,,Rare,78.0,2.0,,,,,21.0,,10.0
+,,,,,,7.0,,,,,10.0,,,Emerald Dragonet Choker,,,,Rare,,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,,13.0,,Sishir Amulet,,,,Uncommon,79.0,2.0,,,,,20.0,,
+,,,,,,,,7.0,,,,,,Bile-Encrusted Medallion,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,13.0,2.0
+,,,,,,6.0,,,,,,10.0,,Holiday's Grace,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,9.0
+13.0,,,,,,9.0,,,,,,,8.0,Cowry-Shell Pendant,,,,Uncommon,,2.0,,,,,20.0,,
+,,,,,,,,,,,9.0,13.0,8.0,Calcified Gizzard,,,,Uncommon,,2.0,,,,,20.0,,
+,,,,,,,,,,,,13.0,10.0,Brain-Connector Chain,,,,Uncommon,,2.0,,,,,20.0,,7.0
+,,,,,,10.0,,,,,8.0,,,Might of the Leviathan,,,,Epic,80.0,2.0,,,,,19.0,13.0,
+10.0,,,,,,8.0,,,,,6.0,,,Amulet of the Centauri,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,,,6.0,,,,,,Drakescale Collar,,1.0,10.0,Epic,,2.0,Prismatic socket,,,,20.0,13.0,
+,,,,,,,,10.0,,,,,,The Arbiter's Muse,,,,Epic,80.0,2.0,,,,,20.0,13.0,3.0
+,,,,,,13.0,,,,,,13.0,,Choker of Spiral Focus,,,,Rare,80.0,2.0,,,,,20.0,,
+,,,,,,10.0,,,,,8.0,,,Pendant of a Thousand Maws,,,,Epic,80.0,2.0,,,,,15.0,15.0,
+,,,,,,9.0,,,,,5.0,,,Infected Choker,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+13.0,13.0,,,,,9.0,,,,,,,,Hateful Gladiator's Pendant of Victory,,,,Epic,80.0,2.0,,,,,19.0,13.0,9.0
+,,,,,,9.0,,,,,8.0,,,Strength of the Heavens,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,12.0,
+13.0,,,,,,10.0,,,,,7.0,,,Ancient Pendant of Arathor,,,,Epic,80.0,2.0,,,,,20.0,,
+13.0,,,,,,,,,,,,,,Ice Encrusted Amulet,,,,Uncommon,80.0,2.0,,,,,20.0,,
+13.0,13.0,,,,,8.0,,,,,21.0,,,Amulet of the Stampede,,,,Rare,76.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,9.0,13.0,,Arcane Loops of Anger,,,,Epic,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,,13.0,,Timeless Beads of Eternos,,,,Rare,78.0,2.0,,,,,20.0,,13.0
+13.0,,,,Monk,,,,9.0,,,,,,Monastic Amulet,,,9.0,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,7.0,,,Bronze Pendant of the Vanir,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,18.0,13.0,9.0
+,,,,,,10.0,,,,,7.0,,,Painfully Sharp Choker,,,,Epic,80.0,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,9.0,13.0,,Heartbreak Charm,,,,Epic,80.0,2.0,,,,,20.0,,9.0
+,,,,,,,,,,,,13.0,,Relentless Gladiator's Pendant of Deliverance,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+13.0,,,,,,9.0,,,,,8.0,,,Charge of the Demon Lord,,,,Epic,80.0,2.0,,,,,20.0,,
+,,,,,,9.0,,,,,9.0,13.0,,Evoker's Charm,,,,Rare,80.0,2.0,,,,,20.0,,
+,,,,,,7.0,,,,,,13.0,,Torque of the Red Dragonflight,,1.0,,Epic,,2.0,Prismatic socket,,,,20.0,,9.0
+9.0,,,,,,10.0,,,,,7.0,,,Fool's Trial,,,,Epic,80.0,2.0,,,,,24.0,,
+,,,,,,9.0,,13.0,,,,,,Endurance of the Infernal,,,,Epic,80.0,2.0,,,,,20.0,8.0,
+10.0,,,,,,9.0,,,,,8.0,,,Charge of the Demon Lord,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,,
+,,,,,,10.0,,,,,7.0,13.0,,Cry of the Val'kyr,,,,Epic,80.0,2.0,,,,,19.0,,
+,,,,,,9.0,,,,,9.0,,,The Executioner's Malice,,,,Epic,80.0,2.0,,,,,20.0,13.0,
+13.0,,,,,,8.0,,,,,10.0,,,Brooch of the Wailing Night,,,,Rare,80.0,2.0,,,,,20.0,,
+13.0,,,,,,8.0,,,,,7.0,,,Pendant of the Dragonsworn,,1.0,,Epic,,2.0,Prismatic socket,,,,20.0,,
+13.0,13.0,,,,,8.0,,,,,,,,Jade Dagger Pendant,,1.0,,Rare,75.0,2.0,Prismatic socket,,,,16.0,13.0,
+,,,,,,265.0,,,,,,,,Amulet of Autopsy,,,,Epic,80.0,2.0,,,,,200.0,,106.0
+,,,,,,10.0,,,,,9.0,14.0,,Dawnblossom Necklace,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,,,,,,9.0,,9.0,Jade Eye Pendant,,,,Uncommon,,2.0,,,,,21.0,14.0,
+14.0,,,,,,10.0,,,,,8.0,,,Barnacle Pendant,,,,Rare,78.0,2.0,,,,,21.0,,
+13.0,,,,,,9.0,,,,,,,8.0,Cowry-Shell Pendant,,,,Uncommon,,2.0,,,,,20.0,,
+13.0,,,,,,7.0,,,,,10.0,,,Torque of the Herald,,,,Uncommon,,2.0,,,,,20.0,,
+,,,,,,9.0,,,,,8.0,13.0,,Hippolyte's Glittering Necklace,,,,Uncommon,,2.0,,,,,20.0,,
+,,,,,,9.0,,,,,9.0,,,Goldrinn's Locket,,,,Uncommon,,2.0,,,,,20.0,13.0,
+13.0,13.0,,,,,9.0,,,,,,,,Emerald Choker,,,,Rare,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,9.0,,,,,5.0,,,Collar of Haughty Disdain,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+,,,,,,,,,,,,13.0,,Necklace of Valiant Blood,,,,Rare,80.0,2.0,,,,,15.0,,15.0
+,,,,,,9.0,,,,,,13.0,,Pendant of Binding Elements,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,9.0,,,,,6.0,10.0,,Pendant of Split Veins,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,9.0,,,,,6.0,,,Flamelash Amulet,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+13.0,13.0,,,,,6.0,,,,,,,,Shard of the Crystal Forest,,,,Rare,80.0,2.0,,,,,20.0,13.0,11.0
+,,,,,,9.0,,,,,,13.0,,Sky Sapphire Amulet,,,,Rare,80.0,2.0,,,,,20.0,,9.0
+,,,,Death knight,,9.0,,,,,,,9.0,Ebonsoul Pendant,,,,Uncommon,80.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,13.0,,,,,,Fortitude of the Infernal,,,,Epic,80.0,2.0,,,,,20.0,8.0,
+,,,,,,,,7.0,,,,,,The Arbiter's Muse,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,13.0,3.0
+,,,,Mage,,9.0,,,,,,13.0,9.0,Magesoul Medallion,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,11.0,,,,,7.0,,,Painfully Sharp Choker,,,,Rare,80.0,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,,13.0,,Deadly Gladiator's Pendant of Deliverance,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+,,,,,,7.0,,13.0,,,,,,Eskhandar's Links,,,,Epic,80.0,2.0,,,,,20.0,10.0,
+,,,,,,6.0,,,,,9.0,10.0,,Amulet of Evil Winds,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,Warrior,,9.0,,,,,,,9.0,Valiant Pendant,,,,Uncommon,80.0,2.0,,,,,20.0,13.0,
+14.0,,,,,,,,,,,8.0,,,Choker of Feral Fury,,,,Rare,80.0,2.0,,,,,23.0,,
+11.0,,,,,,9.0,,,,,5.0,,,Collar of Ceaseless Torment,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,18.0,,
+,,,,,,,,,,,,,,Pendant of the Nathrezim,,,13.0,Rare,80.0,2.0,,,,,20.0,13.0,
+,,,,Priest,,,,,,,9.0,13.0,,Seraphic Necklace,,,,Uncommon,80.0,2.0,,,,,20.0,,9.0
+13.0,13.0,,,,,9.0,,,,,,,,Furious Gladiator's Pendant of Triumph,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,13.0,,,,,,13.0,,Necklace of Stolen Skulls,,,,Rare,80.0,2.0,,,,,20.0,,
+,,,,,,,,11.0,,,,,,Medallion of the Disgraced,,,,Epic,80.0,2.0,,,,,20.0,13.0,
+,,,,,,6.0,,11.0,,,,,,Endurance of the Infernal,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,6.0,
+13.0,,,,Monk,,,,,,,9.0,,9.0,Monastic Choker,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,,13.0,,Wrathful Gladiator's Pendant of Salvation,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+,,,,,,14.0,,,,,,,,Razor's Edge Pendant,,,,Rare,80.0,2.0,,,,,17.0,13.0,
+13.0,13.0,,,,,9.0,,,,,,,,Relentless Gladiator's Pendant of Sundering,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,Monk,,,,,,,9.0,13.0,,Monastic Necklace,,,,Uncommon,80.0,2.0,,,,,20.0,,9.0
+,,,,Druid,,,,,,,9.0,13.0,,Wildsoul Necklace,,,,Uncommon,80.0,2.0,,,,,20.0,,9.0
+,,,,,,,,,,,8.0,13.0,,Freya's Choker of Warding,,,,Epic,80.0,2.0,,,,,19.0,,10.0
+,,,,,,10.0,,,,,,13.0,,Unblinking Eye,,,,Epic,80.0,2.0,,,,,17.0,,9.0
+11.0,,,,,,9.0,,,,,5.0,,,Collar of Unending Torment,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,18.0,,
+13.0,13.0,,,,,9.0,,,,,,,,Deadly Gladiator's Pendant of Triumph,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,8.0,,,,,10.0,13.0,,Pendant of Focused Energies,,,,Epic,80.0,2.0,,,,,20.0,,
+13.0,13.0,,,,,9.0,,,,,,,,Wrathful Gladiator's Pendant of Sundering,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+13.0,,,,Shaman,,,,,,,9.0,,9.0,Stormbinder Choker,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,8.0,,,,,8.0,12.0,,Pendant of Fiery Havoc,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+12.0,,,,,,8.0,,,,,7.0,,,Seed of Budding Carnage,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+13.0,13.0,,,,,9.0,,,,,,,,Deadly Gladiator's Pendant of Victory,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,Shaman,,9.0,,,,,,13.0,9.0,Stormbinder Medallion,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,,,,Forgotten Necklace,,,,Rare,78.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,6.0,10.0,,Darkbane Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,17.0,,
+10.0,,,,,,9.0,,,,,8.0,,,Charge of the Eredar,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,,
+,,,,Shaman,,,,,,,9.0,13.0,,Stormbinder Necklace,,,,Uncommon,80.0,2.0,,,,,20.0,,9.0
+13.0,,,,,,9.0,,,,,8.0,,,Collar of Unending Torment,,,,Epic,80.0,2.0,,,,,19.0,,
+,,,,,,,,,,,,,,Pearl Woven Choker,,,,Uncommon,77.0,2.0,,,,,19.0,13.0,
+13.0,13.0,,,,,10.0,,,,,18.0,,,Slasher's Amulet,,,,Rare,73.0,2.0,,,,,19.0,13.0,
+,,,,,,,,,,,,,,Shark-Toothed Necklace,,,,Uncommon,74.0,2.0,,,,,18.0,12.0,
+,,,,,,,,,,,,,,Figaro Chain,,,,Uncommon,73.0,2.0,,,,,17.0,12.0,
+14.0,,,,,,9.0,,,,,10.0,,,Vale Song Pendant,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,,,,,,,,10.0,Carrier Wave Pendant,,,8.0,Rare,78.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,,14.0,,Sea Witch Charm,,,,Rare,,2.0,,,,,21.0,,9.0
+13.0,,,,,,,,,,,,,,Swamplight Amulet,,,,Uncommon,78.0,2.0,,,,,20.0,,
+,,,,,,7.0,,10.0,,,,,,Necklace of the Furious Standard,,,,Uncommon,,2.0,,,,,20.0,13.0,
+13.0,,,,,,9.0,,,,,3.0,,,Baltharus' Gift,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,,,9.0,,,,,6.0,,,The Executioner's Malice,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+,,,,,,9.0,,,,,6.0,10.0,,Darkbane Amulet,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,17.0,,
+13.0,,,,Druid,,,,,,,9.0,,9.0,Wildsoul Choker,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,9.0,13.0,,Deadly Gladiator's Pendant of Ascendancy,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+13.0,,,,Hunter,,,,,,,9.0,,9.0,Beastsoul Choker,,,,Uncommon,80.0,2.0,,,,,20.0,,
+13.0,,,,,,7.0,,,,,10.0,,,Icy Blast Amulet,,,,Epic,80.0,2.0,,,,,16.0,,
+,,,,Druid,,9.0,,,,,,13.0,9.0,Wildsoul Medallion,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,9.0,13.0,,Deadly Gladiator's Pendant of Subjugation,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,,,7.0,,,,,,Legionnaire's Gorget,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,15.0,13.0,3.0
+,,,,,,,,,,,6.0,10.0,,Titan-Forged Pendant of Ascendancy,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,9.0
+,,,,,,9.0,,,,,10.0,13.0,,Cosmic Lights,,,,Epic,80.0,2.0,,,,,18.0,,
+13.0,13.0,,,,,9.0,,,,,,,,Relentless Gladiator's Pendant of Victory,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,7.0,,,,,7.0,10.0,,Cry of the Val'kyr,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+10.0,10.0,,,,,6.0,,,,,,,,Titan-Forged Pendant of Victory,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,9.0
+,,,,Death knight,,,,9.0,,,,,,Ebonsoul Amulet,,,9.0,Uncommon,80.0,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,,,,Platinum Medallion,,,,Uncommon,79.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,7.0,,,Frigid Strength of Hodir,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,12.0,
+,,,,Warlock,,9.0,,,,,,13.0,9.0,Dreadsoul Medallion,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,,,,,,9.0,13.0,,Veiled Amulet of Life,,,,Epic,80.0,2.0,,,,,18.0,,9.0
+,,,,,,,,,,,,13.0,,Deadly Gladiator's Pendant of Salvation,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+,,,,,,7.0,,,,,7.0,10.0,,Wail of the Val'kyr,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,
+,,,,Warrior,,,,9.0,,,,,,Valiant Amulet,,,9.0,Uncommon,80.0,2.0,,,,,20.0,13.0,
+,,,,,,7.0,,,,,,10.0,,Ousted Bead Necklace,,,,Epic,80.0,2.0,,,,,20.0,,13.0
+,,,,,,9.0,,,,,,10.0,,Amulet of Binding Elements,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,6.0
+,,,,,,,,,,,9.0,13.0,,Hateful Gladiator's Pendant of Ascendancy,,,,Epic,80.0,2.0,,,,,18.0,,9.0
+,,,,,,,,,,,13.0,13.0,,Pendant of Shadow Beams,,,,Rare,75.0,2.0,,,,,20.0,,
+,,,,,,,,,,,9.0,13.0,,Wrathful Gladiator's Pendant of Ascendancy,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+13.0,13.0,,,,,9.0,,,,,,,,Furious Gladiator's Pendant of Victory,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+13.0,13.0,,,,,9.0,,,,,,,,Furious Gladiator's Pendant of Sundering,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,,,,,,,13.0,,Hateful Gladiator's Pendant of Deliverance,,,,Epic,80.0,2.0,,,,,18.0,,18.0
+,,,,,,,,,,,,13.0,,Zuramat's Necklace,,,,Rare,80.0,2.0,,,,,20.0,,9.0
+13.0,,,,,,9.0,,,,,8.0,,,Charge of the Eredar,,,,Epic,80.0,2.0,,,,,20.0,,
+13.0,,,,Rogue,,,,,,,9.0,,9.0,Shadowstalking Choker,,,,Uncommon,80.0,2.0,,,,,20.0,,
+,,,,,,9.0,,13.0,,,,,,Shard of Pirouetting Happiness,,,,Epic,80.0,2.0,,,,,20.0,9.0,
+,,,,,,,,,,,,13.0,,Relentless Gladiator's Pendant of Salvation,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+,,,,,,,,,,,,13.0,,Hateful Gladiator's Pendant of Salvation,,,,Epic,80.0,2.0,,,,,18.0,,18.0
+,,,,,,,,,,,,13.0,,Wrathful Gladiator's Pendant of Deliverance,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+13.0,,,,,,8.0,,,,,10.0,,,Sweet Perfume Brooch,,,,Epic,80.0,2.0,,,,,20.0,,
+,,,,Paladin,,,,9.0,,,,,,Zealous Amulet,,,9.0,Uncommon,80.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,,10.0,,Pendant of Binding Elements,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,19.0,,6.0
+,,,,,,,,,,,,13.0,,Chain of Fiery Orbs,,,,Rare,77.0,2.0,,,,,20.0,,14.0
+,,,,,,,,,,,13.0,,,Mark of the Unyielding,,,,Epic,80.0,2.0,,,,,19.0,13.0,21.0
+,,,,,,,,,,,,13.0,,Furious Gladiator's Pendant of Deliverance,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+,,,,,,14.0,,,,,,,,Pendant of Azure Dreams,,,,Rare,80.0,2.0,,,,,17.0,13.0,
+,,,,Paladin,,9.0,,,,,,,9.0,Zealous Pendant,,,,Uncommon,80.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,,13.0,,Deadly Gladiator's Pendant of Dominance,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,10.0,,,,,6.0,13.0,,Pendant of the Piercing Glare,,,,Epic,80.0,2.0,,,,,19.0,,
+,,,,,,,,,,,,13.0,,Furious Gladiator's Pendant of Salvation,,,,Epic,80.0,2.0,,,,,19.0,,18.0
+14.0,,,,,,,,,,,8.0,,,Susurrating Shell Necklace,,,,Rare,80.0,2.0,,,,,23.0,,
+13.0,,,,,,10.0,,,,,10.0,,,Choker of the Abyss,,,,Epic,80.0,2.0,,,,,15.0,,
+,,,,,,,,,,,,13.0,,Crystal Pendant of Warding,,,,Rare,74.0,2.0,,,,,19.0,,8.0
+,,,,,,,,,,,,12.0,,Gold Clasped Chain,,,,Uncommon,76.0,2.0,,,,,18.0,,
+12.0,,,,,,,,,,,,,,Serpentine Chain,,,,Uncommon,75.0,2.0,,,,,18.0,,
+,,,,,,10.0,,,,,,14.0,8.0,Zen Lotus Pendant,,,,Uncommon,,2.0,,,,,21.0,,
+13.0,,,,,,10.0,,,,,7.0,,,Pinpoint Choker,,,,Uncommon,,2.0,,,,,20.0,,
+,,,,,,,,,,,,13.0,,Moonbrook Amulet,,,,Uncommon,77.0,2.0,,,,,20.0,,
+,,,,,,9.0,,,,,,13.0,,Frozen Tear of Elune,,,,Rare,80.0,2.0,,,,,20.0,,9.0
+,,,,,,9.0,,,,,6.0,,,The Executioner's Vice,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,20.0,10.0,
+13.0,13.0,,,,,9.0,,,,,,,,Relentless Gladiator's Pendant of Triumph,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,6.0,,,,,,13.0,,Pendant of Endless Despair,,,,Epic,80.0,2.0,,,,,20.0,,10.0
+,,,,,,13.0,,,,,,13.0,,Bone-Linked Amulet,,,,Epic,80.0,2.0,,,,,15.0,,7.0
+,,,,,,10.0,,,,,,13.0,,Ceaseless Pity,,,,Epic,80.0,2.0,,,,,18.0,,7.0
+,,,,,,10.0,,,,,8.0,,,Insurmountable Fervor,,,,Epic,80.0,2.0,,,,,20.0,13.0,
+,,,,,,9.0,,,,,6.0,10.0,,Darkbane Amulet,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,17.0,,
+,,,,,,9.0,,,,,,13.0,,Hateful Gladiator's Pendant of Dominance,,,,Epic,80.0,2.0,,,,,18.0,,9.0
+,,,,,,9.0,,,,,,13.0,,Wrathful Gladiator's Pendant of Dominance,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,,,,,,9.0,13.0,,Relentless Gladiator's Pendant of Ascendancy,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,,,,,,9.0,13.0,,Hateful Gladiator's Pendant of Subjugation,,,,Epic,80.0,2.0,,,,,18.0,,9.0
+,,,,,,,,,,,9.0,13.0,,Wrathful Gladiator's Pendant of Subjugation,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,,,,,,9.0,13.0,,Relentless Gladiator's Pendant of Subjugation,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,7.0,,,,,,,,Fervor of the Protectorate,,,13.0,Epic,80.0,2.0,,,,,20.0,10.0,21.0
+,,,,,,,,,,,,13.0,,Pendant of Emerald Crusader,,,,Rare,80.0,2.0,,,,,15.0,,15.0
+,,,,,,9.0,,,,,,13.0,,Furious Gladiator's Pendant of Dominance,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,9.0,,,,,6.0,10.0,,Darkbane Pendant,,1.0,,Epic,80.0,2.0,Prismatic socket,,,,17.0,,
+,,,,,,8.0,,13.0,,,,,,Titanstone Pendant,,,,Epic,80.0,2.0,,,,,20.0,10.0,
+,,,,,,9.0,,,,,7.0,13.0,,Thunderstorm Amulet,,,,Epic,80.0,2.0,,,,,21.0,,
+,,,,,,,,,,,9.0,13.0,,Furious Gladiator's Pendant of Ascendancy,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,,,10.0,,,,,,Legionnaire's Gorget,,,,Epic,80.0,2.0,,,,,20.0,13.0,3.0
+,,,,,,,,,,,9.0,13.0,,Furious Gladiator's Pendant of Subjugation,,,,Epic,80.0,2.0,,,,,19.0,,9.0
+,,,,,,8.0,,,,,9.0,,,Choker of the Pure Heart,,,,Epic,80.0,2.0,,,,,20.0,14.0,
+,,,,Paladin,,,,,,,9.0,13.0,,Zealous Necklace,,,,Uncommon,80.0,2.0,,,,,20.0,,9.0
+13.0,13.0,,,,,9.0,,,,,,,,Wrathful Gladiator's Pendant of Victory,,,,Epic,80.0,2.0,,,,,20.0,13.0,9.0
+,,,,,,,,,,,,13.0,,Silken Cord Amulet,,,,Uncommon,78.0,2.0,,,,,19.0,,
+12.0,12.0,,,,,12.0,,,,,7.0,,,Draconic Choker of Ferocity,,,,Rare,77.0,2.0,,,,,13.0,12.0,
+,,,,,,,,,,,,12.0,,Jasper Bead Necklace,,,,Uncommon,72.0,2.0,,,,,17.0,,
+11.0,,,,,,,,,,,,,,Embroidered Pendant,,,,Uncommon,71.0,2.0,,,,,17.0,,
+,,,,,,9.0,,,,,,,,Bladeforger Necklace,,,,Epic,90.0,2.0,,,,,26.0,17.0,13.0
+,,,,,,,,,,,12.0,17.0,,Rising New Moon Talisman,,,,Epic,90.0,2.0,,,,,26.0,,11.0
+,,,,,,12.0,,,,,,17.0,11.0,Penate's Perilous Pendant,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,,,,,,8.0,15.0,11.0,Lucid Amulet of the Agile Mind,,,,Rare,86.0,2.0,,,,,23.0,,
+17.0,,,,,,,,,,,12.0,,11.0,Smoldering Eye,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,0.16666666666666666,10.0,,,,,10.0,,,Choker of the Pure Heart,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,11.0,,,,,,,12.0,Anafielle's Spiked Choker,,,,Epic,90.0,2.0,,,,,26.0,17.0,
+,,,,,,7.0,,,,,,,14.0,Firebound Gorget,,,,Epic,85.0,2.0,,,,,21.0,11.0,
+15.0,,,,,,,,,,,10.0,,10.0,Amulet of Swirling Mists,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,9.0,14.0,9.0,Valiona's Medallion,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,185.0,,,,,,,185.0,Rage of Ages,,,,Epic,85.0,2.0,,,,,200.0,,
+,,,,,,10.0,,,,,10.0,15.0,,Worldwaker Cabochon,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,6.0,,,,,,,,Necklace of the Terra-Cotta Protector,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,10.0
+,,,,,,11.0,,,,,9.0,15.0,,Burning Necklace of the Golden Lotus,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,9.0,,,,,,14.0,9.0,Lightning Flash Pendant,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,7.0,,11.0,Don Rodrigo's Fabulous Necklace,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,9.0,,9.0,Buc-Zakai Choker,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,8.0,,,,,10.0,Twilight Amulet,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,,,Golden Necklace,,,,Common,,2.0,,,,,,,
+,,,,,,10.0,,,,,11.0,,,Overcompensating Chain of the Alpha Male,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,,,11.0,,,,,,,,Rangari Luck Charm,,,,Rare,,2.0,,,,,24.0,,11.0
+15.0,,,,,0.16666666666666666,9.0,,,,,11.0,,,Sweet Perfume Brooch,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,23.0,,,,,26.0,,,Pendant of Precise Timing,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,10.0,,,,,,15.0,,Pendant of Endless Inquisition,,,,Rare,90.0,2.0,,,,,23.0,,10.0
+,,,,,,10.0,,,,,,14.0,8.0,Mountainscaler Choker,,,,Uncommon,87.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,9.0,,9.0,Necklace of Strife,,,,Epic,85.0,2.0,,,,,21.0,,
+16.0,,,,,,,,,,,,,21.0,Talisman of Yearning Unfulfilled,,,,Rare,90.0,2.0,,,,,24.0,,
+,,,,,,11.0,,,,,,16.0,,Korven's Amber-Sealed Beetle,,,,Epic,90.0,2.0,,,,,24.0,,9.0
+,,,,,,9.0,,,,,,,,Gorget of Usurped Kings,,,,Rare,90.0,2.0,,,,,23.0,15.0,11.0
+,,,,,0.16666666666666666,10.0,,,,,10.0,15.0,,Heartbreak Charm,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,15.0,9.0,Tyrannical Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,9.0,15.0,,Necklace of Jade Pearls,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,10.0,14.0,,Mountainscaler Locket,,,,Uncommon,87.0,2.0,,,,,21.0,,9.0
+,,,,,,,,,,,,14.0,8.0,Heartstone of Rhyolith,,,,Epic,85.0,2.0,,,,,21.0,,10.0
+,,,,,,,,,,,7.0,14.0,11.0,Nightweaver's Amulet,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,7.0,,14.0,,,,,,Darkhowl Amulet,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,,,10.0,,,,,10.0,,,Triumphant Conqueror's Chain,,,,Rare,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,,,10.0,,,,,10.0,,,Astrylian's Cheerful Charm,,,,Rare,85.0,2.0,,,,,23.0,,
+,,,,,0.16666666666666666,10.0,,,,,,15.0,,Winking Eye of Love,,,,Epic,90.0,2.0,,,,,23.0,,10.0
+,,,,,0.16666666666666666,8.0,,,,,,,,Shard of Pirouetting Happiness,,,,Epic,90.0,2.0,,,,,23.0,15.0,12.0
+15.0,,,,,,10.0,,,,,,,10.0,Delicate Necklace of the Golden Lotus,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,9.0,Mending Necklace of the Golden Lotus,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,,,10.0,,,,,10.0,,,Necklace of the Eternal Watch,,,,Rare,81.0,2.0,,,,,22.0,15.0,
+,,,,,,10.0,,,,,8.0,14.0,,Bramble Choker,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,7.0,,,,,11.0,14.0,,Opal of the Secret Order,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,14.0,,Shadowfire Necklace,,,,Uncommon,85.0,2.0,,,,,21.0,,
+,,,,,,10.0,,,,,8.0,,,Necklace of Fetishes,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,10.0,,,,,9.0,,,Necklace of Smoke Signals,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,9.0,14.0,,Vicious Amberjewel Pendant,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,,,,,,12.0,,11.0,Juggernaut's Ignition Keys,,,,Epic,90.0,2.0,,,,,26.0,17.0,
+,,,,,,11.0,,,,,,,10.0,Talisman of Angry Spirits,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,9.0,,,,,,,,Moonjade Necklace,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,9.0
+,,,,,,11.0,,,,,,16.0,10.0,Destroyer's Battletags,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,16.0,9.0,Grievous Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,9.0,,,,,,15.0,11.0,Amulet of Seven Curses,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,10.0,,,,,10.0,15.0,,Worldwaker Cabochon,,,,Epic,90.0,2.0,,,,,23.0,,
+12.0,,,,,,8.0,,,,,8.0,,,Necklace of the Terra-Cotta Archer,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,,
+,,,,,,,,,,,,,21.0,Armsmaster's Sealed Locket,,,,Rare,90.0,2.0,,,,,23.0,,28.0
+,,,,,,27.0,,,,,23.0,,,Engraved Amber Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+15.0,,,,,,9.0,,,,,11.0,,,Amulet of the Hidden Kings,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,,,9.0,Sacred Stone Amulet,,,,Uncommon,,2.0,,,,,23.0,15.0,
+,,,,,,23.0,,,,,26.0,,,Pendant of Precise Timing,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,23.0,,,,,28.0,,,"Helios, Durand's Soul of Purity",,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Death knight,,10.0,,,,,,,,Heart-Lesion Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,,,8.0,,,,,,15.0,,Stitcher's Spare Needles,,,,Rare,82.0,2.0,,,,,22.0,,11.0
+,,,,,,9.0,,,,,10.0,,,Necklace of Black Dragon's Teeth,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,10.0,,,,,9.0,,,Mountainscaler Amulet,,,,Uncommon,87.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,9.0,,,Gift of Nadun,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,14.0,,Planetary Amulet,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,9.0,,,Vicious Sapphire Necklace,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,9.0,,,,,9.0,,,Seedling Pod,,,,Rare,83.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,9.0,,,Vicious Ruby Choker,,,,Rare,85.0,2.0,,,,,21.0,14.0,9.0
+14.0,,,,,,9.0,,,,,9.0,,,Amulet of Dull Dreaming,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,,10.0,Blood Gout Amulet,,,8.0,Rare,83.0,2.0,,,,,21.0,14.0,
+,,,,,,8.0,,,,,10.0,14.0,,Token of Gratitude,,,,Rare,,2.0,,,,,21.0,,
+,,,,,,8.0,,,,,,14.0,,Soulsurge Necklace,,,,Rare,82.0,2.0,,,,,21.0,,10.0
+,,,,,,9.0,,,,,,,,Moonjade Necklace,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,9.0
+,,,,,,,,,,,,16.0,9.0,Lost Necklace of the Mogu Empress,,,,Epic,90.0,2.0,,,,,24.0,,12.0
+16.0,,,,,,,,,,,11.0,,11.0,Immerseus' Crystalline Eye,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,,,10.0,,,,,12.0,,,Gleaming Eye of the Devilsaur,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,16.0,,Necklace of Fading Light,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Grievous Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+13.0,,,,,,9.0,,,,,8.0,,,Necklace of the Terra-Cotta Archer,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,16.0,,Grievous Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,,,,,,,,11.0,,10.0,Karabor Guardian Gorget,,,,Rare,,2.0,,,,,24.0,16.0,
+,,,,,,,,,,,,16.0,,Heartlander's Necklace,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,,,12.0,,,,,,,9.0,Choker of the Unleashed Storm,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,15.0,11.0,Horridon's Tusk Fragment,,,,Epic,90.0,2.0,,,,,23.0,,9.0
+,,,,,,,,,,,,,28.0,Necklace of Disorientation,,,,Rare,90.0,2.0,,,,,23.0,,21.0
+,,,,,,8.0,,,,,,,,Beads of the Mogu'shi,,,,Epic,90.0,2.0,,,,,23.0,12.0,15.0
+15.0,,,,,,11.0,,,,,,,8.0,Saboteur's Locket,,,,Rare,1.0,2.0,,,,,23.0,,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Tyrannical Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,15.0,,Malevolent Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,,,10.0,,,,,10.0,,,Soulgrasp Choker,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,Mage,,10.0,,,,,,15.0,10.0,Mountainsage Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,Druid,,,,,,,10.0,15.0,,Springrain Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+15.0,,,,,,11.0,,,,,,,8.0,Swarmborn Necklace,,,,Uncommon,,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,9.0,Zian's Choker of Coalesced Shadow,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,,,9.0,,,,,,15.0,11.0,Necklace of Imbued Fury,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,10.0,,,,,,,,Kaolan's Withering Necklace,,,,Epic,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,,,8.0,,,,,,,12.0,Ferocious Necklace of the Golden Lotus,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,9.0,,,,,11.0,15.0,,Pendant of Precise Timing,,,,Rare,87.0,2.0,,,,,23.0,,
+15.0,,,,Monk,,10.0,,,,,,,,Mistdancer Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,,,9.0,,,,,,15.0,11.0,Amulet of Seven Curses,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,15.0,9.0,Dreadful Gladiator's Pendant of Alacrity,,,,Rare,90.0,2.0,,,,,23.0,,
+15.0,,,,Monk,,,,,,,10.0,,10.0,Mistdancer Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,,,10.0,,,,,9.0,Guardspike Choker,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,,10.0,Mountainscaler Pendant,,,,Uncommon,87.0,2.0,,,,,21.0,14.0,8.0
+,,,,,,,,,,,8.0,14.0,5.0,Flowform Choker,,1.0,,Epic,85.0,2.0,Prismatic socket,,,,21.0,,
+14.0,,,,,,,,,,,9.0,,,Bloodthirsty Sapphire Necklace,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,,,,,,,,9.0,Mountain's Mouth,,,9.0,Rare,83.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,14.0,9.0,Celadon Pendant,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,,,,,,9.0,,,Bloodthirsty Ruby Choker,,,,Rare,85.0,2.0,,,,,21.0,14.0,9.0
+,,,,,,9.0,,,,,,,9.0,Rage of Ages,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,7.0,,9.0,,,,,,Elementium Guardian,,1.0,,Rare,85.0,2.0,Prismatic socket,,,,21.0,11.0,
+9.0,,,,,,9.0,,,,,7.0,,,Brazen Elementium Medallion,,1.0,,Rare,85.0,2.0,Prismatic socket,,,,21.0,,
+,,,,,,,,,,,,,9.0,Faded Forest Pendant,,,,Uncommon,85.0,2.0,,,,,21.0,14.0,9.0
+,,,,,,,,,,,,17.0,10.0,Lost Necklace of the Mogu Empress,,,,Epic,90.0,2.0,,,,,26.0,,13.0
+17.0,,,,,,10.0,,,,,12.0,,,Gleaming Eye of the Devilsaur,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,,,,,,11.0,17.0,,Necklace of Fading Light,,,,Epic,90.0,2.0,,,,,26.0,,12.0
+,,,,,,,,,,,12.0,,11.0,Juggernaut's Ignition Keys,,,,Epic,90.0,2.0,,,,,25.0,17.0,
+,,,,,,12.0,,,,,,,10.0,Malkorok's Tainted Dog Tags,,,,Epic,90.0,2.0,,,,,25.0,17.0,
+,,,,,,10.0,,,,,,16.0,11.0,Untainted Guardian's Chain,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,16.0,,Grievous Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,16.0,9.0,Grievous Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Grievous Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Grievous Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,16.0,,,,,,,,,,,,10.0,Chain of Evasion,,,,Rare,90.0,2.0,,,,,24.0,16.0,11.0
+15.0,,,,,,9.0,,,,,11.0,,,Amulet of the Hidden Kings,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,9.0,Zian's Choker of Coalesced Shadow,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,,,23.0,,,,,,,27.0,Temperature-Sensing Necklace,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,9.0,,,,,,,11.0,Widow Chain,,,,Rare,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,,15.0,,Brewfather Necklace,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Priest,,,,,,,10.0,15.0,,Communal Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,,,,,,,,26.0,,25.0,Whirling Dervish Choker,,,,Rare,90.0,2.0,,,,,23.0,,
+15.0,,,,,,11.0,,,,,,,8.0,Choker of the Unleashed Storm,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,10.0,,,,,10.0,15.0,,Worldwaker Cabochon,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,9.0,,,,,,15.0,11.0,Amulet of Seven Curses,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,8.0,,,,,11.0,15.0,,Shiny Hozen Rock Holder,,,,Rare,84.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,15.0,,Tyrannical Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+15.0,,,,,,,,,,,,,,Warmsun Choker,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Priest,,,,,,,10.0,15.0,,Communal Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,,,11.0,,,,,9.0,,,Scabripper Necklace,,,,Rare,83.0,2.0,,,,,23.0,15.0,
+,,,,Shaman,,,,,,,10.0,15.0,,Streamtalker Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,15.0,9.0,Tyrannical Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,23.0,,
+15.0,,,,Rogue,,,,,,,10.0,,10.0,Lightdrinker Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,,Elder Tortoiseshell Gorget,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,,,8.0,Kil'ruk's Pendant,,,,Uncommon,,2.0,,,,,23.0,15.0,11.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,15.0,9.0,Tyrannical Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Shaman,,,,,,,10.0,15.0,,Streamtalker Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,,,,,,,,,,8.0,Durable Necklace of the Golden Lotus,,,,Epic,90.0,2.0,,,,,23.0,15.0,15.0
+,,,,Monk,,,,,,,10.0,15.0,,Mistdancer Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+15.0,,,,,,,,,,,10.0,,10.0,Golembreaker Amulet,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,28.0,,,,,21.0,,,Cloudstrike Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,,Shadowfire Necklace,,,,Rare,85.0,2.0,,,,,22.0,,
+,,,,,,,,,,,8.0,15.0,,Stolen Amulet of Wisdom,,,,Rare,81.0,2.0,,,,,22.0,,11.0
+15.0,,,,,,9.0,,,,,10.0,,,Wasteland Necklace,,,,Uncommon,88.0,2.0,,,,,22.0,,
+,,,,,,,,,,,8.0,,,Wasteland Pendant,,,,Uncommon,88.0,2.0,,,,,22.0,15.0,11.0
+,,,,,,,,,,,11.0,,8.0,Wasteland Amulet,,,,Uncommon,88.0,2.0,,,,,22.0,15.0,
+,,,,,,,,,,,10.0,15.0,,Petrified Fungal Heart,,,,Epic,85.0,2.0,,,,,22.0,,10.0
+,,,,,,8.0,,,,,,,,Amulet of the Singing Marshes,,,,Uncommon,,2.0,,,,,21.0,14.0,10.0
+,,,,,,,,,,,10.0,14.0,9.0,Choker of Despair,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,10.0,,,,,,14.0,9.0,Bramble Locket,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,,,,,,8.0,14.0,11.0,Necklace of Three Sins,,,,Uncommon,,2.0,,,,,21.0,,
+14.0,,,,,,8.0,,,,,10.0,,,Mountainscaler Necklace,,,,Uncommon,87.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,10.0,,9.0,Choker of the Vanquished Lord,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,8.0,14.0,,Quicksilver Amulet,,,,Rare,85.0,2.0,,,,,21.0,,10.0
+,,,,,,,,,,,,14.0,9.0,Pendant of Elemental Balance,,,,Rare,83.0,2.0,,,,,21.0,,9.0
+,,,,,,,,,,,,,10.0,Carrier Wave Pendant,,,8.0,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,"Warrior,Paladin,Death knight",,,,,,,9.0,,9.0,Ruthless Gladiator's Choker of Accuracy,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,9.0,14.0,,Bloodthirsty Amberjewel Pendant,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,7.0,,14.0,,,,,,Ironstar Amulet,,,,Epic,85.0,2.0,,,,,21.0,11.0,
+,,,,,,10.0,,,,,9.0,,,Stoneheart Choker,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,10.0,8.0,9.0,Eye of Many Deaths,,1.0,,Rare,85.0,2.0,Prismatic socket,,,,21.0,,
+14.0,,14.0,,,,,,,,,9.0,14.0,,Ionized Choker,,,,Rare,85.0,2.0,,,,,21.0,14.0,9.0
+14.0,,,,,,9.0,,,,,10.0,,,Faded Forest Necklace,,,,Uncommon,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,14.0,,Ruthless Gladiator's Pendant of Meditation,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,,,9.0,,,,,,14.0,9.0,Pendant of the Keep,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,9.0,,,Pendant of Quiet Breath,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,14.0,,Nightstone Choker,,,,Uncommon,82.0,2.0,,,,,21.0,,
+17.0,,,,,,10.0,,,,,12.0,,,Gleaming Eye of the Devilsaur,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,,,,,,12.0,,,Blackfuse's Blasting Cord,,,,Epic,90.0,2.0,,,,,26.0,17.0,12.0
+,,,,,,11.0,,,,,,17.0,12.0,Untainted Guardian's Chain,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,,,,,,,17.0,10.0,Lost Necklace of the Mogu Empress,,,,Epic,90.0,2.0,,,,,25.0,,12.0
+17.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,10.0,,12.0,Prideful Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,25.0,,
+17.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,10.0,,,,,12.0,,,Prideful Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,25.0,,
+17.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,10.0,,12.0,Prideful Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,12.0,17.0,10.0,Prideful Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,10.0,17.0,,Prideful Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,25.0,,12.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,12.0,17.0,10.0,Prideful Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,,,,,,,,,,,Elder Tortoiseshell Neck,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,10.0,,,,,,16.0,11.0,Untainted Guardian's Chain,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,16.0,9.0,Lost Necklace of the Mogu Empress,,,,Epic,90.0,2.0,,,,,24.0,,12.0
+,,,,,,,,,,,11.0,,10.0,Juggernaut's Ignition Keys,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+13.0,,,,,,9.0,,,,,9.0,,,Necklace of the Terra-Cotta Archer,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+,,,,,,,,,,,,13.0,8.0,Necklace of the Terra-Cotta Mender,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,10.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Grievous Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,16.0,9.0,Grievous Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Grievous Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Grievous Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Grievous Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Grievous Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,16.0,,Choker of Stygimolochy,,,,Epic,90.0,2.0,,,,,24.0,,10.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,16.0,9.0,Grievous Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,6.0,,,,,,,,Necklace of the Terra-Cotta Protector,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,12.0,10.0
+,,,,,,10.0,,,,,,,,Kaolan's Withering Necklace,,,,Epic,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,,,9.0,,,,,,,7.0,Necklace of the Terra-Cotta Vanquisher,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,12.0,
+15.0,,,,,,11.0,,,,,9.0,,,Amberglow Necklace,,,,Uncommon,,2.0,,,,,23.0,,
+15.0,,,,,,9.0,,,,,11.0,,,Amulet of the Hidden Kings,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,9.0,15.0,,Mantid Eye Amulet,,,,Rare,1.0,2.0,,,,,23.0,,
+,,,,Death knight,,10.0,,,,,,,10.0,Heart-Lesion Pendant,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,10.0,15.0,10.0,Skymage Circle,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,9.0,Zian's Choker of Coalesced Shadow,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,,,10.0,,,,,10.0,,,Amberglow Amulet,,,,Uncommon,,2.0,,,,,23.0,15.0,
+15.0,,,,,,,,,,,8.0,,11.0,Pheromone-Coated Choker,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,27.0,,,,,23.0,,,Engraved Amber Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,,15.0,9.0,Wire of the Wakener,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,,15.0,,Korven's Amber-Sealed Beetle,,,,Epic,90.0,2.0,,,,,23.0,,9.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,15.0,9.0,Tyrannical Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,21.0,,,,,,,28.0,Anarchist's Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,,Bubblebrew Necklace,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,17.0,,,Necklace of the Dark Blaze,,,,Rare,90.0,2.0,,,,,23.0,,32.0
+,,,,,,,,,,,,,,Greenstone Neck,,,,Rare,90.0,2.0,,,,,23.0,15.0,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,15.0,,Tyrannical Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,Warrior,,10.0,,,,,,,,Oathsworn Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,,,11.0,,,,,,,9.0,Bridge Breaker Medallion,,,,Rare,1.0,2.0,,,,,23.0,15.0,
+15.0,,,,,,,,,,,,,,Brewcarrier Choker,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,10.0,,10.0,Whirling Dervish Choker,,,,Rare,88.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,7.0,,,Crossroads Pendant,,,,Uncommon,,2.0,,,,,22.0,15.0,11.0
+,,,,,,8.0,,,,,,,11.0,Amulet of Longing,,,,Uncommon,,2.0,,,,,22.0,15.0,
+,,,,,,,,,,,,,,Immaculate Amulet,,,,Uncommon,88.0,2.0,,,,,22.0,15.0,
+,,,,,,11.0,,,,,,15.0,8.0,Brewdrinker Amulet,,,,Uncommon,,2.0,,,,,22.0,,
+14.0,,,,,,9.0,,,,,10.0,,,Wildscale Amulet,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,,,,,,7.0,,,Red Crane Pendant,,,,Uncommon,,2.0,,,,,21.0,14.0,11.0
+14.0,,,,,,,,,,,10.0,,9.0,Choker of the Vanquished Lord,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,,,9.0,,,,,10.0,,,Cameo of Terrible Memories,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,11.0,,,,,8.0,14.0,,Crystal-Chained Lodestone,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,9.0,14.0,9.0,Valiona's Medallion,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,9.0,,,Vicious Gladiator's Choker of Accuracy,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,,14.0,,Wyrmbreaker's Amulet,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,9.0,Vicious Gladiator's Choker of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,,,Permafrost Choker,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,,14.0,,Amulet of Tender Breath,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,10.0,,,,,,14.0,,Faded Forest Locket,,,,Uncommon,85.0,2.0,,,,,21.0,,8.0
+,,,,,,10.0,,,,,,,9.0,Fireheart Necklace,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+14.0,,14.0,,,,9.0,,,,,9.0,14.0,,Tauntka's Necklace,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,14.0,10.0,Firemind Pendant,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,,,7.0,,14.0,,,,,,Darkhowl Amulet,,,,Rare,83.0,2.0,,,,,21.0,14.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,14.0,,,,,,14.0,9.0,Ruthless Gladiator's Pendant of Diffusion,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,,,,,,9.0,14.0,9.0,Vicious Gladiator's Pendant of Alacrity,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,,,,,,9.0,14.0,9.0,Ruthless Gladiator's Pendant of Alacrity,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,14.0,,,,,,14.0,9.0,Vicious Gladiator's Pendant of Diffusion,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,14.0,,Ruthless Gladiator's Pendant of Meditation,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,9.0,Ruthless Gladiator's Choker of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,14.0,,Vicious Gladiator's Pendant of Meditation,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,,,,,7.0,,,,,5.0,Caelestrasz's Will,,1.0,,Epic,85.0,2.0,Prismatic socket,,,,21.0,14.0,
+,,,,,,,,,,,,,,Permafrost Choker,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,7.0,,14.0,,,,,,Ironstar Amulet,,,,Epic,85.0,2.0,,,,,21.0,11.0,
+14.0,,,,,,9.0,,,,,,,9.0,Pendant of the Lightless Grotto,,,,Rare,81.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,,14.0,,Amulet of Tender Breath,,,,Rare,81.0,2.0,,,,,21.0,,9.0
+,,,,,,10.0,,,,,7.0,14.0,,Confiscated Dog Tags,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,,,,,,185.0,,185.0,Choker of the Vanquished Lord,,,,Epic,85.0,2.0,,,,,200.0,,
+,,,,,,12.0,,,,,,,10.0,Malkorok's Tainted Dog Tags,,,,Epic,90.0,2.0,,,,,26.0,17.0,
+,,,,,,,,,,,12.0,,,Blackfuse's Blasting Cord,,,,Epic,90.0,2.0,,,,,26.0,17.0,12.0
+,,,,,,11.0,,,,,,17.0,12.0,Untainted Guardian's Chain,,,,Epic,90.0,2.0,,,,,26.0,,
+17.0,,,,,,10.0,,,,,12.0,,,Gleaming Eye of the Devilsaur,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,12.0,,,,,,17.0,10.0,Prideful Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,10.0,17.0,,Prideful Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,25.0,,12.0
+,,,,"Warrior,Paladin,Death knight",,10.0,,,,,,,12.0,Prideful Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,25.0,17.0,
+,,,,"Warrior,Paladin,Death knight",,10.0,,,,,,,12.0,Prideful Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,25.0,17.0,
+,,,,"Warrior,Paladin,Death knight",,12.0,,,,,10.0,,,Prideful Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,25.0,17.0,
+,,,,,,11.0,,,,,,,10.0,Talisman of Angry Spirits,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,12.0,,,,,,,,Choker of the Final Word,,,,Epic,90.0,2.0,,,,,24.0,16.0,9.0
+,,,,,,10.0,,,,,6.0,,,Amulet of the Primal Turtle,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,
+13.0,,,,,,,,,,,9.0,,9.0,Quadra-Head Brooch,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+,,,,,,,,,,,5.0,10.0,,Soul Prism of Lei Shen,,2.0,,Epic,90.0,2.0,Prismatic socket,Prismatic socket,,,24.0,,9.0
+,,,,,,,,,,,,,,Cliffbreaker Neck,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,10.0,,,,,,16.0,11.0,Untainted Guardian's Chain,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,9.0,,,,,,,,Moonjade Necklace,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,9.0
+,,,,,,,,,,,11.0,16.0,,Necklace of Fading Light,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,,,,,,,,5.0,10.0,,Soul Prism of Lei Shen,,2.0,,Epic,90.0,2.0,Prismatic socket,Prismatic socket,,,24.0,,9.0
+,,,,,,,,,,,,16.0,,Kiln-Stoker Collar,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,12.0,,,,,,,10.0,Malkorok's Tainted Dog Tags,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,,,,,,,16.0,9.0,Lost Necklace of the Mogu Empress,,,,Epic,90.0,2.0,,,,,24.0,,12.0
+,,,,,,11.0,,,,,,,10.0,Talisman of Angry Spirits,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,6.0,,,,,,,,Necklace of the Terra-Cotta Protector,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,10.0
+13.0,,,,,,,,,,,9.0,,9.0,Quadra-Head Brooch,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+,,,,,,10.0,,,,,11.0,16.0,,Amulet of the Titanorex,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,5.0,10.0,,Soul Prism of Lei Shen,,2.0,,Epic,90.0,2.0,Prismatic socket,Prismatic socket,,,24.0,,9.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,16.0,9.0,Grievous Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,,9.0,Striker's Battletags,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Grievous Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Grievous Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,11.0,,,,,,,,Vanguard's Battletags,,,,Epic,90.0,2.0,,,,,24.0,16.0,10.0
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Grievous Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,9.0,,,,,,,7.0,Necklace of the Terra-Cotta Vanquisher,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,
+,,,,,,12.0,,,,,,16.0,,Mender's Battletags,,,,Epic,90.0,2.0,,,,,24.0,,9.0
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Grievous Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,16.0,9.0,Grievous Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,16.0,9.0,Grievous Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,,,Doubtcrusher Neck,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,,,,,,,,9.0,,12.0,Pheromone-Coated Choker,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,11.0,,,,,,16.0,11.0,Choker of Scalding Fire,,,,Uncommon,,2.0,,,,,24.0,,
+,,,,,,11.0,,,,,,,,Kaolan's Withering Necklace,,,,Epic,90.0,2.0,,,,,24.0,16.0,11.0
+,,,,,,12.0,,,,,,,8.0,Necklace of Congealed Weaknesses,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,10.0,,,,,6.0,,,Amulet of the Primal Turtle,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,12.0,
+,,,,,,11.0,,,,,9.0,,,Shackle of Eversparks,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,,,8.0,Hydraskull Choker,,,,Epic,90.0,2.0,,,,,23.0,15.0,11.0
+,,,,,,10.0,,,,,10.0,,,Soulgrasp Choker,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,8.0,,,,,,12.0,,Passionfire Choker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,,8.0
+,,,,,,8.0,,,,,,,,Moonjade Necklace,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,12.0,8.0
+,,,,,,,,,,,5.0,9.0,,Soul Prism of Lei Shen,,2.0,,Epic,90.0,2.0,Prismatic socket,Prismatic socket,,,23.0,,9.0
+,,,,,,9.0,,,,,,15.0,11.0,Hardened Resin Pendant,,,,Rare,1.0,2.0,,,,,23.0,,
+15.0,,,,,,11.0,,,,,9.0,,,Choker of the Klaxxi'va,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Tyrannical Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,Paladin,,,,,,,10.0,15.0,,Sunsoul Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,Warrior,,10.0,,,,,,,,Oathsworn Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,Druid,,10.0,,,,,,15.0,10.0,Springrain Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,8.0,,,,,,,,Paragon's Pale Pendant,,,,Epic,90.0,2.0,,,,,23.0,12.0,15.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Tyrannical Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Tyrannical Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Paladin,,10.0,,,,,,,10.0,Sunsoul Pendant,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,26.0,,25.0,Whirling Dervish Choker,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,15.0,9.0,Malevolent Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Dreadful Gladiator's Choker of Proficiency,,,,Rare,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,,,,Lightning Rod Neck,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,22.0,,,,,,,,Mindcapture Pendant,,,,Rare,90.0,2.0,,,,,23.0,,28.0
+,,,,,,,,,,,,15.0,9.0,Tiger Opal Pendant,,,,Rare,90.0,2.0,,,,,23.0,,11.0
+,,,,,,,,,,,11.0,15.0,,Links of the Lucid,,,,Epic,90.0,2.0,,,,,23.0,,9.0
+,,,,Paladin,,10.0,,,,,,,,Sunsoul Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,10.0
+15.0,,,,Druid,,,,,,,10.0,,10.0,Springrain Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+15.0,,,,Shaman,,,,,,,10.0,,10.0,Streamtalker Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,9.0,,11.0,Buc-Zakai Memento,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Tyrannical Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,15.0,9.0,Tyrannical Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Tyrannical Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,Monk,,10.0,,,,,,,,Mistdancer Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Tyrannical Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,23.0,,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Malevolent Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,9.0,,,Shackle of Eversparks,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,,,,,,,,,,,Stormbound Choker,,,,Rare,90.0,2.0,,,,,23.0,,
+15.0,,,,Shaman,,,,,,,10.0,,10.0,Streamtalker Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,29.0,,,,,22.0,,,Choker of the Klaxxi'va,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,15.0,9.0,Tyrannical Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Mage,,10.0,,,,,,15.0,10.0,Mountainsage Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Malevolent Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,10.0,,,,,,,,Kaolan's Withering Necklace,,,,Epic,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Tyrannical Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,Shaman,,10.0,,,,,,15.0,10.0,Streamtalker Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,,Coldsinger Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,8.0,,,,,,,,Saddlebinder Links,,,,Epic,90.0,2.0,,,,,23.0,12.0,15.0
+,,,,,,8.0,,,,,,,,Beads of the Mogu'shi,,,,Epic,90.0,2.0,,,,,23.0,12.0,15.0
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Tyrannical Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Malevolent Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,,,8.0,Badge of the Amber Siege,,,,Rare,1.0,2.0,,,,,23.0,15.0,11.0
+,,,,,,,,,,,,,,Bladesnap Neck,,,,Rare,90.0,2.0,,,,,23.0,15.0,
+,,,,,,28.0,,,,,21.0,,,Mindbreaker Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Tyrannical Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Paladin,,10.0,,,,,,,,Sunsoul Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,,,28.0,,,,,21.0,,,Cloudstrike Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,11.0,,9.0,Bloodseeker's Solitaire,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Malevolent Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,24.0,,
+15.0,,,,Druid,,,,,,,10.0,,10.0,Springrain Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,10.0,,,,,,15.0,,Sik'thik Locket,,,,Uncommon,,2.0,,,,,22.0,,10.0
+,,,,,,,,,,,11.0,,8.0,Watchpost Amulet,,,,Uncommon,,2.0,,,,,22.0,15.0,
+,,,,,,,,,,,,,11.0,Pendant of Revenge,,,,Uncommon,,2.0,,,,,22.0,15.0,8.0
+,,,,,,9.0,,,,,,,,Stolen Necklace of Fortitude,,,,Rare,81.0,2.0,,,,,22.0,15.0,11.0
+15.0,,,,,,9.0,,,,,,,11.0,Stolen Necklace of Precision,,,,Rare,81.0,2.0,,,,,22.0,,
+,,,,,,8.0,,,,,11.0,,,Stolen Amulet of Might,,,,Rare,81.0,2.0,,,,,22.0,15.0,
+15.0,,,,,,,,,,,11.0,,8.0,Bearheart Necklace,,,,Uncommon,,2.0,,,,,22.0,,
+,,,,,,,,,,,,,11.0,Brewdrinker Pendant,,,,Uncommon,,2.0,,,,,22.0,15.0,8.0
+,,,,,,10.0,,,,,,,9.0,Bramble Amulet,,,,Uncommon,,2.0,,,,,21.0,14.0,
+,,,,,,7.0,,,,,11.0,,,Otouxian Amulet,,,,Uncommon,,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,7.0,14.0,,Grainlord's Locket,,,,Uncommon,,2.0,,,,,21.0,,11.0
+,,,,,,11.0,,,,,8.0,14.0,,Grainlord's Choker,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,,14.0,,Sha-Haunted Locket,,,,Uncommon,,2.0,,,,,21.0,,10.0
+,,,,,,9.0,,,,,,,9.0,Pendant of the Lost Dynasty,,,,Uncommon,,2.0,,,,,21.0,14.0,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,9.0,Cataclysmic Gladiator's Choker of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,8.0,,,,,,14.0,,Threadlinked Chain,,,,Epic,85.0,2.0,,,,,21.0,,10.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,9.0,,,,,,14.0,9.0,Cataclysmic Gladiator's Pendant of Diffusion,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,,,,,,9.0,14.0,9.0,Cataclysmic Gladiator's Pendant of Alacrity,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,9.0,14.0,,Petrified Fungal Heart,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,14.0,,Petrified Fungal Heart,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,9.0,Ruthless Gladiator's Choker of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,,14.0,9.0,String of Beaded Bubbles,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,10.0,,,,,8.0,Amulet of Protection,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+14.0,14.0,,,,,9.0,,,,,,,,Fractured Earthstone Necklace,,,,Rare,85.0,2.0,,,,,21.0,14.0,9.0
+14.0,,,,,,9.0,,,,,,,9.0,Pendant of the Lightless Grotto,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,,14.0,,Necklace of Rumbling Earth,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,9.0,,,,,,14.0,9.0,Yellow Smoke Pendant,,,,Epic,85.0,2.0,,,,,21.0,,
+11.0,,,,,,4.0,,,,,11.0,,,Entwined Elementium Choker,,1.0,,Rare,85.0,2.0,Prismatic socket,,,,21.0,,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,9.0,,,Vicious Gladiator's Necklace of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,9.0,Vicious Gladiator's Choker of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,,14.0,,Necklace of Rumbling Earth,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,9.0,,,,,,14.0,,Wyrmbreaker's Amulet,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,9.0,,,,,,14.0,9.0,Ruthless Gladiator's Pendant of Diffusion,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,,,,,,9.0,14.0,9.0,Bloodthirsty Gladiator's Pendant of Alacrity,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,9.0,,,Seedling Pod,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,14.0,,,,,,14.0,9.0,Bloodthirsty Gladiator's Pendant of Diffusion,,,,Rare,85.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,,,,Mistral Pendant,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,8.0,11.0,7.0,Kuang's Locket of Secrets,,1.0,,Rare,84.0,2.0,Prismatic socket,,,,21.0,,
+,,,,,,9.0,,,,,,,9.0,Faded Forest Amulet,,,,Uncommon,85.0,2.0,,,,,21.0,14.0,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,14.0,,Bloodthirsty Gladiator's Pendant of Meditation,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,,,9.0,,,,,9.0,14.0,,Tauntka's Necklace,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,,,Cloudburst Necklace,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,10.0,,,,,,14.0,8.0,Eye of Reversal,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,10.0,,,,,,14.0,8.0,Eye of Despair,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,7.0,,,,,10.0,,,Amulet of the Howling Watch,,,,Rare,81.0,2.0,,,,,21.0,14.0,
+,,,,,,10.0,,,,,7.0,13.0,,Re-Wound Cogspring,,,,Uncommon,,2.0,,,,,20.0,,
+,,,,,,9.0,,9.0,,,,,,Soulbind Choker,,,,Uncommon,,2.0,,,,,20.0,13.0,
+,,,,,,,,,,,,17.0,10.0,Lost Necklace of the Mogu Empress,,,,Epic,90.0,2.0,,,,,26.0,,13.0
+,,,,,,13.0,,,,,9.0,17.0,,Ashflare Pendant,,,,Epic,90.0,2.0,,,,,26.0,,
+17.0,,,,,,10.0,,,,,12.0,,,Gleaming Eye of the Devilsaur,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,,,,,,12.0,,,Blackfuse's Blasting Cord,,,,Epic,90.0,2.0,,,,,26.0,17.0,12.0
+17.0,,,,,,,,,,,12.0,,12.0,Immerseus' Crystalline Eye,,,,Epic,90.0,2.0,,,,,26.0,,
+17.0,,,,,,,,,,,12.0,,12.0,Immerseus' Crystalline Eye,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,11.0,,,,,,17.0,12.0,Untainted Guardian's Chain,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,13.0,,,,,,,,Choker of the Final Word,,,,Epic,90.0,2.0,,,,,26.0,17.0,9.0
+,,,,,,,,,,,12.0,,11.0,Juggernaut's Ignition Keys,,,,Epic,90.0,2.0,,,,,26.0,17.0,
+,,,,,,,,,,,11.0,17.0,,Necklace of Fading Light,,,,Epic,90.0,2.0,,,,,26.0,,12.0
+,,,,,,13.0,,,,,9.0,17.0,,Ashflare Pendant,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,13.0,,,,,9.0,17.0,,Ashflare Pendant,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,13.0,,,,,9.0,17.0,,Ashflare Pendant,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,,,13.0,,,,,,,,Choker of the Final Word,,,,Epic,90.0,2.0,,,,,25.0,17.0,9.0
+,,,,,,,,,,,11.0,,,Blackfuse's Blasting Cord,,,,Epic,90.0,2.0,,,,,25.0,17.0,11.0
+17.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,10.0,,,,,12.0,,,Prideful Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,"Warrior,Paladin,Death knight",,12.0,,,,,10.0,,,Prideful Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,25.0,17.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,12.0,,,,,,17.0,10.0,Prideful Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,,,,,,,,,,9.0,Hydraskull Choker,,,,Epic,90.0,2.0,,,,,24.0,16.0,12.0
+,,,,,,12.0,,,,,8.0,16.0,,Ashflare Pendant,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,,9.0,Hydraskull Choker,,,,Epic,90.0,2.0,,,,,24.0,16.0,12.0
+13.0,,,,,,9.0,,,,,9.0,,,Necklace of the Terra-Cotta Archer,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+16.0,,,,,,,,,,,11.0,,11.0,Immerseus' Crystalline Eye,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,16.0,12.0,Horridon's Tusk Fragment,,,,Epic,90.0,2.0,,,,,24.0,,9.0
+,,,,,,,,,,,,16.0,,Amaranthine Necklace,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,12.0,,,,,,,10.0,Malkorok's Tainted Dog Tags,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,10.0,,,,,,,8.0,Necklace of the Terra-Cotta Vanquisher,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,
+16.0,,,,,,,,,,,,,,Warmsun Choker,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,10.0,,,,,6.0,,,Amulet of the Primal Turtle,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,
+,,,,,,6.0,,,,,,,,Necklace of the Terra-Cotta Protector,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,10.0
+16.0,,,,,,10.0,,,,,11.0,,,Talisman of Living Poison,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,,10.0,Juggernaut's Ignition Keys,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,9.0,,,,,8.0,13.0,,Necklace of the Terra-Cotta Invoker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+16.0,,,,,,10.0,,,,,12.0,,,Gleaming Eye of the Devilsaur,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,,,Blackfuse's Blasting Cord,,,,Epic,90.0,2.0,,,,,24.0,16.0,11.0
+,,,,,,10.0,,,,,6.0,,,Amulet of the Primal Turtle,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,
+,,,,,,,,,,,,,9.0,Hydraskull Choker,,,,Epic,90.0,2.0,,,,,24.0,16.0,12.0
+,,,,,,12.0,,,,,,,,Choker of the Final Word,,,,Epic,90.0,2.0,,,,,24.0,16.0,9.0
+,,,,,,9.0,,,,,,,,Moonjade Necklace,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,9.0
+,,,,,,,,,,,11.0,,10.0,Juggernaut's Ignition Keys,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,,,8.0,,,,,,,12.0,Necklace of the Hazillosaurus,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,16.0,,Grievous Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,,,9.0,,,,,,13.0,,Passionfire Choker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,8.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Grievous Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,,,10.0,,,,,11.0,,,Talisman of Living Poison,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,13.0,7.0,Necklace of the Terra-Cotta Mender,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,9.0
+,,,,,,,,,,,,16.0,10.0,Varandi Family Crest,,,,Rare,90.0,2.0,,,,,24.0,,11.0
+,,,,,,10.0,,,,,6.0,,,Amulet of the Primal Turtle,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,
+16.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Grievous Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,16.0,9.0,Grievous Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,16.0,,Grievous Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,,,,,,,,,,11.0,Lootraptor's Amulet,,,,Epic,90.0,2.0,,,,,24.0,16.0,9.0
+,,,,,,11.0,,,,,11.0,16.0,,Megaera's Shining Eye,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,16.0,,Sha-Seeker Collar,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,16.0,9.0,Coldstomp's Sorrow,,,,Rare,90.0,2.0,,,,,24.0,,
+,,,,,,8.0,,,,,12.0,16.0,,Necklace of Celerity,,,,Rare,90.0,2.0,,,,,24.0,,
+,,,,,,11.0,,,,,,,,Kaolan's Withering Necklace,,,,Epic,90.0,2.0,,,,,24.0,16.0,11.0
+,,,,,,,,,,,,16.0,9.0,Gnawing Tooth,,,,Rare,90.0,2.0,,,,,24.0,,11.0
+,,,,,,11.0,,,,,9.0,,,Emberfury Choker,,,,Rare,90.0,2.0,,,,,24.0,16.0,
+,,,,,,,,,,,,,,Thunder Bastion Neck,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,11.0,,,,,,,10.0,Gorget of Flowing Earth,,,,Uncommon,,2.0,,,,,24.0,16.0,
+,,,,,,11.0,,,,,9.0,,,Shackle of Eversparks,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,8.0,,,,,,,,Beads of the Mogu'shi,,,,Epic,90.0,2.0,,,,,23.0,12.0,15.0
+,,,,,,10.0,,,,,,,10.0,Talisman of Angry Spirits,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,15.0,9.0,Dreadful Gladiator's Pendant of Cruelty,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,Priest,,10.0,,,,,,15.0,10.0,Communal Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,28.0,Necklace of Disorientation,,,,Rare,90.0,2.0,,,,,23.0,,21.0
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,15.0,,Tyrannical Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,,,9.0,,,,,,15.0,,Mindcapture Pendant,,,,Rare,88.0,2.0,,,,,23.0,,11.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,15.0,9.0,Malevolent Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,21.0,,,,,,,28.0,Anarchist's Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,15.0,,Dreadful Gladiator's Pendant of Meditation,,,,Rare,90.0,2.0,,,,,23.0,,11.0
+,,,,,,11.0,,,,,,,,Amberglow Pendant,,,,Uncommon,,2.0,,,,,23.0,15.0,8.0
+,,,,,,,,,,,17.0,,,Necklace of the Dark Blaze,,,,Rare,90.0,2.0,,,,,23.0,,32.0
+,,,,Death knight,,10.0,,,,,,,,Heart-Lesion Amulet,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,10.0
+15.0,,,,Rogue,,,,,,,10.0,,10.0,Lightdrinker Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+15.0,,,,Hunter,,,,,,,10.0,,10.0,Trailseeker Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,12.0,,,,,,,8.0,Necklace of Congealed Weaknesses,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,15.0,9.0,Malevolent Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,23.0,,
+15.0,,,,,,11.0,,,,,,,8.0,Choker of the Unleashed Storm,,,,Epic,90.0,2.0,,,,,23.0,,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Tyrannical Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,15.0,9.0,Tyrannical Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Priest,,10.0,,,,,,15.0,10.0,Communal Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Malevolent Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,15.0,
+,,,,,,11.0,,,,,,15.0,,Korven's Amber-Sealed Beetle,,,,Epic,90.0,2.0,,,,,23.0,,9.0
+,,,,Druid,,10.0,,,,,,15.0,10.0,Springrain Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,Shaman,,10.0,,,,,,15.0,10.0,Streamtalker Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,25.0,,,,,25.0,,,Scorched Scarlet Key,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,11.0,,,,,,15.0,9.0,Malevolent Gladiator's Pendant of Cruelty,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,12.0,,,,,,,8.0,Necklace of Congealed Weaknesses,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,,,,,,,,8.0,,11.0,Pheromone-Coated Choker,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,9.0,,,Shackle of Eversparks,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,,,,,,,,8.0,,12.0,Don Guerrero's Glorious Choker,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,23.0,,,,,,,27.0,Temperature-Sensing Necklace,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,15.0,,Malevolent Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,,,,,,,,,15.0,,Brewmoon Necklace,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,,Lavasoul Collar,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,Monk,,,,,,,10.0,15.0,,Mistdancer Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,,,,,,,,27.0,,23.0,Bloodseeker's Solitaire,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,,,,,,11.0,15.0,9.0,Dorian's Necklace of Burgeoning Dreams,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Warlock,,10.0,,,,,,15.0,10.0,Felsoul Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+15.0,,,,Monk,,,,,,,10.0,,10.0,Mistdancer Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,Warrior,,10.0,,,,,,,10.0,Oathsworn Pendant,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Dreadful Gladiator's Necklace of Proficiency,,,,Rare,90.0,2.0,,,,,23.0,,
+15.0,,,,,,,,,,,,,,Stormcrier Choker,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,Paladin,,,,,,,10.0,15.0,,Sunsoul Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,,,,,,,,,,21.0,Armsmaster's Sealed Locket,,,,Rare,90.0,2.0,,,,,23.0,,28.0
+,,,,Death knight,,10.0,,,,,,,10.0,Heart-Lesion Pendant,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Dreadful Gladiator's Necklace of Prowess,,,,Rare,90.0,2.0,,,,,23.0,,
+15.0,,,,,,10.0,,,,,10.0,,,Hellrider's Choker,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,Paladin,,10.0,,,,,,,10.0,Sunsoul Pendant,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,11.0,15.0,,Amberglow Locket,,,,Uncommon,,2.0,,,,,23.0,,8.0
+15.0,,,,Druid,,,,,,,,,10.0,Springrain Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+,,,,,,23.0,,,,,28.0,,,"Helios, Durand's Soul of Purity",,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,28.0,,,,,21.0,,,Mindbreaker Pendant,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Malevolent Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Malevolent Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,Warlock,,10.0,,,,,,15.0,10.0,Felsoul Medallion,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,,,25.0,,,,,25.0,,,Scorched Scarlet Key,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,9.0,15.0,,Amberglow Choker,,,,Uncommon,,2.0,,,,,23.0,,
+,,,,,,10.0,,,,,10.0,,,Soulgrasp Choker,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,11.0,Tyrannical Gladiator's Necklace of Prowess,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Tyrannical Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,10.0,15.0,9.0,Oakhide Choker,,,,Uncommon,,2.0,,,,,22.0,,
+,,,,,,10.0,,,,,,15.0,9.0,Mist-Shaman Necklace,,,,Uncommon,,2.0,,,,,22.0,,
+15.0,,,,,,9.0,,,,,10.0,,,Rensai's Necklace,,,,Uncommon,,2.0,,,,,22.0,,
+,,,,,,8.0,,,,,11.0,15.0,,Pendant of Orbiss,,,,Uncommon,,2.0,,,,,22.0,,
+15.0,,,,,,8.0,,,,,,,11.0,Locket of the Sumprushes,,,,Uncommon,,2.0,,,,,22.0,,
+,,,,,,9.0,,,,,10.0,,,Gaze of the Serpent,,,,Rare,82.0,2.0,,,,,22.0,15.0,
+,,,,,,10.0,,,,,,15.0,10.0,Stolen Necklace of Accuracy,,,,Rare,81.0,2.0,,,,,22.0,,
+,,,,,,,,,,,9.0,,10.0,Bearheart Amulet,,,,Uncommon,,2.0,,,,,22.0,15.0,
+,,,,,,,,,,,,,,Grummle Amulet,,,,Uncommon,86.0,2.0,,,,,22.0,15.0,
+15.0,,,,,,,,,,,,,,Bejeweled Amulet,,,,Uncommon,87.0,2.0,,,,,22.0,,
+,,,,,,10.0,,,,,,15.0,,Wasteland Locket,,,,Uncommon,88.0,2.0,,,,,22.0,,10.0
+,,,,,,9.0,,,,,10.0,15.0,,Wasteland Choker,,,,Uncommon,88.0,2.0,,,,,22.0,,
+14.0,,,,,,8.0,,,,,,,10.0,Necklace of Relative Peace,,,,Uncommon,,2.0,,,,,21.0,,
+14.0,,,,,,10.0,,,,,8.0,,,Grainlord's Necklace,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,10.0,,,,,8.0,,,Grainlord's Amulet,,,,Uncommon,,2.0,,,,,21.0,14.0,
+14.0,,,,,,,,,,,10.0,,9.0,Bramble Necklace,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,7.0,,,,,,,14.0,Firebound Gorget,,,,Epic,85.0,2.0,,,,,21.0,11.0,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,14.0,,Cataclysmic Gladiator's Pendant of Meditation,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,9.0,,,Cataclysmic Gladiator's Necklace of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,14.0,8.0,Heartstone of Rhyolith,,,,Epic,85.0,2.0,,,,,21.0,,10.0
+,,,,,,10.0,,,,,8.0,,,Necklace of Fetishes,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,9.0,,,,,9.0,The Lustrous Eye,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,10.0,,,,,,,9.0,Amulet of the Watcher,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,14.0,,Vicious Gladiator's Pendant of Meditation,,,,Epic,85.0,2.0,,,,,21.0,,9.0
+14.0,,,,,,,,,,,9.0,,9.0,Choker of Stolen Thunder,,,,Rare,85.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,9.0,,10.0,Acorn of the Daughter Tree,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,14.0,,Nightstone Choker,,,,Rare,82.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,,,,Mistral Pendant,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,10.0,14.0,9.0,Dorian's Lost Necklace,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,,,,Intricate Amulet,,,,Uncommon,83.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,9.0,,9.0,Choker of Stolen Thunder,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,10.0,,8.0,Necklace of the Dead City,,,,Rare,,2.0,,,,,21.0,14.0,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,9.0,Ruthless Gladiator's Necklace of Prowess,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,11.0,,,,,7.0,14.0,,Amulet of Burning Brilliance,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,,,,Gemmed Amulet,,,,Uncommon,84.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,9.0,14.0,,Tauntka's Necklace,,,,Rare,83.0,2.0,,,,,21.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,,,,,,9.0,14.0,9.0,Ruthless Gladiator's Pendant of Alacrity,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,9.0,Vicious Gladiator's Necklace of Prowess,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,10.0,14.0,9.0,Faded Forest Choker,,,,Uncommon,85.0,2.0,,,,,21.0,,
+,,,,,,7.0,,11.0,,,,,,Shard of Pirouetting Happiness,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,8.0,14.0,5.0,Flowform Choker,,1.0,,Epic,85.0,2.0,Prismatic socket,,,,21.0,,
+,,,,,,9.0,,,,,,,9.0,Red Sky Pendant,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,9.0,,,,,9.0,,,Mouth of the Earth,,,,Rare,83.0,2.0,,,,,21.0,,
+14.0,,,,,,9.0,,,,,9.0,,,Mouth of the Earth,,,,Rare,85.0,2.0,,,,,21.0,,
+14.0,,,,,,9.0,,,,,10.0,,,Sweet Perfume Brooch,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,14.0,,Planetary Amulet,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,,14.0,,Amulet of Tender Breath,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+14.0,,,,,,9.0,,,,,9.0,,,Nightrend Choker,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,10.0,,,,,,14.0,,Winking Eye of Love,,,,Rare,85.0,2.0,,,,,21.0,,9.0
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,14.0,,,,,,14.0,9.0,Vicious Gladiator's Pendant of Diffusion,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,,,9.0,Rage of Ages,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,9.0,,,Ruthless Gladiator's Necklace of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,10.0,14.0,,Heartbreak Charm,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,,10.0,Stoneheart Necklace,,,8.0,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,9.0,,,Ironshell Pendant,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Druid",,,,,,,9.0,14.0,9.0,Vicious Gladiator's Pendant of Alacrity,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,,,,Sorrowmurk Amulet,,,,Uncommon,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,10.0,14.0,,Giltstone Necklace,,,,Uncommon,,2.0,,,,,21.0,,8.0
+,,,,,,9.0,,,,,,,9.0,Red Sky Pendant,,,,Rare,81.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,,,,,,10.0,,7.0,Crystalmuncher Necklace,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,,,,,,,,,Nethander Amulet,,,,Uncommon,81.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,,,Thondroril Amulet,,,,Uncommon,83.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,,169.0,Heartstone of Rhyolith,,,,Epic,85.0,2.0,,,,,200.0,,201.0
+,,,,,,212.0,,,,,159.0,,,Necklace of Fetishes,,,,Epic,85.0,2.0,,,,,200.0,,
+,,,,,,,,,,,196.0,,175.0,Flowform Choker,,,,Epic,85.0,2.0,,,,,200.0,,
+,,,,,,12.0,,,,,,,10.0,Malkorok's Tainted Dog Tags,,,,Epic,90.0,2.0,,,,,26.0,17.0,
+,,,,,,,,,,,,17.0,10.0,Lost Necklace of the Mogu Empress,,,,Epic,90.0,2.0,,,,,26.0,,13.0
+17.0,,,,,,,,,,,12.0,,12.0,Immerseus' Crystalline Eye,,,,Epic,90.0,2.0,,,,,26.0,,
+,,,,,,,,,,,11.0,17.0,,Necklace of Fading Light,,,,Epic,90.0,2.0,,,,,26.0,,12.0
+,,,,,,13.0,,,,,,,,Choker of the Final Word,,,,Epic,90.0,2.0,,,,,26.0,17.0,9.0
+,,,,,,,,,,,12.0,,11.0,Juggernaut's Ignition Keys,,,,Epic,90.0,2.0,,,,,26.0,17.0,
+,,,,,,13.0,,,,,,,,Choker of the Final Word,,,,Epic,90.0,2.0,,,,,26.0,17.0,9.0
+,,,,,,12.0,,,,,,,10.0,Malkorok's Tainted Dog Tags,,,,Epic,90.0,2.0,,,,,26.0,17.0,
+,,,,,,,,,,,11.0,17.0,,Necklace of Fading Light,,,,Epic,90.0,2.0,,,,,25.0,,11.0
+17.0,,,,,,,,,,,11.0,,11.0,Immerseus' Crystalline Eye,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,,,11.0,,,,,,17.0,12.0,Untainted Guardian's Chain,,,,Epic,90.0,2.0,,,,,25.0,,
+,,,,,,,,,,,11.0,,,Blackfuse's Blasting Cord,,,,Epic,90.0,2.0,,,,,24.0,16.0,11.0
+,,,,,,,,,,,,16.0,12.0,Horridon's Tusk Fragment,,,,Epic,90.0,2.0,,,,,24.0,,9.0
+,,,,,,11.0,,,,,11.0,16.0,,Megaera's Shining Eye,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,16.0,,Necklace of Fading Light,,,,Epic,90.0,2.0,,,,,24.0,,11.0
+,,,,,,12.0,,,,,,,10.0,Malkorok's Tainted Dog Tags,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,9.0,,,,,,13.0,,Passionfire Choker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,8.0
+16.0,,,,,,10.0,,,,,12.0,,,Gleaming Eye of the Devilsaur,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,11.0,,,Blackfuse's Blasting Cord,,,,Epic,90.0,2.0,,,,,24.0,16.0,11.0
+,,,,,,11.0,,,,,11.0,16.0,,Megaera's Shining Eye,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,,,10.0,,,,,11.0,,,Talisman of Living Poison,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,9.0,,,,,8.0,13.0,,Necklace of the Terra-Cotta Invoker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+,,,,,,9.0,,,,,,13.0,,Passionfire Choker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,8.0
+,,,,,,12.0,,,,,8.0,16.0,,Ashflare Pendant,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,13.0,8.0,Necklace of the Terra-Cotta Mender,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,10.0
+,,,,,,12.0,,,,,,,,Choker of the Final Word,,,,Epic,90.0,2.0,,,,,24.0,16.0,9.0
+13.0,,,,,,,,,,,9.0,,9.0,Quadra-Head Brooch,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+,,,,,,,,,,,5.0,10.0,,Soul Prism of Lei Shen,,2.0,,Epic,90.0,2.0,Prismatic socket,Prismatic socket,,,24.0,,9.0
+,,,,,,12.0,,,,,8.0,16.0,,Ashflare Pendant,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,,,10.0,,,,,11.0,,,Talisman of Living Poison,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,16.0,12.0,Horridon's Tusk Fragment,,,,Epic,90.0,2.0,,,,,24.0,,9.0
+,,,,,,10.0,,,,,,,8.0,Necklace of the Terra-Cotta Vanquisher,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,13.0,
+16.0,,,,,,,,,,,11.0,,11.0,Immerseus' Crystalline Eye,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,11.0,,,,,11.0,16.0,,Megaera's Shining Eye,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,9.0,,,,,,13.0,,Passionfire Choker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,8.0
+,,,,,,9.0,,,,,8.0,13.0,,Necklace of the Terra-Cotta Invoker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+16.0,,,,,,9.0,,,,,11.0,,,Flanker's Battletags,,,,Epic,90.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,16.0,11.0,Horridon's Tusk Fragment,,,,Epic,90.0,2.0,,,,,24.0,,9.0
+,,,,,,11.0,,,,,,,10.0,Talisman of Angry Spirits,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,,,,,,,,8.0,Hydraskull Choker,,,,Epic,90.0,2.0,,,,,24.0,16.0,12.0
+13.0,,,,,,,,,,,9.0,,9.0,Quadra-Head Brooch,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,24.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Grievous Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Grievous Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+,,,,,,11.0,,,,,,16.0,11.0,Karabor Sage Pendant,,,,Rare,,2.0,,,,,24.0,,
+,,,,,,11.0,,,,,9.0,,,Shackle of Eversparks,,,,Epic,90.0,2.0,,,,,24.0,16.0,
+16.0,,,,,,11.0,,,,,,,,Chain of Biting Winds,,,,Uncommon,,2.0,,,,,24.0,,11.0
+,,,,,,,,,,,,16.0,,Primalist's Prismatic Pendant,,,,Rare,90.0,2.0,,,,,24.0,,21.0
+16.0,,,,,,,,,,,,,,Mist Splitter's Choker,,,,Epic,90.0,2.0,,,,,24.0,,
+16.0,,,,,,11.0,,,,,,,9.0,Skulltooth Collar,,,,Rare,90.0,2.0,,,,,24.0,,
+12.0,,,,,,,,,,,8.0,,8.0,Quadra-Head Brooch,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,,
+,,,,,,10.0,,,,,10.0,15.0,,Megaera's Shining Eye,,,,Epic,90.0,2.0,,,,,23.0,,
+15.0,,,,,,9.0,,,,,11.0,,,Talisman of Living Poison,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,9.0,,,,,7.0,12.0,,Necklace of the Terra-Cotta Invoker,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,,
+,,,,,,,,,,,,12.0,7.0,Necklace of the Terra-Cotta Mender,,1.0,,Epic,90.0,2.0,Prismatic socket,,,,23.0,,9.0
+,,,,,,,,,,,,15.0,,Firebinder Collar,,,,Epic,90.0,2.0,,,,,23.0,,
+15.0,,,,,,10.0,,,,,10.0,,,Engraved Amber Pendant,,,,Rare,89.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,,Cliffbreaker Choker,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,Druid,,,,,,,10.0,15.0,,Springrain Necklace,,,,Uncommon,90.0,2.0,,,,,23.0,,10.0
+15.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,11.0,,,Tyrannical Gladiator's Necklace of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Mage,Warlock,Monk,Druid",,,,,,,11.0,15.0,9.0,Tyrannical Gladiator's Pendant of Alacrity,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,,,22.0,,,,,,,,Mindcapture Pendant,,,,Rare,90.0,2.0,,,,,23.0,,28.0
+,,,,,,,,,,,,15.0,,Amaranthine Necklace,,,,Epic,90.0,2.0,,,,,23.0,,
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Dreadful Gladiator's Choker of Accuracy,,,,Rare,90.0,2.0,,,,,23.0,15.0,
+,,,,,,9.0,,,,,,15.0,11.0,Gurthan Locket,,,,Uncommon,,2.0,,,,,23.0,,
+,,,,,,11.0,,,,,9.0,15.0,,Council Choker,,,,Uncommon,,2.0,,,,,23.0,,
+,,,,,,,,,,,,15.0,,Fireheart Collar,,,,Rare,90.0,2.0,,,,,23.0,,
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Malevolent Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,24.0,15.0,
+,,,,,,,,,,,,15.0,,Kiln-Stoker Collar,,,,Epic,90.0,2.0,,,,,23.0,,
+15.0,,,,Hunter,,,,,,,10.0,,10.0,Trailseeker Choker,,,,Uncommon,90.0,2.0,,,,,23.0,,
+,,,,"Paladin,Priest,Shaman,Monk,Druid",,,,,,,9.0,15.0,,Tyrannical Gladiator's Pendant of Meditation,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,,,,,,,,9.0,15.0,,Stomphowl Pendant,,,,Epic,90.0,2.0,,,,,23.0,,11.0
+,,,,"Warrior,Paladin,Death knight",,11.0,,,,,9.0,,,Tyrannical Gladiator's Choker of Accuracy,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,10.0,,,,,,,,Reflection of the Sea,,,,Rare,90.0,2.0,,,,,23.0,15.0,10.0
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,11.0,Tyrannical Gladiator's Choker of Proficiency,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,8.0,,12.0,Mushan Rider's Collar,,,,Epic,90.0,2.0,,,,,23.0,15.0,
+,,,,Warrior,,10.0,,,,,,,10.0,Oathsworn Pendant,,,,Uncommon,90.0,2.0,,,,,23.0,15.0,
+,,,,,,,,,,,10.0,15.0,9.0,Growthtender Locket,,,,Uncommon,,2.0,,,,,22.0,,
+,,,,,,,,,,,,,10.0,Bramble Pendant,,,,Uncommon,,2.0,,,,,21.0,14.0,8.0
+,,,,,,,,,,,10.0,,,Grainlord's Pendant,,,,Uncommon,,2.0,,,,,21.0,14.0,9.0
+,,,,,,9.0,,,,,,14.0,10.0,Jhuuroon's Collar,,,,Uncommon,,2.0,,,,,21.0,,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,9.0,Cataclysmic Gladiator's Necklace of Prowess,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,14.0,,Shamanic Amulet,,,,Uncommon,85.0,2.0,,,,,21.0,,
+,,,,"Warrior,Paladin,Death knight",,,,,,,9.0,,9.0,Cataclysmic Gladiator's Choker of Prowess,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,9.0,,,,,9.0,,,Vicious Gladiator's Pendant of Conquest,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,11.0,,,,,8.0,14.0,,Crystal-Chained Lodestone,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,"Warrior,Paladin,Death knight",,,,,,,9.0,,9.0,Bloodthirsty Gladiator's Choker of Accuracy,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,9.0,Vicious Gladiator's Necklace of Prowess,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,9.0,,,Ruthless Gladiator's Necklace of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,14.0,,,,,9.0,,,,,,,,Fractured Earthstone Necklace,,,,Rare,85.0,2.0,,,,,21.0,14.0,9.0
+,,,,,,9.0,,,,,,,9.0,Red Sky Pendant,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,,,9.0,Bloodthirsty Gladiator's Choker of Proficiency,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+14.0,14.0,,,,,,,,,,9.0,,,Ionized Choker,,,,Rare,85.0,2.0,,,,,21.0,14.0,9.0
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,9.0,,,Vicious Gladiator's Necklace of Proficiency,,,,Epic,85.0,2.0,,,,,21.0,,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,9.0,,,,,9.0,,,Bloodthirsty Gladiator's Necklace of Proficiency,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,,,,,,,,,Cloudburst Necklace,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,11.0,14.0,8.0,Pipefish Cord,,,,Rare,85.0,2.0,,,,,21.0,,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,9.0,Bloodthirsty Gladiator's Necklace of Prowess,,,,Rare,85.0,2.0,,,,,21.0,,
+14.0,,,,,,11.0,,,,,8.0,,,Barnacle Pendant,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,"Warrior,Paladin,Death knight",,,,,,,9.0,,9.0,Vicious Gladiator's Choker of Accuracy,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+14.0,,14.0,,,,,,,,,9.0,14.0,9.0,Baroness Silverlaine's Locket,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,9.0,,,,,,,9.0,Pendant of the Lightless Grotto,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,10.0,,,Choker of the Pure Heart,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,,,,,,9.0,,9.0,Necklace of Strife,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,9.0,14.0,,Charm of the Muse,,,,Rare,83.0,2.0,,,,,21.0,,
+14.0,,,,"Hunter,Rogue,Shaman,Monk,Druid",,,,,,,9.0,,9.0,Ruthless Gladiator's Necklace of Prowess,,,,Epic,85.0,2.0,,,,,21.0,,
+,,,,"Warrior,Paladin,Death knight",,9.0,,,,,9.0,,,Ruthless Gladiator's Choker of Accuracy,,,,Epic,85.0,2.0,,,,,21.0,14.0,
+14.0,,,,,,,,,,,10.0,,9.0,Pendant of Victorious Fury,,,,Rare,,2.0,,,,,21.0,,
+,,,,,,,,,,,10.0,14.0,8.0,Pipefish Cord,,,,Rare,85.0,2.0,,,,,21.0,,
+,,,,,,9.0,,,,,9.0,,,Ironshell Pendant,,,,Rare,85.0,2.0,,,,,21.0,14.0,
+,,,,,,9.0,,,,,9.0,,,Amulet of Reconstruction,,,,Rare,,2.0,,,,,21.0,14.0,
+,,,,,,8.0,,,,,10.0,,,Nightmare Choker,,,,Uncommon,,2.0,,,,,21.0,14.0,
+14.0,,,,,,,,,,,9.0,,9.0,Cenotaph Choker,,,,Uncommon,,2.0,,,,,21.0,,
+,,,,,,,,,,,,14.0,,Blackwolf Amulet,,,,Uncommon,84.0,2.0,,,,,21.0,,
+14.0,,,,,,,,,,,,,,Mereldar Amulet,,,,Uncommon,82.0,2.0,,,,,21.0,,
+,,,,,,7.0,,,,,10.0,,,Eye of Heaven,,,,Rare,82.0,2.0,,,,,21.0,14.0,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Hidden Satyr,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,18.0,,Whispering Taladite Pendant,,,,Epic,91.0,2.0,,,,,28.0,,
+,,,,,,12.0,,,,,12.0,18.0,,Odyssian Choker,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Trained Soldier,,,,Common,100.0,,,,,,,,
+,,,,,,18.0,,,,,7.0,19.0,,Glowing Firestone,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Hidden Satyr,,,,Common,100.0,,,,,,,,
+,,,,,,30.0,,,,,35.0,,,Infernal Cord,,,,Rare,100.0,2.0,,,,,29.0,,
+19.0,,,,,,,,,,,18.0,,8.0,Chain of Lidless Eyes,,,,Epic,100.0,2.0,,,,,29.0,,
+19.0,,,,,,,,,,,10.0,,15.0,Heartseeking Skull Pendant,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,17.0,19.0,8.0,Choker of Forbidden Indulgence,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,10.0,19.0,,Voltage Regulation Diode,,,,Epic,100.0,2.0,,,,,28.0,,15.0
+18.0,,,,,,,,,,,,,,Shifting Taladite Pendant,,,,Epic,91.0,2.0,,,,,28.0,,
+17.0,,,,,,12.0,,,,,,,10.0,Lovely Locket of the Luxurious Locks of Lor're,,,,Rare,95.0,2.0,,,,,26.0,,
+,,,,,,,,,,,,17.0,,Fingers of the Void,,,,Rare,94.0,2.0,,,,,25.0,,22.0
+,,,,,,13.0,,,,,11.0,18.0,,Sorcerer-King Toe Ring,,,,Rare,91.0,2.0,,,,,28.0,,
+,,,,,,9.0,,,,,,19.0,17.0,Vial of Immiscible Liquid,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,12.0,,,,,12.0,,,Vertebrae Protector,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,13.0,18.0,,Choker of Bloody Flame,,,,Epic,100.0,2.0,,,,,28.0,,10.0
+,,,,,,,,,,,11.0,18.0,13.0,Gruul's Lip Ring,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Claw,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Claw,,,,Rare,100.0,,,,,,,,
+,,,,,,,,,,,26.0,,39.0,Legionnaire's Fel Pendant,,,,Rare,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Trained Soldier,,,,Rare,100.0,,,,,,,,
+,,,,,,7.0,,,,,,19.0,,Locket of Unholy Reconstitution,,,,Epic,100.0,2.0,,,,,29.0,,19.0
+,,,,,,8.0,,,,,17.0,,,Shadowgorged Iron Choker,,,,Epic,100.0,2.0,,,,,28.0,19.0,
+,,,,,,12.0,,,,,,,12.0,Thogar's Serrated Chain,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,,,12.0,,,,,12.0,,,Darklight Necklace,,,,Epic,100.0,2.0,,,,,28.0,,
+19.0,,,,,,10.0,,,,,16.0,,,Choker of the Great Betrayer,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,17.0,,8.0,Corrupted Talonguard Pendant,,,,Epic,100.0,2.0,,,,,28.0,19.0,
+18.0,18.0,,,,,,,,,,,,12.0,Fiery Links of Courage,,,,Epic,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,,,,,,,,,18.0,13.0,Talisman of the Fomor,,,,Epic,100.0,2.0,,,,,28.0,,11.0
+,,,,,,44.0,,,,,,,18.0,Tideskorn Jarl's Pendant,,,,Rare,98.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,,,Sunsworn Amulet,,,,Uncommon,96.0,2.0,,,,,25.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Versatile,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Quick,,,,Common,100.0,,,,,,,,
+,,,,,,10.0,,,,,15.0,,,Bolt-Latched Felsteel Gorget,,,,Epic,100.0,2.0,,,,,28.0,19.0,
+,,,,,,42.0,,,,,19.0,,,Korgrul's Taming Chain,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,,,,,,,,10.0,18.0,,Unpopped Pustule Pendant,,,,Rare,100.0,2.0,,,,,28.0,,14.0
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Heavy Hide,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Master,,,,Common,100.0,,,,,,,,
+,,,,,,9.0,,,,,,19.0,,Choker of Whispered Promises,,,,Epic,100.0,2.0,,,,,29.0,,17.0
+18.0,,,,,,12.0,,,,,13.0,,,Reaver's Nose Ring,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,11.0,Glutton's Kerchief,,,,Epic,100.0,2.0,,,,,28.0,18.0,13.0
+16.0,,,,,,12.0,,,,,,,9.0,Xuk's Good Xuk Charm,,,,Uncommon,,2.0,,,,,24.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Master,,,,Common,100.0,,,,,,,,
+19.0,19.0,,,,,,,,,,,,7.0,World Ender's Gorget,,,,Epic,100.0,2.0,,,,,29.0,19.0,19.0
+,,,,,,15.0,,,,,,,11.0,Choker of Sneering Superiority,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+19.0,,,,,,15.0,,,,,,,10.0,Faulty Detonator Cord,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,14.0,,,,,,,,Collar of Wailing Mouths,,,,Epic,100.0,2.0,,,,,28.0,18.0,10.0
+,,,,,,,,,,,,18.0,,Vexed Pendant,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,,,Glowing Taladite Pendant,,,,Epic,91.0,2.0,,,,,28.0,18.0,
+,,,,,,12.0,,,,,12.0,,,Rooby Roo's Ruby Rollar,,,,Rare,96.0,2.0,,,,,26.0,17.0,
+,,,,,,12.0,,,,,12.0,17.0,,Snail Shell Necklace,,,,Rare,94.0,2.0,,,,,26.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Hidden Satyr,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Deadly,,,,Common,100.0,,,,,,,,
+,,,,,,13.0,,,,,,18.0,,Feldspar's Control Choker,,,,Epic,100.0,2.0,,,,,28.0,,12.0
+,,,,,,,,,,,,,,Vexed Chain,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,,,Spirewalker's Chain,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,,,Shadowsage Amulet,,,,Uncommon,97.0,2.0,,,,,26.0,,
+,,,,,,,,,,,10.0,,12.0,Waterworn Ogre Carving,,,,Uncommon,,2.0,,,,,24.0,16.0,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Trained Soldier,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Ancient Priestess,,,,Rare,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Quick,,,,Common,100.0,,,,,,,,
+19.0,,,,,,,,,,,14.0,,12.0,Wild Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+19.0,19.0,,,,,,,,,,,,8.0,Contained Fel Orb Locket,,,,Epic,100.0,2.0,,,,,28.0,19.0,17.0
+,,,,,,,,,,,11.0,18.0,13.0,Dorian's Cipher Key,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Monk,,,,,,,18.0,,43.0,Harmonious Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,,13.0,Primal Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+18.0,18.0,,,,,,,,,,,,11.0,Primal Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,28.0,18.0,13.0
+18.0,18.0,,,,,,,,,,,,,Lightbender Locket,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,Priest,,,,,,,12.0,18.0,,Communal Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,12.0
+18.0,,,,Monk,,,,,,,12.0,,12.0,Mistdancer Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Warmongering Aspirant's Necklace of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,,,,,,9.0,,,,,14.0,,,Windseal Necklace,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Warmongering Aspirant's Necklace of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Claw,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Heavy Hide,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Heavy Hide,,,,Common,100.0,,,,,,,,
+,,,,,,14.0,,,,,12.0,19.0,,Warmongering Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,7.0,19.0,11.0,Necklace of Flowing Light,,,,Epic,100.0,2.0,,,,,29.0,,7.0
+,,,,,,11.0,,,,,7.0,,,Studded Choker of the Accursed,,,,Epic,100.0,2.0,,,,,29.0,19.0,7.0
+19.0,19.0,,,,,,,,,,,,12.0,Wild Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,29.0,19.0,14.0
+,,,,,,12.0,,,,,,19.0,14.0,Warmongering Combatant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,29.0,,
+19.0,19.0,,,,,10.0,,,,,,,,Spiked Bloodstone Pendant,,,,Epic,100.0,2.0,,,,,28.0,19.0,15.0
+18.0,,,,,,12.0,,,,,12.0,,,Nimble Crystalline Pendant,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,,Champion's Medallion,,,,Epic,100.0,2.0,,,,,28.0,,13.0
+18.0,,,,,,,,,,,14.0,,10.0,Engineer's Grounded Gorget,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Rogue,,,,,,,15.0,,46.0,Skulldugger Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,21.0,,40.0,The Blood-Thane's Amulet,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,,,18.0,,,,,,,44.0,Psychotic Scholar's Chain,,,,Uncommon,,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,10.0,Choker of Oozing Wounds,,,,Epic,100.0,2.0,,,,,28.0,18.0,14.0
+,,,,,,,,,,,37.0,,25.0,Grelda's Ageless Pendant,,,,Rare,98.0,2.0,,,,,28.0,,
+,,,,Death knight,,15.0,,,,,,,46.0,Inexorable Pendant,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Paladin,,43.0,,,,,,,,Duskbreaker Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,,18.0
+,,,,,,,,,,,21.0,,40.0,The Violaceous Pearl,,,,Rare,98.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,12.0,,,Battle Hardened Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,Druid,,,,,,,,,40.0,Nurturer Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,21.0
+,,,,,,13.0,,,,,,18.0,11.0,Spiteleaf Podstrand,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Paladin,,12.0,,,,,,,,Sunsoul Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,Death knight,,12.0,,,,,,,,Heart-Lesion Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,12.0
+18.0,,,,Druid,,,,,,,,,12.0,Springrain Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,12.0
+18.0,,,,Rogue,,,,,,,12.0,,12.0,Lightdrinker Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+17.0,,,,,,12.0,,,,,11.0,,,Talonbreaker Talisman,,,,Rare,96.0,2.0,,,,,26.0,,
+,,,,,,11.0,,,,,,17.0,12.0,Tesska's Cursed Talisman,,,,Rare,94.0,2.0,,,,,26.0,,
+,,,,,,12.0,,,,,11.0,17.0,,Poellan Pendant,,,,Rare,95.0,2.0,,,,,26.0,,
+,,,,,,,,,,,,,,Growthshaper Amulet,,,,Uncommon,92.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,,Moonwhisper Amulet,,,,Uncommon,91.0,2.0,,,,,23.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Distant Army,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Master,,,,Common,100.0,,,,,,,,
+,,,,,,14.0,,,,,12.0,19.0,,Warmongering Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+19.0,19.0,,,,,,,,,,,,12.0,Warmongering Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,29.0,19.0,14.0
+,,,,,,,,,,,,19.0,14.0,Wild Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,29.0,,12.0
+,,,,,,,,,,,,19.0,14.0,Warmongering Combatant's Pendant of Contemplation,,,,Rare,100.0,2.0,,,,,29.0,,12.0
+,,,,,,12.0,,,,,14.0,,,Wild Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+,,,,,,12.0,,,,,,,14.0,Wild Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+,,,,,,12.0,,,,,,,14.0,Warmongering Combatant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,29.0,19.0,
+19.0,19.0,,,,,,,,,,,,12.0,Wild Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,29.0,19.0,14.0
+19.0,,,,,,14.0,,,,,12.0,,,Wild Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+19.0,,,,,,,,,,,14.0,,12.0,Wild Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,14.0,,,,,12.0,19.0,,Warmongering Combatant's Pendant of Prowess,,,,Rare,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,12.0,19.0,,Wild Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,29.0,,14.0
+,,,,Druid,,49.0,,,,,,,12.0,Nurturer Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,21.0,,,,,,,40.0,Medallion of Morashu,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,13.0,Primal Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Mage,,43.0,,,,,,,18.0,Abstruse Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Shaman,,49.0,,,,,,,12.0,Stormseeker Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,13.0,,11.0,Sorka's Ear Collection,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,44.0,,,,,,,,Bonefeather Talisman,,,,Uncommon,,2.0,,,,,28.0,,18.0
+,,,,,,,,,,,11.0,18.0,13.0,Wild Combatant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,9.0,,,,,,,,Hand-Welded Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,16.0
+18.0,18.0,,,,,,,,,,,,9.0,Choker of Bestial Force,,,,Epic,100.0,2.0,,,,,28.0,18.0,14.0
+,,,,Warlock,,18.0,,,,,,,43.0,Ruinrain Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,,,,,,,,,,,13.0,,11.0,Wild Combatant's Necklace of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,Warrior,,21.0,,,,,,,40.0,Defiant Pendant,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,13.0,Wild Combatant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,10.0,,,,,,,,Gorget of Primal Might,,,,Epic,100.0,2.0,,,,,28.0,18.0,13.0
+,,,,,,13.0,,,,,11.0,18.0,,Wild Combatant's Pendant of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,26.0,,,,,,,35.0,Dreamflow Collar,,,,Rare,98.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,,Dreamsleep Locket,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,37.0,,,,,25.0,,,Buccaneer's Lucky Chain,,,,Rare,,2.0,,,,,28.0,,
+,,,,Priest,,46.0,,,,,,,15.0,Soulward Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Druid,,,,,,,12.0,18.0,,Springrain Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,12.0
+18.0,,,,Shaman,,,,,,,12.0,,12.0,Streamtalker Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,,,,Monk,,12.0,,,,,,,,Mistdancer Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,,12.0
+,,,,,,,,,,,,18.0,10.0,Fire-Blind Necklace,,,,Epic,100.0,2.0,,,,,28.0,,14.0
+,,,,Monk,,,,,,,12.0,18.0,,Mistdancer Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,12.0
+18.0,,,,Druid,,,,,,,,,12.0,Springrain Choker,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+,,,,,,11.0,,,,,,18.0,13.0,Wild Aspirant's Pendant of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,,,,Druid,,,,,,,12.0,,12.0,Springrain Choker,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Wild Aspirant's Necklace of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Priest,,,,,,,12.0,18.0,,Communal Necklace,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+18.0,,,,Rogue,,,,,,,12.0,,12.0,Lightdrinker Choker,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,13.0,,,,,11.0,18.0,,Primal Combatant's Pendant of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,Hunter,,,,,,,12.0,,12.0,Trailseeker Choker,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,,Primal Combatant's Pendant of Meditation,,,,Rare,100.0,2.0,,,,,28.0,,13.0
+,,,,,,,,,,,,18.0,13.0,Primal Combatant's Pendant of Contemplation,,,,Rare,100.0,2.0,,,,,28.0,,11.0
+,,,,Shaman,,,,,,,12.0,18.0,,Streamtalker Necklace,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+,,,,,,,,,,,,18.0,,Goldleaf Bloom,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,13.0,,,Primal Combatant's Choker of Prowess,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,Monk,,,,,,,12.0,,12.0,Mistdancer Choker,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,,13.0,Eroded Warsong Pendant,,,,Uncommon,,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,17.0,12.0,Skywatch Adherent Locket,,,,Uncommon,,2.0,,,,,26.0,,
+,,,,,,10.0,,,,,13.0,,,Warbeads of the Blackheart,,,,Uncommon,,2.0,,,,,26.0,17.0,
+17.0,,,,,,10.0,,,,,,,,Shadar Chain Pendant,,,,Uncommon,,2.0,,,,,25.0,,12.0
+,,,,,,10.0,,,,,,,,Laughing Skull Trophy Necklace,,,,Uncommon,,2.0,,,,,24.0,16.0,11.0
+,,,,,,,,,,,10.0,16.0,,Xuk's Spirit-Speaking Chain,,,,Uncommon,,2.0,,,,,24.0,,11.0
+,,,,,,,,,,,11.0,16.0,11.0,Utrophis-Soaked Spiritstone,,,,Uncommon,,2.0,,,,,24.0,,
+,,,,,,,,,,,,,,Zangarra Amulet,,,,Uncommon,94.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Ancient Priestess,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Quick,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Deadly,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,12.0,19.0,,Warmongering Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,29.0,,14.0
+,,,,,,12.0,,,,,,,14.0,Warmongering Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+,,,,,,,,,,,,19.0,14.0,Warmongering Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,29.0,,12.0
+,,,,,,12.0,,,,,14.0,,,Warmongering Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+19.0,19.0,,,,,,,,,,,,12.0,Warmongering Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,29.0,19.0,14.0
+,,,,,,12.0,,,,,14.0,,,Warmongering Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+19.0,,,,,,,,,,,14.0,,12.0,Warmongering Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,11.0,19.0,7.0,Insightful Void-Link Chain,,,,Epic,100.0,2.0,,,,,29.0,,7.0
+,,,,,,14.0,,,,,12.0,19.0,,Warmongering Combatant's Pendant of Prowess,,,,Rare,100.0,2.0,,,,,29.0,,
+,,,,,,12.0,,,,,14.0,,,Wild Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+,,,,,,12.0,,,,,,,14.0,Warmongering Combatant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,29.0,19.0,
+19.0,19.0,,,,,,,,,,,,12.0,Warmongering Combatant's Choker of Endurance,,,,Rare,100.0,2.0,,,,,29.0,19.0,14.0
+,,,,,,12.0,,,,,14.0,,,Warmongering Combatant's Choker of Prowess,,,,Rare,100.0,2.0,,,,,29.0,19.0,
+19.0,,,,,,14.0,,,,,12.0,,,Wild Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,14.0,,,,,12.0,19.0,,Wild Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,12.0,19.0,14.0,Wild Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,12.0,19.0,,Wild Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,29.0,,14.0
+19.0,,,,,,,,,,,14.0,,12.0,Warmongering Combatant's Necklace of Prowess,,,,Rare,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,12.0,19.0,,Warmongering Combatant's Pendant of Meditation,,,,Rare,100.0,2.0,,,,,29.0,,14.0
+,,,,,,12.0,,,,,,,14.0,Wild Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+,,,,,,23.0,,,,,39.0,,,Watcher's Pendant of Courage,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,,,,,,,,13.0,,11.0,Wild Combatant's Choker of Prowess,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,,,,,,,,10.0,,14.0,Spiked Foundry Collar,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Druid,,,,,,,46.0,,,Nurturer Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,15.0
+18.0,,,,,,,,,,,12.0,,,Firecrystal Chain,,,,Epic,100.0,2.0,,,,,28.0,,13.0
+,,,,,,12.0,,,,,12.0,,,Mighty Crystalline Pendant,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,18.0,,,,,,,,,,,,11.0,Wild Combatant's Choker of Endurance,,,,Rare,100.0,2.0,,,,,28.0,18.0,13.0
+18.0,,,,,,,,,,,13.0,,11.0,Primal Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Hunter,,,,,,,21.0,,40.0,Warscout Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Demon hunter,,32.0,,,,,30.0,,,Illidari Chain,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,,Discordant Collar,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,13.0,18.0,,Choker of Infinite Durability,,,,Epic,100.0,2.0,,,,,28.0,,12.0
+18.0,18.0,,,,,,,,,,,,,Discordant Amulet,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,13.0,,,,,11.0,18.0,,Primal Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Wild Combatant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,,Bladeblunter Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,11.0,18.0,,Primal Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,28.0,,13.0
+,,,,,,12.0,,,,,12.0,18.0,,Loop of Beaded Mane,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,13.0,Primal Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,28.0,,11.0
+18.0,,,,,,,,,,,,,,Gorefeather Pendant,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,13.0,Primal Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,28.0,,11.0
+,,,,,,,,,,,11.0,18.0,,Wild Combatant's Pendant of Meditation,,,,Rare,100.0,2.0,,,,,28.0,,13.0
+,,,,,,14.0,,,,,,,11.0,Tenacious Dominator's Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,,13.0,Primal Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,Paladin,,,,,,,15.0,,,Duskbreaker Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,46.0
+18.0,18.0,,,,,,,,,,12.0,,,Drov's Durable Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,Warrior,,18.0,,,,,,,,Defiant Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,,43.0
+,,,,Death knight,,46.0,,,,,,,,Inexorable Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,,15.0
+,,,,,,,,,,,,18.0,13.0,Wild Combatant's Pendant of Contemplation,,,,Rare,100.0,2.0,,,,,28.0,,11.0
+,,,,,,8.0,,,,,17.0,18.0,,Chain of Agonizing Woe,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Paladin,,15.0,,,,,,,46.0,Duskbreaker Pendant,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,13.0,,11.0,Primal Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,11.0,18.0,,Wild Combatant's Pendant of Meditation,,,,Rare,100.0,2.0,,,,,28.0,,13.0
+,,,,Druid,,,,,,,15.0,,46.0,Nurturer Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,,,,,,,,,,,,,,Dark Night Choker,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Paladin,,12.0,,,,,,,12.0,Sunsoul Pendant,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,,,Doomchain Collar,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,Warrior,,12.0,,,,,,,12.0,Oathsworn Pendant,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,
+,,,,Warrior,,12.0,,,,,,,,Oathsworn Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,12.0
+18.0,,,,Druid,,,,,,,12.0,,12.0,Springrain Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Warlock,,12.0,,,,,,18.0,12.0,Felsoul Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Shaman,,,,,,,12.0,18.0,,Streamtalker Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,12.0
+,,,,Warrior,,12.0,,,,,,,,Oathsworn Amulet,,,,Rare,100.0,2.0,,,,,28.0,18.0,12.0
+18.0,,,,,,,,,,,13.0,,11.0,Primal Combatant's Necklace of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Primal Combatant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,,,,,,13.0,,11.0,Primal Combatant's Necklace of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,,,10.0,Fireblade Collar,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,18.0,13.0,Wild Aspirant's Pendant of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,,13.0,Wild Aspirant's Choker of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,,,Rageflame Choker,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,,,Oshu'gun Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,,Wild Aspirant's Pendant of Meditation,,,,Uncommon,100.0,2.0,,,,,28.0,,13.0
+18.0,18.0,,,,,,,,,,,,12.0,Warsong Wolfrider's Gorget,,,,Uncommon,,2.0,,,,,28.0,18.0,12.0
+18.0,18.0,,,,,,,,,,,,11.0,Wild Aspirant's Choker of Endurance,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,13.0
+,,,,,,,,,,,11.0,18.0,13.0,Warmongering Aspirant's Pendant of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,13.0,Primal Combatant's Pendant of Contemplation,,,,Rare,100.0,2.0,,,,,28.0,,11.0
+,,,,,,12.0,,,,,,18.0,12.0,Magister's Chain,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,Mage,,12.0,,,,,,18.0,12.0,Mountainsage Medallion,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,,Warmongering Aspirant's Pendant of Meditation,,,,Uncommon,100.0,2.0,,,,,28.0,,13.0
+18.0,18.0,,,,,,,,,,11.0,,,Fistbreak Choker,,,,Rare,100.0,2.0,,,,,28.0,18.0,13.0
+,,,,Shaman,,12.0,,,,,,18.0,12.0,Streamtalker Medallion,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,11.0,Wild Aspirant's Choker of Endurance,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,13.0
+,,,,,,,,,,,14.0,18.0,,Demonbinder Cabochon,,,,Rare,100.0,2.0,,,,,28.0,,9.0
+,,,,,,,,,,,11.0,18.0,,Warmongering Aspirant's Pendant of Meditation,,,,Uncommon,100.0,2.0,,,,,28.0,,13.0
+18.0,18.0,,,,,,,,,,,,11.0,Warmongering Aspirant's Choker of Endurance,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,13.0
+18.0,,,,,,12.0,,,,,,,12.0,Sunbleached Warsong Chain,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,,,14.0,,,,,,,,Three-Egg Pendant Necklace,,,,Rare,100.0,2.0,,,,,28.0,18.0,10.0
+,,,,,,11.0,,,,,,,13.0,Warmongering Aspirant's Choker of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,10.0,,14.0,Flesh Beetle Brooch,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,18.0,12.0,Ancestral Warsong Talisman,,,,Uncommon,,2.0,,,,,28.0,,12.0
+,,,,Warrior,,12.0,,,,,,,12.0,Oathsworn Pendant,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,,,Ripcurrent Chain,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,18.0,13.0,Primal Aspirant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,13.0,18.0,,Healing Leaf Necklace,,,,Rare,100.0,2.0,,,,,28.0,,11.0
+17.0,17.0,,,,,,,,,,,,13.0,Skywatch Adherant Gorget,,,,Uncommon,,2.0,,,,,26.0,17.0,9.0
+,,,,,,12.0,,,,,,17.0,,Soulcrystal Dust Pendant,,,,Uncommon,,2.0,,,,,26.0,,11.0
+,,,,,,,,,,,10.0,,12.0,Skywatch Adherent Choker,,,,Uncommon,,2.0,,,,,26.0,17.0,
+17.0,,,,,,11.0,,,,,,,12.0,Deathweb Toxin Vial,,,,Rare,95.0,2.0,,,,,26.0,,
+,,,,,,,,,,,,17.0,,Whispering Iron Choker,,,,Rare,95.0,2.0,,,,,25.0,,
+,,,,,,,,,,,,,,Soulkeeper Amulet,,,,Uncommon,95.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,16.0,12.0,Xuk's Fingerbone Pouch,,,,Uncommon,,2.0,,,,,24.0,,9.0
+16.0,,,,,,11.0,,,,,,,,Botani Tangle Chain,,,,Uncommon,,2.0,,,,,24.0,,10.0
+16.0,16.0,,,,,11.0,,,,,,,,Amulet of Quel'Riq,,,,Rare,91.0,2.0,,,,,24.0,16.0,11.0
+,,,,,,,,,,,,,,Evermorn Amulet,,,,Uncommon,93.0,2.0,,,,,24.0,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Distant Army,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Deadly,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,12.0,,,,,,19.0,14.0,Warmongering Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,12.0,19.0,,Warmongering Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,29.0,,14.0
+,,,,,,,,,,,,19.0,14.0,Warmongering Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,29.0,,12.0
+,,,,,,12.0,,,,,,,14.0,Warmongering Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,19.0,
+19.0,,,,,,14.0,,,,,12.0,,,Warmongering Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+19.0,,,,,,14.0,,,,,12.0,,,Warmongering Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,12.0,,,,,,19.0,14.0,Warmongering Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+19.0,,,,,,,,,,,14.0,,12.0,Warmongering Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+19.0,,,,,,7.0,,,,,,,11.0,Choker of Reciprocity,,,,Epic,100.0,2.0,,,,,29.0,,7.0
+,,,,,,,,,,,,19.0,14.0,Warmongering Combatant's Pendant of Contemplation,,,,Rare,100.0,2.0,,,,,29.0,,12.0
+,,,,,,12.0,,,,,14.0,,,Warmongering Combatant's Choker of Prowess,,,,Rare,100.0,2.0,,,,,29.0,19.0,
+19.0,19.0,,,,,,,,,,,,12.0,Warmongering Combatant's Choker of Endurance,,,,Rare,100.0,2.0,,,,,29.0,19.0,14.0
+19.0,,,,,,14.0,,,,,12.0,,,Warmongering Combatant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,12.0,19.0,14.0,Wild Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,12.0,,,,,,19.0,14.0,Warmongering Combatant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,29.0,,
+,,,,,,14.0,,,,,12.0,19.0,,Wild Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,29.0,,
+,,,,,,,,,,,,19.0,14.0,Wild Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,29.0,,12.0
+19.0,,,,,,8.0,,,,,,,17.0,Glowing String of Pebbles,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,19.0,9.0,Willbreaker Brooch,,,,Epic,100.0,2.0,,,,,28.0,,16.0
+18.0,18.0,,,,,,,,,,,,11.0,Wild Combatant's Choker of Endurance,,,,Rare,100.0,2.0,,,,,28.0,18.0,13.0
+,,,,Priest,,,,,,,15.0,,,Soulward Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,46.0
+,,,,,,,,,,,,18.0,,Embittered Locket,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,,,,,,,,,Choker of Crimson Cuts,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,12.0,Blackrock Iron Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,12.0
+18.0,,,,,,13.0,,,,,11.0,,,Primal Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,39.0,,23.0,Felblaze Chain,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,10.0,Eye of the Unseen Star,,,,Epic,100.0,2.0,,,,,28.0,,13.0
+18.0,,,,,,,,,,,13.0,,11.0,Primal Gladiator's Necklace of Prowess,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Shaman,,,,,,,49.0,,12.0,Stormseeker Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,12.0,,,,,12.0,18.0,,Insightful Crystalline Pendant,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,,Chain of Misty Vapors,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,13.0,Primal Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,35.0,,,,,26.0,,,Soulflayer's Collar of Bones,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,,,18.0,,,,,7.0,,,Fel Iron Roller Chain,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,13.0,,,,,11.0,18.0,,Primal Gladiator's Pendant of Prowess,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Monk,,15.0,,,,,,,,Harmonious Amulet,,,,Uncommon,100.0,2.0,,,,,28.0,,46.0
+,,,,Shaman,,,,,,,21.0,,,Stormseeker Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,40.0
+,,,,,,26.0,,,,,,,35.0,Radiant Charm of Elune,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,Monk,,,,,,,46.0,,,Harmonious Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,15.0
+,,,,,,,,,,,44.0,,18.0,Chain of Bossing Around,,,,Rare,,2.0,,,,,28.0,,
+,,,,,,,,,,,13.0,,,Bone Charm Chain,,,,Epic,100.0,2.0,,,,,28.0,18.0,11.0
+18.0,18.0,,,,,,,,,,12.0,,,Choker of Violent Displacement,,,,Epic,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,,,,,,,,42.0,,,Bitestone Incisor,,,,Rare,98.0,2.0,,,,,28.0,,19.0
+,,,,,,,,,,,13.0,,11.0,Primal Gladiator's Choker of Prowess,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,,,,,,,,12.0,,12.0,Gorenspike Choker,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,,13.0,Wild Combatant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,18.0,,,,,,,,,,,,10.0,Gorget of Induced Madness,,,,Epic,100.0,2.0,,,,,28.0,18.0,14.0
+18.0,,,,,,,,,,,,,,Vexed Necklace,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,11.0,Primal Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,28.0,18.0,13.0
+,,,,,,12.0,,,,,12.0,,,Rotting Goren Gutstone,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,,13.0,Wild Combatant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,18.0,,,,,,,,,,,,12.0,Tide-Caller's Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,Mage,,12.0,,,,,,18.0,12.0,Mountainsage Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Priest,,12.0,,,,,,18.0,12.0,Communal Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,,Mordant Gorget,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,Hunter,,,,,,,12.0,,12.0,Trailseeker Choker,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,,Blazemender Cabochon,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Druid,,12.0,,,,,,18.0,12.0,Springrain Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,Death knight,,12.0,,,,,,,12.0,Heart-Lesion Pendant,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,13.0,18.0,11.0,Cratermaker Choker,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,10.0,,,,,14.0,,,Chain of the Unbroken Lineage,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,18.0,,Blackfire Amulet,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,,Torq of Noble Primacy,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,,13.0,Primal Aspirant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,13.0,,,,,12.0,18.0,,Weatherbeaten Warsong Locket,,,,Uncommon,,2.0,,,,,28.0,,
+,,,,Death knight,,12.0,,,,,,,12.0,Heart-Lesion Pendant,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,18.0,13.0,Primal Aspirant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,11.0,Chain of Soothing Light,,,,Rare,100.0,2.0,,,,,28.0,,13.0
+,,,,Paladin,,12.0,,,,,,,12.0,Sunsoul Pendant,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,,,,,,,,,,,Beastminder Cabochon,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,Death knight,,12.0,,,,,,,,Heart-Lesion Amulet,,,,Rare,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,,,11.0,,,,,,,13.0,Primal Aspirant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,12.0,,,,,,18.0,,Wavesurge Choker,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+,,,,Paladin,,12.0,,,,,,,,Sunsoul Amulet,,,,Rare,100.0,2.0,,,,,28.0,18.0,12.0
+18.0,,,,,,13.0,,,,,11.0,,,Stormshot Choker,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,,Arcane Master's Chain,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,Priest,,12.0,,,,,,18.0,12.0,Communal Medallion,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,18.0,13.0,Primal Combatant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,11.0,18.0,,Wild Aspirant's Pendant of Meditation,,,,Uncommon,100.0,2.0,,,,,28.0,,13.0
+,,,,,,,,,,,,18.0,,Torq of Soothing Waters,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,Druid,,12.0,,,,,,18.0,12.0,Springrain Medallion,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,12.0,,,,,12.0,,,Bloodmist Pendant,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,18.0,13.0,Primal Combatant's Pendant of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,Druid,,,,,,,12.0,18.0,,Springrain Necklace,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+,,,,,,,,,,,11.0,18.0,,Primal Combatant's Pendant of Meditation,,,,Rare,100.0,2.0,,,,,28.0,,13.0
+,,,,,,11.0,,,,,,,,Blademaster's Honor,,,,Rare,98.0,2.0,,,,,28.0,18.0,13.0
+18.0,,,,Shaman,,,,,,,12.0,,12.0,Streamtalker Choker,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,,13.0,Wild Aspirant's Choker of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,,13.0,Primal Combatant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,11.0,18.0,13.0,Warmongering Aspirant's Pendant of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,,13.0,Warmongering Aspirant's Choker of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,
+18.0,18.0,,,,,,,,,,,,12.0,Reinforced Bloodsteel Gorget,,,,Rare,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,,,12.0,,,,,,18.0,13.0,Chained Orb of Omniscience,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,,,13.0,Primal Combatant's Choker of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,18.0,,Choker of Averted Doom,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,13.0,,,Primal Combatant's Choker of Prowess,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,,,13.0,,,,,11.0,,,Primal Aspirant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,,,11.0,Warmongering Aspirant's Choker of Endurance,,,,Uncommon,100.0,2.0,,,,,28.0,18.0,13.0
+17.0,17.0,,,,,12.0,,,,,,,,Legion Lord's Gorget,,,,Uncommon,,2.0,,,,,26.0,17.0,11.0
+,,,,,,,,,,,,,,Ruhkmari Amulet,,,,Uncommon,98.0,2.0,,,,,26.0,,
+,,,,,,,,,,,,17.0,13.0,Skywatch Adherant Necklace,,,,Uncommon,,2.0,,,,,26.0,,9.0
+17.0,,,,,,11.0,,,,,,,12.0,Vacant Soul Crystal,,,,Uncommon,,2.0,,,,,26.0,,
+,,,,,,12.0,,,,,,17.0,12.0,Eredar Soulchain,,,,Uncommon,,2.0,,,,,26.0,,
+,,,,,,11.0,,,,,,17.0,,Ra'tok's Throatguard,,,,Rare,,2.0,,,,,25.0,,11.0
+17.0,,,,,,11.0,,,,,11.0,,,Halaani's Wisdom Tooth,,,,Rare,,2.0,,,,,25.0,,
+17.0,,,,,,,,,,,,,,Shifting Iron Choker,,,,Rare,95.0,2.0,,,,,25.0,,
+,,,,,,11.0,,,,,,17.0,11.0,Shadar Medallion,,,,Uncommon,,2.0,,,,,25.0,,
+,,,,,,,,,,,,,10.0,Azereki's Grave Seal,,,,Rare,93.0,2.0,,,,,25.0,17.0,12.0
+16.0,16.0,,,,,,,,,,,,10.0,Botani Thorn Necklace,,,,Uncommon,,2.0,,,,,24.0,16.0,11.0
+,,,,,,,,,,,,16.0,10.0,Smoothed Spiritstone,,,,Uncommon,,2.0,,,,,24.0,,11.0
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Ancient Priestess,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Distant Army,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Versatile,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Formula: Enchant Neck - Mark of the Versatile,,,,Common,100.0,,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Contemplation,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Choker of Cruelty,,,,Epic,100.0,2.0,,,,,,,
+,,,,,,,,,,,,,,Tournament Gladiator's Choker of Endurance,,,,Epic,100.0,2.0,,,,,,,
+19.0,19.0,,,,,7.0,,,,,,,11.0,Void-Sealed Gorget,,,,Epic,100.0,2.0,,,,,29.0,19.0,7.0
+,,,,,,,,,,,12.0,19.0,,Warmongering Combatant's Pendant of Meditation,,,,Rare,100.0,2.0,,,,,29.0,,14.0
+19.0,,,,,,,,,,,14.0,,12.0,Warmongering Combatant's Necklace of Prowess,,,,Rare,100.0,2.0,,,,,29.0,,
+19.0,,,,,,14.0,,,,,12.0,,,Warmongering Combatant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,29.0,,
+19.0,,,,,,7.0,,,,,18.0,,,Thorny Choker of Suffering,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Primal Gladiator's Necklace of Cruelty,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,,,,,,,,,,,13.0,,,Flechette-Riddled Chain,,,,Epic,100.0,2.0,,,,,28.0,,10.0
+,,,,,,,,,,,,18.0,,Scorch-Sear Necklace,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,11.0,,,,,13.0,18.0,,Slag-Coated Cabochon,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Wild Combatant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,15.0,18.0,9.0,Pendant of Precognition,,,,Epic,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,,,,Earthcaller's Charm,,,,Epic,100.0,2.0,,,,,28.0,,11.0
+18.0,18.0,,,,,,,,,,12.0,,,Stalwart Crystalline Pendant,,,,Rare,100.0,2.0,,,,,28.0,18.0,12.0
+,,,,,,,,,,,,,,Groon-Tooth Locket,,,,Epic,100.0,2.0,,,,,28.0,18.0,
+18.0,,,,,,,,,,,13.0,,11.0,Wild Combatant's Necklace of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,12.0,,,,,,18.0,,Braided Magnaron Plait,,,,Epic,100.0,2.0,,,,,28.0,,13.0
+,,,,,,,,,,,12.0,18.0,,Tranquil Crystalline Pendant,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+,,,,,,,,,,,,,13.0,Ko'ragh's Family Locket,,,,Epic,100.0,2.0,,,,,28.0,18.0,11.0
+,,,,,,,,,,,11.0,18.0,,Primal Gladiator's Pendant of Meditation,,,,Epic,100.0,2.0,,,,,28.0,,13.0
+,,,,,,13.0,,,,,,18.0,,Osseric's Ossified Chained Orb,,,,Epic,100.0,2.0,,,,,28.0,,11.0
+,,,,,,12.0,,,,,12.0,18.0,,Trophy-Skull Choker,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,13.0,,,,,11.0,18.0,,Wild Combatant's Pendant of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,,Bleak Temple Choker,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,18.0,13.0,Wild Combatant's Pendant of Contemplation,,,,Rare,100.0,2.0,,,,,28.0,,11.0
+,,,,,,,,,,,13.0,,11.0,Wild Combatant's Choker of Prowess,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,,,,,,,18.0,10.0,Voidswirling Throat-Globe,,,,Epic,100.0,2.0,,,,,28.0,,14.0
+,,,,Paladin,,,,,,,12.0,18.0,,Sunsoul Necklace,,,,Uncommon,100.0,2.0,,,,,28.0,,12.0
+18.0,,,,,,,,,,,12.0,,12.0,Necklace of Volatile Anomalies,,,,Epic,100.0,2.0,,,,,28.0,,
+,,,,Shaman,,12.0,,,,,,18.0,12.0,Streamtalker Medallion,,,,Uncommon,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,10.0,,,,,,,,Choker of Weeping Viscera,,,,Rare,100.0,2.0,,,,,28.0,18.0,13.0
+18.0,,,,,,13.0,,,,,11.0,,,Primal Combatant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Wild Aspirant's Necklace of Cruelty,,,,Uncommon,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,9.0,18.0,,Pendant of Purifying Mists,,,,Rare,100.0,2.0,,,,,28.0,,14.0
+,,,,,,13.0,,,,,11.0,18.0,,Primal Combatant's Pendant of Prowess,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,,,,,,,,12.0,Skulltooth Chain,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+,,,,,,12.0,,,,,,18.0,,Eleece's Braced Gorget,,,,Rare,99.0,2.0,,,,,28.0,,12.0
+,,,,,,13.0,,,,,10.0,,,Goreclasp Choker,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+18.0,18.0,,,,,,,,,,,,,Chainwrecker Gorget,,,,Rare,100.0,2.0,,,,,28.0,18.0,
+,,,,,,11.0,,,,,,,,Necklace of Furious Zeal,,,,Rare,100.0,2.0,,,,,28.0,18.0,13.0
+18.0,,,,,,,,,,,,,,Gorget of Whirling Blades,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,,,,,,11.0,,13.0,Gold Ogron Earring,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,Monk,,12.0,,,,,,,,Mistdancer Amulet,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+,,,,,,13.0,,,,,,18.0,,Necklace of Endless Shadow,,,,Rare,100.0,2.0,,,,,28.0,,11.0
+,,,,Monk,,,,,,,12.0,18.0,,Mistdancer Necklace,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+18.0,18.0,,,,,,,,,,,,14.0,Necklace of Holy Deflection,,,,Rare,100.0,2.0,,,,,28.0,18.0,9.0
+,,,,Warlock,,12.0,,,,,,18.0,12.0,Felsoul Medallion,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,,,,,,13.0,,,,,11.0,,,Primal Aspirant's Necklace of Cruelty,,,,Rare,100.0,2.0,,,,,28.0,,
+,,,,,,,,,,,12.0,18.0,12.0,Alc's Pendant of Fiery Dreams,,,,Rare,100.0,2.0,,,,,28.0,,
+18.0,18.0,,,,,,,,,,11.0,,,Void-Touched Diamond Necklace,,,,Rare,100.0,2.0,,,,,28.0,18.0,13.0
+,,,,Paladin,,,,,,,12.0,18.0,,Sunsoul Necklace,,,,Rare,100.0,2.0,,,,,28.0,,12.0
+18.0,,,,,,11.0,,,,,13.0,,,Sabermaw Scarfang's Choker,,,,Uncommon,,2.0,,,,,27.0,,
+,,,,,,,,,,,10.0,,13.0,Sabermaw Mauler's Gorget,,,,Uncommon,,2.0,,,,,27.0,18.0,
+,,,,,,12.0,,,,,,18.0,11.0,Sabermaw Mystic's Pendant,,,,Uncommon,,2.0,,,,,27.0,,
+,,,,,,,,,,,,,,Ancestral Amulet,,,,Uncommon,99.0,2.0,,,,,27.0,,
+,,,,,,10.0,,,,,,,,Tezzakel's Terrible Talisman,,,,Rare,94.0,2.0,,,,,26.0,17.0,13.0
+17.0,,,,,,9.0,,,,,13.0,,,Skywatch Adherent Pendant,,,,Uncommon,,2.0,,,,,26.0,,
+,,,,,,,,,,,12.0,,9.0,Teroclaw Feather Necklace,,,,Rare,,2.0,,,,,25.0,17.0,
+17.0,17.0,,,,,,,,,,,,12.0,Shadar Choker,,,,Uncommon,,2.0,,,,,25.0,17.0,10.0
+,,,,,,,,,,,,,,Glowing Iron Choker,,,,Rare,95.0,2.0,,,,,25.0,17.0,
+,,,,,,,,,,,,17.0,12.0,Shadar Spirit Beads,,,,Uncommon,,2.0,,,,,25.0,,10.0
+,,,,,,11.0,,,,,11.0,,,Shadar Gorget,,,,Uncommon,,2.0,,,,,25.0,17.0,
+16.0,16.0,,,,,,,,,,,,12.0,Xuk's Bad Xuk Charm,,,,Uncommon,,2.0,,,,,24.0,16.0,9.0
+,,,,,,,,,,,,,,Tournament Gladiator's Pendant of Cruelty,,,,Epic,100.0,2.0,,,,,,,
+69.0,,69.0,,,,129.0,,,,,129.0,69.0,129.0,Heart of Azeroth,,,,Artifact,110.0,2.0,,,,,104.0,69.0,
+,,,,,,47.0,,,,,47.0,,47.0,"Prydaz, Xavaric's Magnum Opus",,1.0,,Legendary,101.0,2.0,Prismatic socket,,,,45.0,,
+,,,,,,15.0,,,,,15.0,,15.0,Prizerock Neckband,,3.0,,Epic,110.0,2.0,Prismatic socket,Prismatic socket,Prismatic socket,,37.0,,15.0
+,,,,,,,,,,,,,34.0,Strand of the Stars,,,,Rare,101.0,2.0,,,,,35.0,,41.0
+,,,,,,32.0,,,,,32.0,,32.0,Talisman of the Shal'dorei,,,,Epic,110.0,2.0,,,,,40.0,,
+,,,,,,38.0,,,,,38.0,,38.0,Talisman of the Shal'dorei,,,,Epic,110.0,2.0,,,,,45.0,,
+,,,,,,63.0,,,,,,,,Vulcanarcore Pendant,,,,Epic,110.0,2.0,,,,,54.0,,75.0
+,,,,,,96.0,,,,,51.0,,,Chain of the Unmaker,,,,Epic,110.0,2.0,,,,,60.0,,
+,,,,,,,,,,,64.0,,,String of Extracted Incisors,,,,Epic,110.0,2.0,,,,,43.0,,43.0
+,,,,,,,,,,,34.0,,,Ferocious Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,82.0,,55.0,Riveted Choker of Delirium,,,,Epic,110.0,2.0,,,,,54.0,,
+,,,,,,48.0,,,,,,,57.0,Locket of Splintered Souls,,,,Epic,110.0,2.0,,,,,43.0,,
+,,,,,,,,,,,45.0,,,Brooch of the Astral Scryer,,,,Epic,110.0,2.0,,,,,40.0,,52.0
+,,,,,,52.0,,,,,,,36.0,Soultrapper's Pendant,,,,Epic,110.0,2.0,,,,,38.0,,
+,,,,Warrior,,,,,,,,,,Raging Furystone Gorget,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,,,,,,50.0,,,Chain of Scorched Bones,,,,Rare,101.0,2.0,,,,,35.0,,25.0
+,,,,Death knight,,,,,,,,,,Grim Furystone Gorget,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,,,,,,36.0,,,Demonic Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,30.0,,58.0,Choker of Dreamthorns,,,,Epic,110.0,2.0,,,,,38.0,,
+,,,,,,,,,,,,,34.0,Vindictive Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,32.0,,,,,43.0,,,Tightweb Choker,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,,,79.0,Collar of Null-Flame,,,,Epic,110.0,2.0,,,,,54.0,,59.0
+,,,,,,,,,,,,,61.0,Krakentooth Necklace,,,,Epic,110.0,2.0,,,,,38.0,,27.0
+,,,,,,,,,,,39.0,,46.0,Cursed Beartooth Necklace,,,,Epic,110.0,2.0,,,,,37.0,,
+,,,,,,55.0,,,,,28.0,,,Blackened Portalstone Necklace,,,,Epic,110.0,2.0,,,,,37.0,,
+,,,,,,,,,,,36.0,,,Cruel Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,29.0,,50.0,Mana-Soaked Amethyst Pendant,,,,Epic,110.0,2.0,,,,,36.0,,
+,,,,,,43.0,,,,,,,,Stabilized Energy Pendant,,,,Rare,101.0,2.0,,,,,35.0,,32.0
+,,,,,,,,,,,42.0,,,Necklace of the Twisting Void,,,,Rare,101.0,2.0,,,,,35.0,,33.0
+,,,,,,52.0,,,,,,,23.0,Stormcharged Choker,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,34.0,,,Cruel Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,,Vale Walker's Pendant,,,,Uncommon,101.0,2.0,,,,2.7,28.0,,
+,,,,,,30.0,,,,,66.0,,,Radiant String of Scorpid Eyes,,,,Epic,110.0,2.0,,,,,40.0,,
+,,,,,,55.0,,,,,,,41.0,Beleron's Choker of Misery,,,,Epic,110.0,2.0,,,,,40.0,,
+,,,,,,43.0,,,,,,,,Fearless Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Vindictive Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,36.0,Cruel Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Dominant Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,34.0,,,,,,,41.0,Erratically Ticking Talisman,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,54.0,,21.0,Chain of a Hundred Maws,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,34.0,,,Ferocious Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,43.0,,,,,,,,Vindictive Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,63.0,,,Amulet of the Last Guardian,,,,Epic,101.0,2.0,,,,,38.0,,25.0
+,,,,,,40.0,,,,,48.0,,,Pendant of Cold Flame,,,,Epic,110.0,2.0,,,,,38.0,,
+,,,,Rogue,,,,,,,,,,Subtle Shadowruby Pendant,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,Druid,,,,,,,,,,Sylvan Maelstrom Amulet,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,Shaman,,,,,,,,,,Ancient Maelstrom Amulet,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,,,,,,34.0,,,Cruel Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Fearless Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,,Thunder Totem Spirit Necklace,,,,Uncommon,101.0,2.0,,,,2.7,28.0,,
+,,,,,,,,,,,43.0,,,Dominant Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,43.0,,,Ferocious Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Cruel Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Fearless Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,43.0,,,Vindictive Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,43.0,,,Fierce Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,51.0,,,,,,,34.0,Choker of Barbed Reins,,,,Epic,101.0,2.0,,,,,37.0,,
+,,,,Mage,0.08333333333333333,,,,,,,,,Sorcerous Shadowruby Pendant,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,,,,,,,,41.0,Chaos-Forged Necklace,,,,Rare,101.0,2.0,,,,,35.0,,34.0
+,,,,,,,,,,,21.0,,54.0,Wolfstride Pendant,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,50.0,,,,,,,,Netherstone Choker,,,,Uncommon,101.0,2.0,,,,3.5,35.0,,25.0
+,,,,,,34.0,,,,,,,,Fierce Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Fierce Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,43.0,,,Brulstone Pendant,,,,Uncommon,101.0,2.0,,,,3.5,35.0,,32.0
+,,,,,,25.0,,,,,50.0,,,An'she's Pendant,,,,Uncommon,101.0,2.0,,,,,35.0,,
+,,,,,,35.0,,,,,35.0,,35.0,Talisman of the Shal'dorei,,,,Epic,110.0,2.0,,,,,43.0,,
+,,,,,,,,,,,43.0,,,Dominant Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,43.0,,,Fearless Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,32.0,Sea Fan Pendant,,,,Epic,110.0,2.0,,,,,37.0,,54.0
+,,,,,,52.0,,,,,,,,Pendant of the Moon Temple,,,,Rare,110.0,2.0,,,,,35.0,,23.0
+,,,,Monk,,,,,,,,,,Tranquil Necklace of Prophecy,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,23.0,,,,,52.0,,,Master Thrasher's Lockcollar,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,23.0,,,,,,,52.0,Chain of the Green Flight,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,,,34.0,Ferocious Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,52.0,,,,,,,,Talisman of Jaimil Lightheart,,,,Epic,101.0,2.0,,,,,35.0,,23.0
+,,,,,,,,,,,,,,Nightfall Chain,,,,Uncommon,101.0,2.0,,,,2.7,28.0,,
+,,,,,,70.0,,,,,36.0,,,Clasp of Burning Demise,,,,Epic,110.0,2.0,,,,,43.0,,
+,,,,Shaman,,,,,,,48.0,,,Streamtalker Necklace,,,,Uncommon,110.0,2.0,,,,,39.0,,46.0
+,,,,,,,,,,,43.0,,,Ferocious Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Cruel Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,43.0,,,Cruel Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Fierce Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Dominant Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Ferocious Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,36.0,,,Fierce Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,Priest,0.08333333333333333,,,,,,,,,Blessed Dawnlight Medallion,,1.0,,Rare,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,Demon hunter,0.08333333333333333,,,,,,,,,Vindictive Pandemonite Choker,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,Paladin,,,,,,,,,,Righteous Dawnlight Medallion,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,34.0,,,,,,,,Fearless Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,34.0,,,Warden Pendant,,,,Uncommon,101.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Fearless Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,41.0,,,Azsunite Pendant,,1.0,,Rare,106.0,2.0,Prismatic socket,,,,32.0,,
+,,,,,,,,,,,,,61.0,Zealous Timestone Pendant,,,,Epic,110.0,2.0,,,,,40.0,,36.0
+,,,,Monk,,,,,,,48.0,,,Mistdancer Necklace,,,,Uncommon,110.0,2.0,,,,,39.0,,46.0
+,,,,Warlock,,46.0,,,,,,,48.0,Felsoul Medallion,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Monk,,,,,,,46.0,,48.0,Mistdancer Choker,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Paladin,,46.0,,,,,,,,Sunsoul Amulet,,,,Uncommon,110.0,2.0,,,,,39.0,,48.0
+,,,,Druid,,,,,,,48.0,,,Springrain Necklace,,,,Uncommon,110.0,2.0,,,,,39.0,,46.0
+,,,,Rogue,,,,,,,46.0,,48.0,Lightdrinker Choker,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,,,,,,,,43.0,,,Fierce Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Monk,,46.0,,,,,,,,Mistdancer Amulet,,,,Uncommon,110.0,2.0,,,,,39.0,,48.0
+,,,,,,,,,,,,,36.0,Cruel Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Fierce Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Cruel Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,Hunter,,,,,,,,,,Intrepid Necklace of Prophecy,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,,,,,,34.0,,,Vindictive Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Dominant Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,25.0,,,Wrathguard Choker,,,,Uncommon,101.0,2.0,,,,3.5,35.0,,50.0
+,,,,,,,,,,,43.0,,32.0,Queen Yh'saerie's Pendant,,,,Epic,101.0,2.0,,,,,35.0,,
+,,,,,,45.0,,,,,30.0,,,Nightmare Pendant,,,,Uncommon,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,54.0,,21.0,Dreamwalker's Pendant,,,,Uncommon,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,34.0,,,Fierce Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,34.0,,,Fierce Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,,Animus Pendant,,,,Uncommon,101.0,2.0,,,,,28.0,,
+,,,,,,,,,,,,,,PH Token Item - Neck 2,,,,Rare,110.0,2.0,,,,,18355.0,,
+,,,,,,,,,,,,,,PH Token Item - Neck 5,,,,Rare,110.0,2.0,,,,,18355.0,,
+,,,,,,185.0,,,,,96.0,,,Shaleshell Pendant,,,,Uncommon,101.0,2.0,,,,,125.0,,
+,,,,,,50.0,,,,,,,,Fierce Combatant's Necklace,,,,Epic,110.0,2.0,,,,,43.0,,59.0
+,,,,,,72.0,,,,,37.0,,,Shaleshell Pendant,,,,Uncommon,101.0,2.0,,,,,43.0,,
+,,,,,,,,,,,43.0,,,Fearless Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Fearless Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Fierce Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Paladin,,,,,,,48.0,,,Sunsoul Necklace,,,,Uncommon,110.0,2.0,,,,,39.0,,46.0
+,,,,,,,,,,,43.0,,,Vindictive Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Ferocious Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Druid,,,,,,,46.0,,48.0,Springrain Choker,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,,,,,,,,,,43.0,Ferocious Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Cruel Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Fearless Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,36.0,Fearless Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Vindictive Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Demonic Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Ferocious Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Fierce Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Vindictive Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Dominant Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Dominant Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,45.0,,30.0,Hatecoil Commander's Amulet,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,,,54.0,"Brysngamen, Torc of Helheim",,,,Rare,101.0,2.0,,,,,35.0,,21.0
+,,,,,,45.0,,,,,,,30.0,Chain of the Underking,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,25.0,,,,,50.0,,,Pendant of the Watchful Eye,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,23.0,,,,,,,52.0,Depleted Mana Crystal Pendant,,,,Uncommon,101.0,2.0,,,,,35.0,,
+,,,,,,34.0,,,,,,,,Dominant Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,25.0,,,,,,,,Manastalker Collar,,,,Uncommon,101.0,2.0,,,,3.5,35.0,,50.0
+,,,,,,,,,,,34.0,,,Dominant Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Ferocious Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Demonic Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,34.0,,,Demonic Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Cruel Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Fierce Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Cruel Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Fierce Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,,Skystone Pendant,,1.0,,Rare,108.0,2.0,Prismatic socket,,,,34.0,,43.0
+,,,,,,,,,,,,,,Azurewing Pendant,,,,Uncommon,101.0,2.0,,,,2.7,28.0,,
+,,,,,,,,,,,,,,PH Token Item - Neck 4,,,,Rare,110.0,2.0,,,,,18355.0,,
+,,,,,,,,,,,,,,PH Token Item - Neck 6,,,,Rare,110.0,2.0,,,,,18355.0,,
+,,,,,,72.0,,,,,37.0,,,Shaleshell Pendant,,,,Uncommon,101.0,2.0,,,,,43.0,,
+,,,,,,43.0,,,,,,,,Demonic Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,43.0,,,,,,,,Ferocious Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Fierce Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,43.0,,,Demonic Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Dominant Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Warrior,,46.0,,,,,,,,Oathsworn Amulet,,,,Uncommon,110.0,2.0,,,,,39.0,,48.0
+,,,,,,,,,,,43.0,,,Demonic Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Dominant Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Demonic Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Death knight,,46.0,,,,,,,,Heart-Lesion Amulet,,,,Uncommon,110.0,2.0,,,,,39.0,,48.0
+,,,,,,,,,,,,,43.0,Vindictive Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Demonic Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,43.0,,,Cruel Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,,,,,,,,43.0,Cruel Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Druid,,,,,,,,,48.0,Springrain Choker,,,,Uncommon,110.0,2.0,,,,,39.0,,46.0
+,,,,,,43.0,,,,,,,,Fierce Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Hunter,,,,,,,46.0,,48.0,Trailseeker Choker,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Shaman,,,,,,,46.0,,48.0,Streamtalker Choker,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,,,48.0,,,,,,,,Pendant of Liquid Horror,,,,Epic,110.0,2.0,,,,,37.0,,36.0
+,,,,,,36.0,,,,,,,,Fearless Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Fierce Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Fearless Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Demonic Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Dominant Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Dominant Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Ferocious Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Cruel Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Demonic Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Ferocious Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,Warlock,,,,,,,,,,Twisted Pandemonite Choker,,1.0,,Epic,110.0,2.0,Prismatic socket,,,,35.0,,
+,,,,,,,,,,,30.0,,45.0,Lavadrip Pendant,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,,,34.0,Vindictive Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Demonic Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Cruel Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Cruel Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Ferocious Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,43.0,Manapearl Choker,,,,Uncommon,101.0,2.0,,,,3.5,35.0,,32.0
+,,,,,,34.0,,,,,,,,Vindictive Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Ferocious Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,41.0,Queen's Opal Pendant,,1.0,,Rare,106.0,2.0,Prismatic socket,,,,32.0,,
+,,,,,,,,,,,,,,Tarnished Mithril Chain of Heroism,,,,Poor,110.0,2.0,,,,,,,
+,,,,,,,,,,,,,,PH Token Item - Neck 3,,,,Rare,110.0,2.0,,,,,18355.0,,
+,,,,,,185.0,,,,,96.0,,,Shaleshell Pendant,,,,Uncommon,101.0,2.0,,,,,125.0,,
+,,,,,,,,,,,,,,Ancient Augari Pendant,,,,Rare,110.0,2.0,,,,3.5,41.0,,
+,,,,Death knight,,48.0,,,,,,,46.0,Heart-Lesion Pendant,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Warrior,,48.0,,,,,,,46.0,Oathsworn Pendant,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Demon hunter,,48.0,,,,,46.0,,,Illidari Chain,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Druid,,46.0,,,,,,,48.0,Springrain Medallion,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Priest,,46.0,,,,,,,48.0,Communal Medallion,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,,,,,,,,,,43.0,Vindictive Gladiator's Choker,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Mage,,46.0,,,,,,,48.0,Mountainsage Medallion,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,,,43.0,,,,,,,,Dominant Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,Shaman,,46.0,,,,,,,48.0,Streamtalker Medallion,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,,,36.0,,,,,,,,Vindictive Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Fearless Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Fierce Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Vindictive Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Dominant Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Ferocious Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Vindictive Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Ferocious Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Demonic Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Cruel Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,36.0,,,,,,,,Fearless Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Demonic Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,54.0,,,,,21.0,,,Breathless Choker,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,47.0,,,,,28.0,,,Pendant of the Stormforger,,,,Rare,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,,,28.0,Raven Filigree Pendant,,,,Rare,101.0,2.0,,,,,35.0,,47.0
+,,,,,,50.0,,,,,25.0,,,Krokul-Bone Pendant,,,,Uncommon,101.0,2.0,,,,3.5,35.0,,
+,,,,,,,,,,,34.0,,,Dominant Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,57.0,,,,,18.0,,,Pendant of the Kaldorei,,,,Uncommon,101.0,2.0,,,,,35.0,,
+,,,,,,34.0,,,,,,,,Fearless Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,34.0,,,Vindictive Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,50.0,,,,,,,25.0,Rough-Hammered Silver Necklace,,,,Uncommon,101.0,2.0,,,,,35.0,,
+,,,,,,,,,,,34.0,,,Demonic Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,21.0,,54.0,Nightborne's Jeweled Necklace,,,,Uncommon,101.0,2.0,,,,,35.0,,
+,,,,,,41.0,,,,,,,,Deep Amber Pendant,,1.0,,Rare,106.0,2.0,Prismatic socket,,,,32.0,,
+,,,,,,,,,,,,,,Stormwing Chain,,,,Uncommon,101.0,2.0,,,,2.7,28.0,,
+,,,,,,,,,,,3205.0,,,7.3 Raid - World Boss - Void-Blade Zedaat - NECK 1,,,,Epic,110.0,2.0,,,,3.38,44483.0,,5424.0
+,,,,,,6164.0,,,,,,,2465.0,7.3 Raid - World Boss - Mother Kena - NECK 2,,,,Epic,110.0,2.0,,,,3.84,44483.0,,
+,,,,Paladin,,48.0,,,,,,,46.0,Sunsoul Pendant,,,,Uncommon,110.0,2.0,,,,,39.0,,
+,,,,Priest,,,,,,,48.0,,,Communal Necklace,,,,Uncommon,110.0,2.0,,,,,39.0,,46.0
+,,,,,,43.0,,,,,,,,Demonic Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,39.0,,52.0
+,,,,,,36.0,,,,,,,,Fierce Gladiator's Necklace,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Vindictive Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,,,36.0,Ferocious Gladiator's Choker,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,,,,,,36.0,,,Fearless Gladiator's Pendant,,,,Epic,110.0,2.0,,,,,36.0,,43.0
+,,,,,,50.0,,,,,,,,Understone Gorget,,,,Rare,101.0,2.0,,,,,35.0,,25.0
+,,,,,,,,,,,,,34.0,Demonic Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,49.0,Inspector's Pendant,,,,Uncommon,101.0,2.0,,,,,35.0,,26.0
+,,,,,,,,,,,,,34.0,Dominant Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,34.0,,,Fearless Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,,,34.0,Dominant Combatant's Choker,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Vindictive Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,34.0,,,,,,,,Demonic Combatant's Necklace,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,,,,,,,,34.0,,,Fearless Combatant's Pendant,,,,Rare,110.0,2.0,,,,,35.0,,41.0
+,,,,Death knight,,214.0,,,,,,,,Heart-Lesion Amulet,,,,Uncommon,120.0,2.0,,,,,290.0,,226.0
+,,,,Warrior,,214.0,,,,,,,,Oathsworn Amulet,,,,Uncommon,120.0,2.0,,,,,290.0,,226.0
+,,,,Druid,,214.0,,,,,,,226.0,Springrain Medallion,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Priest,,214.0,,,,,,,226.0,Communal Medallion,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Priest,,,,,,,226.0,,,Communal Necklace,,,,Uncommon,120.0,2.0,,,,,290.0,,214.0
+,,,,Mage,,214.0,,,,,,,226.0,Mountainsage Medallion,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Warlock,,214.0,,,,,,,226.0,Felsoul Medallion,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Druid,,,,,,,214.0,,226.0,Springrain Choker,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Rogue,,,,,,,214.0,,226.0,Lightdrinker Choker,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Shaman,,214.0,,,,,,,226.0,Streamtalker Medallion,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Shaman,,,,,,,226.0,,,Streamtalker Necklace,,,,Uncommon,120.0,2.0,,,,,290.0,,214.0
+,,,,Monk,,,,,,,226.0,,,Mistdancer Necklace,,,,Uncommon,120.0,2.0,,,,,290.0,,214.0
+,,,,Paladin,,,,,,,226.0,,,Sunsoul Necklace,,,,Uncommon,120.0,2.0,,,,,290.0,,214.0
+,,,,Paladin,,226.0,,,,,,,214.0,Sunsoul Pendant,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Druid,,,,,,,226.0,,,Springrain Necklace,,,,Uncommon,120.0,2.0,,,,,290.0,,214.0
+,,,,Hunter,,,,,,,214.0,,226.0,Trailseeker Choker,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Monk,,,,,,,214.0,,226.0,Mistdancer Choker,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Warrior,,226.0,,,,,,,214.0,Oathsworn Pendant,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Demon hunter,,226.0,,,,,214.0,,,Illidari Chain,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Paladin,,214.0,,,,,,,,Sunsoul Amulet,,,,Uncommon,120.0,2.0,,,,,290.0,,226.0
+,,,,Death knight,,226.0,,,,,,,214.0,Heart-Lesion Pendant,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Druid,,,,,,,,,226.0,Springrain Choker,,,,Uncommon,120.0,2.0,,,,,290.0,,214.0
+,,,,Shaman,,,,,,,214.0,,226.0,Streamtalker Choker,,,,Uncommon,120.0,2.0,,,,,290.0,,
+,,,,Monk,,214.0,,,,,,,,Mistdancer Amulet,,,,Uncommon,120.0,2.0,,,,,290.0,,226.0

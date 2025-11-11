@@ -1,0 +1,97 @@
+classes,dura,name_enus,quality,reqlevel,slotbak,speed
+,25.0,Balanced Throwing Dagger,Poor,3,25,1.7000000000000002
+,25.0,Weighted Throwing Axe,Poor,3,25,1.9
+,40.0,Throat Piercers,Poor,14,25,1.8
+,40.0,Thick Bronze Darts,Poor,15,25,2.2
+,35.0,Keen Throwing Knife,Poor,11,25,1.9
+,35.0,Sharp Throwing Axe,Poor,11,25,1.9
+,40.0,Large Throwing Knife,Poor,15,25,3.0
+,50.0,Heavy Throwing Dagger,Poor,22,25,1.8
+,50.0,Deadly Throwing Axe,Poor,22,25,2.0
+,55.0,Whirling Steel Axes,Poor,35,25,2.2
+,55.0,Wicked Throwing Dagger,Poor,35,25,1.8
+,55.0,Gleaming Throwing Axe,Poor,35,25,1.8
+,55.0,Blacksteel Throwing Dagger,Poor,50,25,1.8
+,55.0,Jagged Throwing Axe,Poor,50,25,1.8
+,65.0,Flightblade Throwing Axe,Poor,55,25,2.2
+,55.0,Enchanted Thorium Blades,Poor,55,25,2.2
+,55.0,Wooden Boomerang,Poor,59,25,1.7000000000000002
+,55.0,Master's Throwing Dagger,Poor,60,25,2.2
+,55.0,Barbed Shrike,Poor,57,25,1.7000000000000002
+,55.0,Fel Tipped Dart,Poor,60,25,1.7000000000000002
+,55.0,Silver Throwing Knives,Poor,58,25,1.7000000000000002
+,65.0,Felsteel Whisper Knives,Poor,70,25,2.2
+,80.0,Spinesever,Poor,70,25,2.2
+,65.0,Nethershrike,Poor,68,25,1.6
+,55.0,Heartseeker Knives,Poor,68,25,1.7000000000000002
+,80.0,Serpentshrine Shuriken,Poor,70,25,1.8
+,55.0,Avenging Blades,Poor,66,25,1.8
+,80.0,Blade of Life's Inevitability,Poor,70,25,2.0
+,80.0,Distracting Blades,Poor,70,25,2.0
+,55.0,The Sharp Cookie,Poor,66,25,1.8
+,80.0,Shuriken of Negation,Poor,70,25,1.2
+,55.0,Wildhammer Throwing Axe,Poor,63,25,1.7000000000000002
+,55.0,Tuskarr Javelin,Poor,70,25,1.8
+,,Dalaran Dart,Poor,70,25,1.2
+,,Twisted Blades of Zarak,Poor,70,25,1.8
+,55.0,Forsaken Edge,Poor,67,25,1.7000000000000002
+,80.0,Brutal Gladiator's War Edge,Poor,70,25,1.9
+,,Vengeful Gladiator's War Edge,Poor,70,25,1.9
+,55.0,Merciless Gladiator's War Edge,Poor,70,25,1.8
+,55.0,Dreghood Throwing Axe,Poor,69,25,1.7000000000000002
+,65.0,Nightstrike,Poor,68,25,2.2
+,55.0,Tuskarr's Piercers,Poor,70,25,1.7000000000000002
+,80.0,Twisted Blades of Zarak,Poor,70,25,1.8
+,55.0,Assassin's Shuriken,Poor,70,25,1.7000000000000002
+,80.0,Xavian Stiletto,Poor,70,25,1.8
+,55.0,Razor-Edged Boomerang,Poor,65,25,1.7000000000000002
+,55.0,Jagged Guillotine,Poor,62,25,1.7000000000000002
+,65.0,Needle Shrike,Poor,63,25,1.8
+,55.0,Reaching Star,Poor,69,25,1.7000000000000002
+,55.0,Howling Throwing Knives,Poor,68,25,1.7000000000000002
+,55.0,Gladiator's War Edge,Poor,70,25,1.9
+,55.0,Arakkoa Talon-Axe,Poor,66,25,1.7000000000000002
+,65.0,Terminal Edge,Poor,62,25,1.6
+,65.0,Terminal Edge,Poor,62,25,1.6
+,65.0,Sethekk Feather-Darts,Poor,68,25,1.6
+,55.0,Sawshrike,Poor,67,25,1.7000000000000002
+,55.0,Forked Shuriken,Poor,64,25,1.7000000000000002
+,55.0,Amani Throwing Axe,Poor,61,25,1.7000000000000002
+,65.0,Deadly Saronite Dirk,Poor,76,25,1.7000000000000002
+,80.0,Crimson Star,Poor,80,25,1.8
+,80.0,Spinning Fate,Poor,80,25,1.8
+,80.0,Lillehoff's Winged Blades,Poor,80,25,1.8
+,80.0,Papa's Brand New Knife,Poor,80,25,1.8
+,80.0,Gluth's Fetching Knife,Poor,80,25,1.8
+,55.0,Gluth's Fetching Knife,Poor,80,25,1.8
+,55.0,Nexus Shrike,Poor,74,25,1.7000000000000002
+,65.0,Tracker's Balanced Knives,Poor,80,25,2.0
+,55.0,Stolen Vrykul Harpoon,Poor,78,25,2.1
+,80.0,Rising Sun,Poor,80,25,1.8
+,,Deadly Gladiator's War Edge,Poor,80,25,1.9
+,,Flying Knives,Poor,76,25,1.7000000000000002
+,55.0,Hunter's Scout,Poor,75,25,1.7000000000000002
+,65.0,Sharpened Throwing Gizmo,Poor,74,25,1.6
+,,Sure-Fire Shuriken,Poor,72,25,1.7000000000000002
+,80.0,Spineslicer,Poor,80,25,2.2
+,80.0,Twirling Blades,Poor,80,25,2.1
+Rogue,55.0,Shadowstalking Knives,Poor,80,25,1.7000000000000002
+,80.0,Blades of the Sable Cross,Poor,80,25,1.8
+Warrior,55.0,Valiant Knives of Stoicism,Poor,80,25,1.7000000000000002
+,80.0,Shrapnel Star,Poor,80,25,1.8
+,55.0,Frozen Throwing Blades,Poor,80,25,1.7000000000000002
+,65.0,Hardened Vrykul Throwing Axe,Poor,78,25,2.2
+,55.0,Dragon's Teeth,Poor,77,25,1.7000000000000002
+,55.0,Threatening Darts,Poor,72,25,1.7000000000000002
+,55.0,Steelspark Knives,Poor,78,25,1.7000000000000002
+,55.0,Angerfang Knives,Poor,79,25,1.7000000000000002
+,55.0,Razorwind Knives,Poor,77,25,1.7000000000000002
+Warrior,55.0,Valiant Knives of Battle,Poor,80,25,1.7000000000000002
+,,Furious Gladiator's War Edge,Poor,80,25,1.9
+,80.0,Wrathful Gladiator's War Edge,Poor,80,25,1.9
+,,Relentless Gladiator's War Edge,Poor,80,25,1.9
+,55.0,Pyramid Throwing Star,Poor,78,25,1.7000000000000002
+,55.0,Venture Co. Throwing Axe,Poor,73,25,1.7000000000000002
+,55.0,Nethergarde Knives,Poor,80,25,1.7000000000000002
+,,Hateful Gladiator's War Edge,Poor,80,25,1.9
+,55.0,Clawed Shuriken,Poor,79,25,1.7000000000000002

@@ -1,0 +1,1074 @@
+armor,classes,cooldown,critstrkrtng,dodgertng,dura,hastertng,int,mastrtng,name_enus,nsockets,parryrtng,quality,reqlevel,slotbak,socket1,socket2,speed,sta,str,versatility
+1635.0,,,44.0,,,,410.0,,The Immovable Object,,,Epic,10.0,14.0,,,,200.0,134.0,74.0
+44.0,,,,,65.0,,10.0,,Reforged Quel'dorei Crest,,,Uncommon,,14.0,,,,5.0,3.0,
+42.0,,,,,65.0,,8.0,,Wheel of the Lost Hope,,,Uncommon,,14.0,,,,4.0,3.0,
+44.0,,,,,80.0,,10.0,,Shield of the Barrens,,,Rare,,14.0,,,,5.0,3.0,
+44.0,,,,,65.0,,10.0,,Buckler of the Seas,,,Uncommon,,14.0,,,,5.0,3.0,2.0
+34.0,,,,,45.0,,5.0,,Wax Catcher,,,Uncommon,,14.0,,,,2.0,2.0,
+37.0,,,,,60.0,,6.0,,Gilnean Shield,,,Rare,,14.0,,,,3.0,2.0,
+35.0,,,,,50.0,,5.0,,Stillpine Defender,,,Uncommon,,14.0,,,,2.0,2.0,
+36.0,,,,,50.0,,6.0,,Cadet Shield,,,Uncommon,8.0,14.0,,,,3.0,2.0,
+31.0,,,,,45.0,,,,Standard Issue Shield,,,Common,5.0,14.0,,,,,,
+37.0,,,,,50.0,,6.0,,Brackwater Shield,,,Uncommon,9.0,14.0,,,,3.0,2.0,
+35.0,,,,,50.0,,5.0,,Gypsy Buckler,,,Uncommon,7.0,14.0,,,,2.0,2.0,
+33.0,,,,,45.0,,5.0,,Reaper's Buckler,,,Uncommon,,14.0,,,,2.0,2.0,
+30.0,,,,,40.0,,,,Warrior's Shield,,,Common,4.0,14.0,,,,,,
+40.0,,,,,60.0,,8.0,,Peacekeeper's Buckler,,,Uncommon,,14.0,,,,4.0,3.0,
+38.0,,,,,55.0,,6.0,,Ceremonial Buckler,,,Uncommon,10.0,14.0,,,,3.0,2.0,1.0
+37.0,,,,,50.0,,6.0,,Scrap Metal Shield,,,Uncommon,,14.0,,,,3.0,2.0,
+36.0,,,,,50.0,,6.0,,Grizzly Buckler,,,Uncommon,8.0,14.0,,,,3.0,2.0,
+34.0,,,2.0,,45.0,,5.0,,Silver Stream Shield,,,Uncommon,,14.0,,,,2.0,2.0,
+30.0,,,,,40.0,,,,Battle Shield,,,Common,4.0,14.0,,,,,,
+26.0,,,,,35.0,,,,Sunstrider Shield,,,Common,,14.0,,,,,,
+44.0,,,,,80.0,,10.0,,Deathgate Shield,,,Rare,,14.0,,,,5.0,3.0,
+42.0,,,,,80.0,,8.0,,Darkshore Warder's Shield,,,Rare,,14.0,,,,4.0,3.0,
+35.0,,,,,50.0,,5.0,,Farstrider's Shield,,,Uncommon,,14.0,,,,2.0,2.0,
+34.0,,,,,45.0,,5.0,,Silver Platter,,,Uncommon,,14.0,,,,2.0,2.0,
+41.0,,,,,60.0,,8.0,,Professor's Sandwich Plate,,,Uncommon,,14.0,,,,4.0,3.0,
+34.0,,,,,45.0,,5.0,,Infantry Shield,,,Uncommon,6.0,14.0,,,,2.0,2.0,
+29.0,,,,,40.0,,,,Round Buckler,,,Common,3.0,14.0,,,,,,
+26.0,,,,,35.0,,,,Worn Large Shield,,,Poor,2.0,14.0,,,,,,
+28.0,,,,,35.0,,,,Jade Shield,,,Common,1.0,14.0,,,,,,
+44.0,,,3.0,,80.0,,10.0,,Shield of Azsharan Conquest,,,Rare,,14.0,,,,5.0,3.0,
+44.0,,,3.0,,80.0,,10.0,,Shield of Talrendis Point,,,Rare,,14.0,,,,5.0,3.0,
+38.0,,,,,55.0,,6.0,,Veteran Shield,,,Uncommon,10.0,14.0,,,,3.0,2.0,
+34.0,,,,,55.0,,,,Wooden Buckler,,,Poor,10.0,14.0,,,,,,
+34.0,,,,,45.0,,5.0,,Heat-Applied Metallic Cooking Container,,,Uncommon,,14.0,,,,2.0,2.0,
+30.0,,,,,45.0,,,,Wooden Shield,,,Poor,6.0,14.0,,,,,,
+32.0,,,,,45.0,,,,Tribal Buckler,,,Common,6.0,14.0,,,,,,
+26.0,,,,,35.0,,,,Deathguard Buckler,,,Common,,14.0,,,,,,
+31.0,,,,,45.0,,,,Dull Heater Shield,,,Common,5.0,14.0,,,,,,
+33.0,,,,,45.0,,5.0,,Crag Buckler,,,Uncommon,,14.0,,,,2.0,2.0,
+26.0,,,,,35.0,,,,Pikeman Shield,,,Common,,14.0,,,,,,
+40.0,,,,,60.0,,8.0,,Honorary Gob Squad Shield,,,Uncommon,,14.0,,,,4.0,3.0,
+35.0,,,,,50.0,,,,Banded Buckler,,,Common,9.0,14.0,,,,,,
+37.0,,,1.0,,,,,2.0,Warlords Intro Zone - Str Shield,,,Uncommon,,14.0,,,0.03,3.0,2.0,
+36.0,,,,,50.0,,6.0,,Blood Offering Platter,,,Uncommon,,14.0,,,,3.0,2.0,
+30.0,,,,,40.0,,,,Farstrider's Buckler,,,Common,,14.0,,,,,,
+30.0,,,,,40.0,,,,Primal Buckler,,,Common,4.0,14.0,,,,,,
+29.0,,,,,40.0,,,,Burnt Buckler,,,Common,3.0,14.0,,,,,,
+38.0,,,,,55.0,,6.0,,Scorched Shield,,,Uncommon,,14.0,,,,3.0,2.0,
+37.0,,,,,50.0,,6.0,,Hobart's Spare Hubcap,,,Uncommon,,14.0,,,,3.0,2.0,
+35.0,,,,,50.0,,5.0,,War Torn Shield,,,Uncommon,7.0,14.0,,,,2.0,2.0,
+34.0,,,,,45.0,,5.0,,Forlorn Shield,,,Uncommon,,14.0,,,,2.0,2.0,
+30.0,,,,,40.0,,,,Pioneer Buckler,,,Common,4.0,14.0,,,,,,
+29.0,,,,,40.0,,,,Bloodhoof War Shield,,,Common,,14.0,,,,,,
+30.0,,,,,40.0,,3.0,,Town-In-A-Box Lid Fragment,,,Uncommon,,14.0,,,,2.0,1.0,
+29.0,,,,,40.0,,,,Charger's Shield,,,Common,3.0,14.0,,,,,,
+29.0,,,,,40.0,,,,Small Targe,,,Common,3.0,14.0,,,,,,
+26.0,,,,,35.0,,,,Woodland Shield,,,Common,,14.0,,,,,,
+37.0,,,,,50.0,,6.0,,Hunting Buckler,,,Uncommon,9.0,14.0,,,,3.0,2.0,
+32.0,,,,,45.0,,,,Thuggish Shield,,,Common,6.0,14.0,,,,,,
+31.0,,,,,45.0,,,,Worn Heater Shield,,,Common,5.0,14.0,,,,,,
+27.0,,,,,35.0,,,,Stone Buckler,,,Common,,14.0,,,,,,
+62.0,,,,,100.0,,15.0,,Shield of the Stockades,,,Rare,,14.0,,,,7.0,5.0,4.0
+45.0,,,,,80.0,,10.0,,Commander's Crest,,,Rare,16.0,14.0,,,,5.0,3.0,4.0
+58.0,,,,,80.0,,13.0,,Shield of Control,,,Uncommon,,14.0,,,,6.0,4.0,
+51.0,,,,,90.0,,11.0,,Redbeard Crest,,,Rare,19.0,14.0,,,,6.0,4.0,
+51.0,,,,,75.0,,11.0,,Shield of Darkshire,,,Uncommon,,14.0,,,,6.0,4.0,
+53.0,,,,,75.0,,11.0,,Guardian Buckler,,,Uncommon,20.0,14.0,,,,6.0,4.0,4.0
+51.0,,0.08333333333333333,,,75.0,,11.0,,Black Husk Shield,,,Uncommon,19.0,14.0,,,,6.0,4.0,5.0
+45.0,,,2.0,,80.0,,10.0,,Worn Turtle Shell Shield,,,Rare,16.0,14.0,,,,5.0,3.0,3.0
+41.0,,,,,60.0,,8.0,,Bloodspattered Shield,,,Uncommon,13.0,14.0,,,,4.0,3.0,
+38.0,,,,,60.0,,,,Wall Shield,,,Common,12.0,14.0,,,,,,
+48.0,,,,,75.0,,,,Razormane War Shield,,,Common,19.0,14.0,,,,,,
+49.0,,,,,70.0,,11.0,,Royal Treasury Courier's Shield,,,Uncommon,,14.0,,,,6.0,4.0,
+45.0,,,2.0,,80.0,,10.0,,Seedcloud Buckler,,,Rare,16.0,14.0,,,,5.0,3.0,2.0
+45.0,,,,,70.0,,,,Large Metal Shield,,,Common,17.0,14.0,,,,,,
+44.0,,,,,80.0,2.0,10.0,,Gold-Plated Buckler,,,Rare,15.0,14.0,,,,5.0,3.0,2.0
+44.0,,,,,65.0,4.0,10.0,,War Paint Shield,,,Uncommon,15.0,14.0,,,,5.0,3.0,
+58.0,,,,,95.0,,13.0,,Shield Against the Evil Presence,,,Rare,,14.0,,,,6.0,4.0,
+49.0,,,,,70.0,,11.0,,Owl's Disk,,,Uncommon,18.0,14.0,,,,6.0,4.0,
+58.0,,,,,95.0,,13.0,,Shield Against the Evil Presence,,,Rare,,14.0,,,,6.0,4.0,
+53.0,,,2.0,,75.0,3.0,11.0,,Lightning-Binder's Bulwark,,,Uncommon,20.0,14.0,,,,6.0,4.0,
+47.0,,,,,70.0,,10.0,,Scouting Buckler,,,Uncommon,17.0,14.0,,,,5.0,3.0,
+45.0,,,,,65.0,,10.0,,Prospector's Buckler,,,Uncommon,16.0,14.0,,,,5.0,3.0,
+45.0,,,,,65.0,,10.0,,Burnished Shield,,,Uncommon,16.0,14.0,,,,5.0,3.0,
+62.0,,,,,85.0,,15.0,,Shield of Battlescar Valley,,,Uncommon,,14.0,,,,7.0,5.0,
+51.0,,,,,75.0,,11.0,,Forest Buckler,,,Uncommon,19.0,14.0,,,,6.0,4.0,
+44.0,,,,,70.0,,,,Box Shield,,,Poor,18.0,14.0,,,,,,
+49.0,,,,,70.0,,11.0,,Raynewood Shield,,,Uncommon,,14.0,,,,6.0,4.0,
+42.0,,,,,70.0,,,,Small Round Shield,,,Poor,17.0,14.0,,,,,,
+45.0,,,,,65.0,,10.0,,Monstrous Shield,,,Uncommon,,14.0,,,,5.0,3.0,
+45.0,,,,,65.0,,10.0,,Green Carapace Shield,,,Uncommon,16.0,14.0,,,,5.0,3.0,
+44.0,,,,,65.0,,10.0,,Portable Lap Desk,,,Uncommon,,14.0,,,,5.0,3.0,
+40.0,,,,,65.0,,,,Ringed Buckler,,,Common,14.0,14.0,,,,,,
+40.0,,,,,60.0,,8.0,,Blackrock Shield,,,Uncommon,,14.0,,,,4.0,3.0,
+40.0,,,,,60.0,,8.0,,Lupine Buckler,,,Uncommon,12.0,14.0,,,,4.0,3.0,
+49.0,,,,,70.0,,11.0,,Defender Shield,,,Uncommon,18.0,14.0,,,,6.0,4.0,
+45.0,,,2.0,,80.0,,10.0,,Kresh's Back,,,Rare,16.0,14.0,,,,5.0,3.0,2.0
+41.0,,,,,60.0,,8.0,,Inscribed Buckler,,,Uncommon,13.0,14.0,,,,4.0,3.0,3.0
+40.0,,,,,60.0,,8.0,,Soldier's Shield,,,Uncommon,12.0,14.0,,,,4.0,3.0,
+35.0,,,,,55.0,,,,Simple Buckler,,,Poor,11.0,14.0,,,,,,
+53.0,,,,,75.0,,11.0,,Baobab Fruit Shell,,,Uncommon,,14.0,,,,6.0,4.0,
+53.0,,,3.0,,90.0,,11.0,,Shield of Uncurbed Appetite,,,Rare,,14.0,,,,6.0,4.0,
+53.0,,,3.0,,,,11.0,,Raincaller's Shield,,,Uncommon,20.0,14.0,,,,6.0,4.0,2.0
+53.0,,,3.0,,,,11.0,,Foebreaker's Barrier,,,Uncommon,20.0,14.0,,,,6.0,4.0,2.0
+48.0,,,,,75.0,,,,Reinforced Targe,,,Common,19.0,14.0,,,,,,
+49.0,,,,,70.0,,11.0,,Rigid Buckler,,,Uncommon,18.0,14.0,,,,6.0,4.0,
+49.0,,,,,70.0,,11.0,,Bear Buckler,,,Uncommon,18.0,14.0,,,,6.0,4.0,
+49.0,,,,,70.0,,11.0,,Groundwork Shield,,,Uncommon,,14.0,,,,6.0,4.0,
+47.0,,,,,70.0,,10.0,,Detective Buckler,,,Uncommon,,14.0,,,,5.0,3.0,
+47.0,,,,,70.0,,10.0,,Outrunner's Shield,,,Uncommon,17.0,14.0,,,,5.0,3.0,
+42.0,,,,,65.0,,8.0,,Feral Buckler,,,Uncommon,14.0,14.0,,,,4.0,3.0,
+42.0,,,,,65.0,,8.0,,Raider's Shield,,,Uncommon,14.0,14.0,,,,4.0,3.0,
+41.0,,,,,60.0,3.0,8.0,,Dust Bowl,,,Uncommon,13.0,14.0,,,,4.0,3.0,
+36.0,,,,,60.0,,,,Rectangular Shield,,,Poor,12.0,14.0,,,,,,
+53.0,,,,,,3.0,11.0,,Faithful Shield,,,Uncommon,20.0,14.0,,,,6.0,4.0,2.0
+53.0,,,,,75.0,,11.0,,Fortified Shield,,,Uncommon,20.0,14.0,,,,6.0,4.0,
+53.0,,,3.0,,,,11.0,,Stalwart's Bulwark,,,Uncommon,20.0,14.0,,,,6.0,4.0,2.0
+53.0,,,,,75.0,,11.0,,Bristlebark Buckler,,,Uncommon,20.0,14.0,,,,6.0,4.0,
+51.0,,,,,75.0,,11.0,,Grunt's Shield,,,Uncommon,19.0,14.0,,,,6.0,4.0,
+51.0,,,,,75.0,,11.0,,Aegis of Faith,,,Uncommon,,14.0,,,,6.0,4.0,
+44.0,,,,,65.0,,10.0,,Bandit Buckler,,,Uncommon,15.0,14.0,,,,5.0,3.0,
+39.0,,,3.0,,55.0,,8.0,,Shield of the Lesson,,,Uncommon,,14.0,,,,4.0,3.0,
+39.0,,,,,55.0,,8.0,,Bard's Buckler,,,Uncommon,11.0,14.0,,,,4.0,3.0,
+66.0,,,,,85.0,,15.0,,Sternhorn's Shield,,,Uncommon,,14.0,,,,7.0,5.0,
+71.0,,,4.0,,100.0,4.0,16.0,,Gizlock's Hypertech Buckler,,,Rare,30.0,14.0,,,,8.0,5.0,
+78.0,,,5.0,,100.0,,18.0,,Shield of Maraudon,,,Rare,,14.0,,,,9.0,6.0,
+60.0,,,,,100.0,,13.0,,Thermaplugg's Central Core,,,Rare,24.0,14.0,,,,6.0,4.0,
+55.0,,,,,80.0,,11.0,,Hulking Shield,,,Uncommon,21.0,14.0,,,,6.0,4.0,
+71.0,,,5.0,,100.0,,16.0,,Heart of Agamaggan,,,Rare,30.0,14.0,,,,8.0,5.0,2.0
+58.0,,,,,80.0,,13.0,,Shield of the Panther,,,Uncommon,,14.0,,,,6.0,4.0,
+62.0,,,,,100.0,,15.0,,Shield of Thorsen,,,Rare,25.0,14.0,,,,7.0,5.0,2.0
+78.0,,,,,85.0,,18.0,,Anchorhold Buckler,,,Uncommon,,14.0,,,,9.0,6.0,5.0
+66.0,,,,,85.0,,15.0,,Forceful Shield,,5.0,Uncommon,,14.0,,,,7.0,5.0,
+62.0,,,,,85.0,,15.0,,Pathfinder Guard,,,Uncommon,25.0,14.0,,,,7.0,5.0,
+64.0,,,,,100.0,,15.0,,Resplendent Guardian,,5.0,Rare,26.0,14.0,,,,7.0,5.0,
+66.0,,,,,85.0,,,,Metal Buckler,,,Common,29.0,14.0,,,,,,
+66.0,,,,,85.0,,15.0,,Hawthorne's Shield,,,Uncommon,,14.0,,,,7.0,5.0,
+64.0,,,,,85.0,,15.0,,Dokebi Buckler,,,Uncommon,26.0,14.0,,,,7.0,5.0,
+69.0,,,,,85.0,,16.0,,Black Gold Buckler,,,Uncommon,,14.0,,,,8.0,5.0,
+69.0,,,,,85.0,,16.0,,Nefarious Buckler,,,Uncommon,29.0,14.0,,,,8.0,5.0,
+66.0,,,,,85.0,,15.0,,Pewter Slab,,,Uncommon,,14.0,,,,7.0,5.0,
+60.0,,,,,85.0,,13.0,,Spiked Chain Shield,,,Uncommon,24.0,14.0,,,,6.0,4.0,
+71.0,,,,,85.0,,16.0,,Claw-Scarred Bulwark,,,Uncommon,,14.0,,,,8.0,5.0,
+67.0,,,,,85.0,,15.0,,Infiltrator Buckler,,,Uncommon,28.0,14.0,,,,7.0,5.0,
+67.0,,,,,85.0,,15.0,,Cutthroat's Buckler,,,Uncommon,28.0,14.0,,,,7.0,5.0,
+61.0,,,,,85.0,,,,Reinforced Buckler,,,Poor,28.0,14.0,,,,,,
+64.0,,,,,85.0,,15.0,,Sentry's Shield,,,Uncommon,26.0,14.0,,,,7.0,5.0,
+58.0,,,,,80.0,,13.0,,Dervish Buckler,,,Uncommon,23.0,14.0,,,,6.0,4.0,
+71.0,,,,,85.0,,16.0,,Claw-Scarred Bulwark,,,Uncommon,,14.0,,,,8.0,5.0,
+69.0,,,,,85.0,,16.0,,Headhunter's Buckler,,,Uncommon,29.0,14.0,,,,8.0,5.0,
+69.0,,,,,85.0,,16.0,,Wicked Chain Shield,,,Uncommon,29.0,14.0,,,,8.0,5.0,
+67.0,,,,,85.0,,15.0,,Banded Shield,,,Uncommon,28.0,14.0,,,,7.0,5.0,
+66.0,,,,,85.0,,15.0,,Pewter Slab,,,Uncommon,,14.0,,,,7.0,5.0,
+64.0,,,,,85.0,,15.0,,Glimmering Shield,,,Uncommon,26.0,14.0,,,,7.0,5.0,
+54.0,,,,,85.0,,,,Tower Shield,,,Poor,24.0,14.0,,,,,,
+58.0,,,,,80.0,,13.0,,Robust Buckler,,,Uncommon,23.0,14.0,,,,6.0,4.0,
+56.0,,,,,80.0,,13.0,,Lambent Scale Shield,,,Uncommon,22.0,14.0,,,,6.0,4.0,
+52.0,,,,,80.0,,,,Techbot CPU Shell,,,Common,21.0,14.0,,,,,,
+71.0,,,,,85.0,,16.0,,Insignia Buckler,,,Uncommon,30.0,14.0,,,,8.0,5.0,7.0
+69.0,,,,,85.0,,16.0,,Phalanx Shield,,,Uncommon,29.0,14.0,,,,8.0,5.0,
+66.0,,,4.0,,85.0,,15.0,,Slayer's Shield,,,Uncommon,27.0,14.0,,,,7.0,5.0,
+66.0,,,,,85.0,,15.0,,Scaled Shield,,,Uncommon,27.0,14.0,,,,7.0,5.0,
+62.0,,,,,85.0,,15.0,,Emblazoned Buckler,,,Uncommon,25.0,14.0,,,,7.0,5.0,6.0
+60.0,,,,,85.0,,13.0,,Battleforge Shield,,,Uncommon,24.0,14.0,,,,6.0,4.0,
+52.0,,,,,80.0,,,,Targe Shield,,,Poor,23.0,14.0,,,,,,
+54.0,,,,,80.0,,,,Kite Shield,,,Common,22.0,14.0,,,,,,
+56.0,,,,,80.0,,13.0,,Wrangler's Buckler,,,Uncommon,22.0,14.0,,,,6.0,4.0,
+55.0,,,,,80.0,,11.0,,Superior Buckler,,,Uncommon,21.0,14.0,,,,6.0,4.0,
+108.0,,,,,100.0,8.0,24.0,,Maximillian's Shield,,,Rare,,14.0,,,,12.0,8.0,
+80.0,,,,5.0,100.0,,18.0,,Aegis of the Scarlet Commander,,,Rare,35.0,14.0,,,,9.0,6.0,
+82.0,,,,,120.0,,19.0,,The Green Tower,,,Epic,36.0,14.0,,,,9.0,6.0,5.0
+96.0,,,6.0,,85.0,,23.0,,Bloodwater Shield,,,Uncommon,,14.0,,,,11.0,7.0,
+80.0,,1.0,,,100.0,,18.0,,Olaf's All Purpose Shield,,,Rare,35.0,14.0,,,,9.0,6.0,8.0
+86.0,,,5.0,,100.0,,19.0,,Metanoia Shield,,,Rare,39.0,14.0,,,,9.0,6.0,3.0
+95.0,,,,,85.0,6.0,23.0,,Warlockbane Shield,,,Uncommon,,14.0,,,,11.0,7.0,
+77.0,,,4.0,,100.0,,18.0,,Skullance Shield,,,Rare,33.0,14.0,,,,9.0,6.0,
+75.0,,,,8.0,85.0,,18.0,,Highlord's Favor,,,Uncommon,,14.0,,,,9.0,6.0,
+75.0,,,,,85.0,,18.0,,Modified Spell Shield,,,Uncommon,,14.0,,,,9.0,6.0,
+86.0,,,,,85.0,,19.0,,Steadfast Buckler,,,Uncommon,38.0,14.0,,,,9.0,6.0,
+89.0,,,4.0,,100.0,5.0,21.0,,Savage Boar's Guard,,,Rare,40.0,14.0,,,,10.0,7.0,
+75.0,,,,,85.0,,18.0,,Modified Spell Shield,,,Uncommon,,14.0,,,,9.0,6.0,
+78.0,,,4.0,,85.0,,18.0,,Enduring Shield,,,Uncommon,34.0,14.0,,,,9.0,6.0,
+84.0,,,,,85.0,,19.0,,Light's Shield,,,Uncommon,,14.0,,,,9.0,6.0,
+80.0,,,,,85.0,,18.0,,Chief Brigadier Shield,,,Uncommon,35.0,14.0,,,,9.0,6.0,
+89.0,,,,,100.0,,21.0,,Rattlecage Buckler,,,Rare,40.0,14.0,,,,10.0,7.0,7.0
+73.0,,,,,85.0,,16.0,,Spiritual Barrier,,,Uncommon,,14.0,,,,8.0,5.0,
+91.0,,,,,85.0,,21.0,,Dust Bowl Shield,,,Uncommon,,14.0,,,,10.0,7.0,
+91.0,,,,,85.0,,21.0,,Dust Bowl Shield,,,Uncommon,,14.0,,,,10.0,7.0,
+86.0,,,,,85.0,,19.0,,Field Plate Shield,,,Uncommon,38.0,14.0,,,,9.0,6.0,
+84.0,,,,,85.0,,19.0,,Speedbarge Bailer,,,Uncommon,,14.0,,,,9.0,6.0,
+80.0,,,3.0,,100.0,,18.0,,Battered Viking Shield,,,Rare,35.0,14.0,,,,9.0,6.0,5.0
+78.0,,,,,85.0,,18.0,,Trickster's Protector,,,Uncommon,34.0,14.0,,,,9.0,6.0,
+100.0,,,,,85.0,,23.0,,Optomatic Deflector,,10.0,Uncommon,,14.0,,,,11.0,7.0,
+98.0,,,5.0,,85.0,,23.0,,Hatchlings' Protector,,,Uncommon,,14.0,,,,11.0,7.0,
+89.0,,,,,85.0,,21.0,,Well Hammered Shield,,,Uncommon,,14.0,,,,10.0,7.0,
+82.0,,,,,100.0,,19.0,,Warpwood Shield,,,Rare,,14.0,,,,9.0,6.0,5.0
+78.0,,,,,85.0,,18.0,,Knight's Crest,,,Uncommon,34.0,14.0,,,,9.0,6.0,
+89.0,,,,,85.0,,21.0,,Embossed Plate Shield,,,Uncommon,40.0,14.0,,,,10.0,7.0,
+89.0,,,,,85.0,,21.0,,Bulwark of Leaders,,,Uncommon,,14.0,,,,10.0,7.0,
+89.0,,,,,100.0,4.0,21.0,,Petrified Bark Shield,,,Rare,40.0,14.0,,,,10.0,7.0,5.0
+89.0,,,,,100.0,,21.0,,Intricately Runed Shield,,7.0,Rare,40.0,14.0,,,,10.0,7.0,
+82.0,,,,,85.0,,19.0,,Tharg's Disk,,,Uncommon,,14.0,,,,9.0,6.0,
+71.0,,,,,85.0,,,,Heavy Pavise,,,Common,32.0,14.0,,,,,,
+66.0,,,,,85.0,,,,Reflective Heater,,,Poor,31.0,14.0,,,,,,
+73.0,,,,,85.0,,16.0,,Plague Cauldron Lid,,,Uncommon,,14.0,,,,8.0,5.0,
+104.0,,,,,85.0,,24.0,,Corpse Dragger's Shield,,6.0,Uncommon,,14.0,,,,12.0,8.0,
+82.0,,,,,85.0,,19.0,,Sparkleshell Shield,,,Uncommon,36.0,14.0,,,,9.0,6.0,
+82.0,,,,,85.0,,19.0,,Chromie's Mirror,,,Uncommon,,14.0,,,,9.0,6.0,
+80.0,,,,,85.0,,18.0,,Baroque Shield,,,Uncommon,,14.0,,,,9.0,6.0,
+78.0,,,,,85.0,,18.0,,Glyphed Buckler,,,Uncommon,34.0,14.0,,,,9.0,6.0,8.0
+77.0,,,,,85.0,,18.0,,Sentinel Buckler,,,Uncommon,33.0,14.0,,,,9.0,6.0,
+75.0,,,,,85.0,,18.0,,Hawkeye's Buckler,,,Uncommon,32.0,14.0,,,,9.0,6.0,
+104.0,,,,7.0,85.0,,24.0,,Shizzle's Drizzle Stopper,,,Uncommon,,14.0,,,,12.0,8.0,
+91.0,,,,,85.0,,21.0,,Anti-Trogg Shield,,,Uncommon,,14.0,,,,10.0,7.0,
+88.0,,,,,85.0,,21.0,,Captain's Buckler,,,Uncommon,39.0,14.0,,,,10.0,7.0,
+86.0,,,5.0,,85.0,,19.0,,Symbolic Crest,,,Uncommon,38.0,14.0,,,,9.0,6.0,
+84.0,,,,,85.0,,19.0,,Speedbarge Bailer,,,Uncommon,,14.0,,,,9.0,6.0,
+76.0,,,,,85.0,,,,Blocking Targe,,,Poor,37.0,14.0,,,,,,
+82.0,,,,,85.0,,19.0,,Jouster's Crest,,,Uncommon,36.0,14.0,,,,9.0,6.0,3.0
+75.0,,,,,85.0,,18.0,,Renegade Shield,,,Uncommon,32.0,14.0,,,,9.0,6.0,
+73.0,,,,,85.0,,16.0,,Thick Scale Shield,,,Uncommon,31.0,14.0,,,,8.0,5.0,
+73.0,,,,,85.0,,16.0,,Combat Shield,,,Uncommon,31.0,14.0,,,,8.0,5.0,
+73.0,,,,,85.0,,16.0,,Archer's Buckler,,,Uncommon,31.0,14.0,,,,8.0,5.0,
+73.0,,,,,85.0,,16.0,,Ghostwalker Buckler,,,Uncommon,31.0,14.0,,,,8.0,5.0,
+98.0,,,5.0,,85.0,,23.0,,Hatchlings' Protector,,,Uncommon,,14.0,,,,11.0,7.0,
+98.0,,,,,85.0,,23.0,,Chiselgrip Shield,,,Uncommon,,14.0,,,,11.0,7.0,
+96.0,,,6.0,,85.0,,23.0,,Oil Bailer's Shield,,,Uncommon,,14.0,,,,11.0,7.0,
+89.0,,,,,85.0,,21.0,,Brigade Defender,,,Uncommon,40.0,14.0,,,,10.0,7.0,
+88.0,,,4.0,,85.0,8.0,21.0,,Ravager's Shield,,,Uncommon,39.0,14.0,,,,10.0,7.0,
+84.0,,,,,85.0,,19.0,,Jazeraint Shield,,,Uncommon,37.0,14.0,,,,9.0,6.0,
+82.0,,,,,85.0,,19.0,,Saltstone Shield,,,Uncommon,36.0,14.0,,,,9.0,6.0,
+80.0,,,,,85.0,,18.0,,Marauder's Crest,,,Uncommon,35.0,14.0,,,,9.0,6.0,
+78.0,,,,,85.0,,18.0,,Secretion-Coated Carapace,,,Uncommon,,14.0,,,,9.0,6.0,
+78.0,,,,,85.0,,18.0,,Secretion-Coated Carapace,,,Uncommon,,14.0,,,,9.0,6.0,
+75.0,,,,,85.0,,18.0,,Pillager's Shield,,,Uncommon,32.0,14.0,,,,9.0,6.0,
+106.0,,,,,100.0,,24.0,,Aegis of Stormwind,,,Rare,49.0,14.0,,,,12.0,8.0,
+98.0,,,,,120.0,,23.0,,Wall of the Dead,,,Epic,45.0,14.0,,,,11.0,7.0,
+91.0,,,3.0,,120.0,,21.0,,Blackskull Shield,,,Epic,41.0,14.0,,,,10.0,7.0,7.0
+108.0,,,,,100.0,5.0,24.0,,Crest of Supremacy,,,Rare,50.0,14.0,,,,12.0,8.0,6.0
+104.0,,,,,100.0,,24.0,,Crest of Retribution,,,Rare,48.0,14.0,,,,12.0,8.0,
+96.0,,,,,100.0,,23.0,,Troll Protector,,7.0,Rare,44.0,14.0,,,,11.0,7.0,
+96.0,,,,,100.0,6.0,23.0,,Barrier Shield,,,Rare,44.0,14.0,,,,11.0,7.0,
+96.0,,,,,100.0,4.0,23.0,,Observer's Shield,,,Rare,44.0,14.0,,,,11.0,7.0,6.0
+100.0,,,,,85.0,,23.0,,Bloodforged Shield,,,Uncommon,46.0,14.0,,,,11.0,7.0,
+102.0,,,5.0,,100.0,,24.0,,Stoneshell Guard,,,Rare,47.0,14.0,,,,12.0,8.0,6.0
+102.0,,,,,85.0,,24.0,,Overlord's Shield,,,Uncommon,47.0,14.0,,,,12.0,8.0,
+104.0,,,,,85.0,,24.0,,Lord's Crest,,,Uncommon,48.0,14.0,,,,12.0,8.0,
+100.0,,,,,85.0,,23.0,,Valorous Shield,,,Uncommon,46.0,14.0,,,,11.0,7.0,
+95.0,,,,,85.0,,23.0,,Tyrant's Shield,,,Uncommon,43.0,14.0,,,,11.0,7.0,
+106.0,,,6.0,,85.0,,24.0,,Protector Buckler,,,Uncommon,49.0,14.0,,,,12.0,8.0,
+104.0,,,4.0,,100.0,,24.0,,Husk of Nerub'enkan,,,Rare,48.0,14.0,,,,12.0,8.0,6.0
+104.0,,,,,85.0,,24.0,,Jade Deflector,,,Uncommon,48.0,14.0,,,,12.0,8.0,
+98.0,,,,,85.0,,23.0,,Brutish Shield,,,Uncommon,45.0,14.0,,,,11.0,7.0,
+91.0,,,,,100.0,,21.0,,Mountainside Buckler,,,Rare,41.0,14.0,,,,10.0,7.0,9.0
+108.0,,,,,85.0,,24.0,,Crusader's Shield,,,Uncommon,50.0,14.0,,,,12.0,8.0,
+106.0,,,,,85.0,,24.0,,Revenant Deflector,,,Uncommon,49.0,14.0,,,,12.0,8.0,
+108.0,,,,,85.0,,24.0,,Heavy Lamellar Shield,,,Uncommon,50.0,14.0,,,,12.0,8.0,
+93.0,,,,,85.0,,,,Deflecting Tower,,,Poor,48.0,14.0,,,,,,
+96.0,,,4.0,,85.0,,23.0,,Khan's Buckler,,,Uncommon,44.0,14.0,,,,11.0,7.0,
+96.0,,,,,85.0,,23.0,,Gothic Shield,,,Uncommon,44.0,14.0,,,,11.0,7.0,
+91.0,,,,,85.0,,21.0,,Warbringer's Shield,,,Uncommon,41.0,14.0,,,,10.0,7.0,
+106.0,,,3.0,,85.0,,24.0,,Sunscale Shield,,,Uncommon,49.0,14.0,,,,12.0,8.0,
+93.0,,,,,85.0,,,,Crested Heater Shield,,,Common,45.0,14.0,,,,,,
+102.0,,,,,85.0,,24.0,,Formidable Crest,,,Uncommon,47.0,14.0,,,,12.0,8.0,
+100.0,,,,,85.0,,23.0,,Gryphon Mail Buckler,,,Uncommon,46.0,14.0,,,,11.0,7.0,
+91.0,,,,,85.0,,21.0,,Ancient Defender,,,Uncommon,41.0,14.0,,,,10.0,7.0,
+91.0,,,,,85.0,,21.0,,Chromite Shield,,,Uncommon,41.0,14.0,,,,10.0,7.0,
+100.0,,,10.0,,85.0,,23.0,,Myrmidon's Defender,,,Uncommon,46.0,14.0,,,,11.0,7.0,
+98.0,,,,,85.0,,23.0,,Warmonger's Buckler,,,Uncommon,45.0,14.0,,,,11.0,7.0,
+85.0,,,,,85.0,,,,Protective Pavise,,,Poor,43.0,14.0,,,,,,
+95.0,,,,,85.0,,23.0,,Champion's Wall Shield,,,Uncommon,43.0,14.0,,,,11.0,7.0,
+93.0,,,,,85.0,,21.0,,Bonelink Wall Shield,,,Uncommon,42.0,14.0,,,,10.0,7.0,
+88.0,,,,,85.0,,,,Ornate Buckler,,,Common,42.0,14.0,,,,,,
+93.0,,,,,85.0,,21.0,,Blackforge Buckler,,,Uncommon,42.0,14.0,,,,10.0,7.0,9.0
+114.0,,,,,120.0,,26.0,,Skullflame Shield,,,Epic,54.0,14.0,,,,13.0,8.0,
+123.0,,,,,,13.0,29.0,,Flamescarred Draconian Deflector,,,Heirloom,1.0,14.0,,,,14.0,9.0,
+123.0,,,,,,13.0,29.0,,Weathered Observer's Shield,,,Heirloom,1.0,14.0,,,,14.0,9.0,
+114.0,,,,,120.0,,26.0,,Drillborer Disk,,6.0,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,120.0,,26.0,,Force Reactive Disk,,,Epic,60.0,14.0,,,,13.0,8.0,11.0
+114.0,,,,,120.0,,26.0,,The Immovable Object,,11.0,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,120.0,,26.0,,Malistar's Defender,,,Epic,60.0,14.0,,,,13.0,8.0,12.0
+114.0,,,,,120.0,,26.0,,Red Dragonscale Protector,,,Epic,60.0,14.0,,,,13.0,8.0,3.0
+114.0,,,,5.0,120.0,,26.0,,Elementium Reinforced Bulwark,,7.0,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,5.0,120.0,,26.0,,Buru's Skull Fragment,,,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,8.0,100.0,,26.0,,Draconian Deflector,,,Rare,55.0,14.0,,,,13.0,8.0,
+114.0,,,11.0,,100.0,,26.0,,Garrett Family Crest,,,Rare,57.0,14.0,,,,13.0,8.0,
+116.0,,,,7.0,120.0,,27.0,,The Plague Bearer,,,Epic,60.0,14.0,,,,13.0,9.0,
+114.0,,,,,100.0,4.0,26.0,,Rhombeard Protector,,,Rare,55.0,14.0,,,,13.0,8.0,7.0
+114.0,,,,5.0,120.0,,26.0,,Jagged Obsidian Shield,,,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,10.0,120.0,,26.0,,Blessed Qiraji Bulwark,,,Epic,60.0,14.0,,,,13.0,8.0,
+123.0,,,,,120.0,,29.0,,Shield of Condemnation,,,Epic,60.0,14.0,,,,14.0,9.0,8.0
+116.0,,,,,,,27.0,,Stygian Buckler,,,Epic,60.0,14.0,,,,13.0,9.0,
+114.0,,,,7.0,120.0,,26.0,,Earthen Guard,,5.0,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,120.0,,26.0,,Replica Grand Marshal's Aegis,,,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,120.0,,26.0,,Grand Marshal's Aegis,,,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,120.0,,26.0,,High Warlord's Shield Wall,,,Epic,60.0,14.0,,,,13.0,8.0,
+116.0,,,5.0,,85.0,,27.0,,Adamantine Kite Shield,,,Uncommon,,14.0,,,,13.0,9.0,
+114.0,,,,,100.0,,26.0,,Zulian Defender,,,Rare,60.0,14.0,,,,13.0,8.0,6.0
+116.0,,,,,85.0,,27.0,,Landslide Buckler,,,Uncommon,,14.0,,,,13.0,9.0,6.0
+114.0,,,,,85.0,,26.0,,Glorious Shield,,,Uncommon,55.0,14.0,,,,13.0,8.0,
+112.0,,,,,85.0,,26.0,,Ornate Shield,,,Uncommon,53.0,14.0,,,,13.0,8.0,
+121.0,,,,6.0,120.0,,27.0,,The Face of Death,,,Epic,60.0,14.0,,,,13.0,9.0,3.0
+116.0,,,7.0,,120.0,,27.0,,Death's Bargain,,,Epic,60.0,14.0,,,,13.0,9.0,5.0
+116.0,,,,,120.0,,27.0,,Wormscale Blocker,,,Epic,60.0,14.0,,,,13.0,9.0,8.0
+114.0,,,,,85.0,,26.0,,Imbued Shield,,,Uncommon,56.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Emerald Shield,,,Uncommon,54.0,14.0,,,,13.0,8.0,
+114.0,,,,,120.0,,26.0,,Replica High Warlord's Shield Wall,,,Epic,60.0,14.0,,,,13.0,8.0,
+143.0,,,15.0,,85.0,,34.0,,Arcanum Shield,,,Uncommon,,14.0,,,,17.0,11.0,
+114.0,,,,,85.0,,26.0,,Demon Guard,,,Uncommon,58.0,14.0,,,,13.0,8.0,
+114.0,,,,,120.0,,26.0,,Aegis of the Blood God,,9.0,Epic,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Hyperion Shield,,,Uncommon,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,,,26.0,,Draconian Aegis of the Legion,,,Rare,55.0,14.0,,,,13.0,8.0,7.0
+112.0,,,,,85.0,,26.0,,Alabaster Shield,,,Uncommon,52.0,14.0,,,,13.0,8.0,
+143.0,,,,,85.0,,34.0,,Nerubian Inner Husk,,6.0,Uncommon,,14.0,,,,17.0,11.0,
+143.0,,,7.0,,85.0,,34.0,,Borean Ward,,,Uncommon,,14.0,,,,17.0,11.0,8.0
+118.0,,,,,85.0,,27.0,,Emperor Shield,,,Uncommon,58.0,14.0,,,,13.0,9.0,
+99.0,,,,,85.0,,,,Crested Buckler,,,Poor,51.0,14.0,,,,,,
+114.0,,,,,85.0,,26.0,,Impenetrable Wall,,,Uncommon,56.0,14.0,,,,13.0,8.0,
+114.0,,,,,100.0,,26.0,,Dreadguard's Protector,,,Rare,57.0,14.0,,,,13.0,8.0,
+114.0,,,8.0,,,,26.0,,Astral Guard,,,Rare,51.0,14.0,,,,13.0,8.0,
+110.0,,,,,85.0,,26.0,,Ironhide Shield,,,Uncommon,51.0,14.0,,,,13.0,8.0,
+143.0,,,,11.0,85.0,,34.0,,Plainkeeper Blockade,,,Uncommon,,14.0,,,,17.0,11.0,
+110.0,,,,,85.0,,26.0,,High Chief's Shield,,,Uncommon,51.0,14.0,,,,13.0,8.0,
+110.0,,,,11.0,100.0,,26.0,,Rock Golem Bulwark,,,Rare,51.0,14.0,,,,13.0,8.0,
+121.0,,,,,85.0,,27.0,,Hardened Steel Shield,,,Uncommon,60.0,14.0,,,,13.0,9.0,
+114.0,,,,,85.0,,26.0,,Exalted Shield,,,Uncommon,60.0,14.0,,,,13.0,8.0,
+114.0,,,7.0,,85.0,,26.0,,Hero's Buckler,,,Uncommon,57.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Magnificent Guard,,,Uncommon,57.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Masterwork Shield,,,Uncommon,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Triumphant Shield,,,Uncommon,60.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Warstrike Buckler,,,Uncommon,59.0,14.0,,,,13.0,8.0,11.0
+112.0,,,,,85.0,,26.0,,Merciless Shield,,,Uncommon,52.0,14.0,,,,13.0,8.0,
+112.0,,,,,85.0,,26.0,,Templar Shield,,,Uncommon,53.0,14.0,,,,13.0,8.0,
+143.0,,,,,85.0,15.0,34.0,,Munificent Bulwark,,,Uncommon,,14.0,,,,17.0,11.0,
+116.0,,,,,85.0,,27.0,,Northman's Shield,,,Uncommon,57.0,14.0,,,,13.0,9.0,
+114.0,,,,11.0,,,26.0,,Lord Blackwood's Buckler,,,Rare,57.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Bloodlust Buckler,,,Uncommon,54.0,14.0,,,,13.0,8.0,11.0
+114.0,,,,,85.0,,26.0,,Engraved Wall,,,Uncommon,55.0,14.0,,,,13.0,8.0,
+110.0,,,,,85.0,,26.0,,Ebonhold Buckler,,,Uncommon,51.0,14.0,,,,13.0,8.0,11.0
+119.0,,,,,85.0,,27.0,,Telaari Shield,,,Uncommon,59.0,14.0,,,,13.0,9.0,
+114.0,,,,,85.0,,26.0,,Warleader's Shield,,,Uncommon,58.0,14.0,,,,13.0,8.0,
+114.0,,,,,100.0,,26.0,,Avalanchion's Stony Hide,,6.0,Rare,54.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Mercurial Guard,,,Uncommon,59.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Heroic Guard,,,Uncommon,57.0,14.0,,,,13.0,8.0,
+114.0,,,,,85.0,,26.0,,Vanguard Shield,,,Uncommon,54.0,14.0,,,,13.0,8.0,6.0
+112.0,,,,,85.0,,26.0,,Lofty Shield,,,Uncommon,52.0,14.0,,,,13.0,8.0,
+143.0,,,6.0,,85.0,,34.0,,Icechill Buckler,,16.0,Uncommon,,14.0,,,,17.0,11.0,
+149.0,,,,,120.0,,34.0,,Vengeful Gladiator's Shield Wall,,,Epic,70.0,14.0,,,,17.0,11.0,11.0
+138.0,,,10.0,,120.0,,32.0,,Mazthoril Honor Shield,,,Epic,70.0,14.0,,,,16.0,11.0,
+154.0,,,,10.0,120.0,,35.0,,Bulwark of Azzinoth,,,Epic,70.0,14.0,,,,17.0,12.0,
+138.0,,,,11.0,120.0,,32.0,,The Fel Barrier,,,Epic,70.0,14.0,,,,16.0,11.0,
+142.0,,,,6.0,120.0,5.0,32.0,,Aldori Legacy Defender,1.0,,Epic,70.0,14.0,Prismatic socket,,,16.0,11.0,
+142.0,,,6.0,,120.0,,32.0,,Sunward Crest,,8.0,Epic,70.0,14.0,,,,16.0,11.0,
+142.0,,,,,120.0,,32.0,,Triptych Shield of the Ancients,,,Epic,70.0,14.0,,,,16.0,11.0,9.0
+142.0,,,6.0,8.0,120.0,,32.0,,Dawnforged Defender,,10.0,Epic,70.0,14.0,,,,16.0,11.0,
+142.0,,,,,100.0,,32.0,,Stormshield of Renewal,,,Rare,70.0,14.0,,,,16.0,11.0,
+154.0,,,,,120.0,,35.0,,Sword Breaker's Bulwark,1.0,10.0,Epic,70.0,14.0,Prismatic socket,,,17.0,12.0,
+142.0,,,,7.0,120.0,,32.0,,Shield of Impenetrable Darkness,,7.0,Epic,70.0,14.0,,,,16.0,11.0,
+138.0,,,,7.0,120.0,,32.0,,Azure-Shield of Coldarra,,7.0,Epic,70.0,14.0,,,,16.0,11.0,
+142.0,,,,,120.0,,32.0,,Dragonheart Flameshield,,,Epic,70.0,14.0,,,,16.0,11.0,8.0
+130.0,,,,,100.0,,31.0,,Shield of the Wayward Footman,,13.0,Rare,65.0,14.0,,,,15.0,10.0,
+154.0,,,7.0,,120.0,,35.0,,Antonidas' Aegis of Rapt Concentration,,,Epic,70.0,14.0,,,,17.0,12.0,
+142.0,,,,10.0,100.0,,32.0,,Blood Knight Defender,,,Rare,70.0,14.0,,,,16.0,11.0,
+159.0,,,,,120.0,,37.0,,Brutal Gladiator's Shield Wall,,,Epic,70.0,14.0,,,,18.0,12.0,11.0
+142.0,,,,9.0,100.0,,32.0,,Aegis of the Sunbird,,5.0,Rare,70.0,14.0,,,,16.0,11.0,
+140.0,,,,,100.0,,32.0,,Crystal Pulse Shield,,,Rare,69.0,14.0,,,,16.0,11.0,9.0
+146.0,,,,,120.0,,34.0,,Illidari Runeshield,,,Epic,70.0,14.0,,,,17.0,11.0,
+133.0,,,,5.0,120.0,,31.0,,Crest of the Sha'tar,2.0,5.0,Epic,70.0,14.0,Prismatic socket,Prismatic socket,,15.0,10.0,
+154.0,,,,,120.0,,35.0,,Aegis of Angelic Fortune,,,Epic,70.0,14.0,,,,17.0,12.0,11.0
+146.0,,,7.0,7.0,120.0,,34.0,,Kaz'rogal's Hardened Heart,1.0,,Epic,70.0,14.0,Prismatic socket,,,17.0,11.0,
+138.0,,,14.0,,100.0,,32.0,,Mazthoril Honor Shield,,,Rare,70.0,14.0,,,,16.0,11.0,
+172.0,,0.008333333333333333,,13.0,145.0,,40.0,,Phaseshift Bulwark,,,Legendary,70.0,14.0,,,,20.0,13.0,
+146.0,,,,,120.0,,34.0,,Bastion of Light,1.0,,Epic,70.0,14.0,Prismatic socket,,,17.0,11.0,
+,,,,,,,,,Titanium Plating,,,Rare,70.0,,,,,,,
+159.0,,,,,120.0,,37.0,,Brutal Gladiator's Barrier,,,Epic,70.0,14.0,,,,18.0,12.0,10.0
+137.0,,,12.0,,100.0,,32.0,,Draenei Honor Guard Shield,,,Rare,68.0,14.0,,,,16.0,11.0,
+142.0,,,,,100.0,,32.0,,Silvermoon Crest Shield,,,Rare,70.0,14.0,,,,16.0,11.0,7.0
+149.0,,,,,120.0,,34.0,,Vengeful Gladiator's Redoubt,,,Epic,70.0,14.0,,,,17.0,11.0,10.0
+138.0,,,8.0,,85.0,,32.0,,Bloodforged Guard,,,Uncommon,,14.0,,,,16.0,11.0,
+146.0,,,10.0,,120.0,,34.0,,Felstone Bulwark,,,Epic,70.0,14.0,,,,17.0,11.0,
+137.0,,,,7.0,100.0,,32.0,,Netherwing Protector's Shield,,7.0,Rare,,14.0,,,,16.0,11.0,
+123.0,,,,,100.0,,29.0,,Petrified Lichen Guard,,,Rare,62.0,14.0,,,,14.0,9.0,
+142.0,,,,,120.0,,32.0,,Aegis of the Vindicator,,,Epic,70.0,14.0,,,,16.0,11.0,12.0
+137.0,,,,7.0,100.0,,32.0,,Netherwing Defender's Shield,,7.0,Rare,,14.0,,,,16.0,11.0,
+,,,,,,,,,Titanium Shield Spike,,,Uncommon,70.0,,,,,,,
+137.0,,,,,100.0,,32.0,,Spellbreaker's Buckler,,,Rare,,14.0,,,,16.0,11.0,
+154.0,,,,9.0,85.0,,35.0,,Bloody Bulwark,,,Uncommon,,14.0,,,,17.0,12.0,
+135.0,,,,,85.0,,32.0,,Bayeaux Shield,,,Uncommon,66.0,14.0,,,,16.0,11.0,
+130.0,,,,,85.0,,31.0,,Outland Shield,,,Uncommon,64.0,14.0,,,,15.0,10.0,
+127.0,,,,9.0,100.0,,29.0,,Shield of the Void,,9.0,Rare,64.0,14.0,,,,14.0,9.0,
+138.0,,,7.0,,100.0,,32.0,,Azure-Shield of Coldarra,,,Rare,70.0,14.0,,,,16.0,11.0,7.0
+130.0,,,,13.0,85.0,,31.0,,King's Bulwark,,,Uncommon,,14.0,,,,15.0,10.0,
+140.0,,,,14.0,100.0,,32.0,,Platinum Shield of the Valorous,,,Rare,68.0,14.0,,,,16.0,11.0,
+169.0,,,10.0,,85.0,,39.0,,Broodmother's Protector,,,Uncommon,,14.0,,,,19.0,13.0,
+142.0,,,,13.0,100.0,,32.0,,Ogri'la Aegis,2.0,9.0,Rare,70.0,14.0,Prismatic socket,Prismatic socket,,16.0,11.0,
+138.0,,,,,120.0,,32.0,,Light-Bearer's Faith Shield,,,Epic,70.0,14.0,,,,16.0,11.0,
+154.0,,,,,120.0,,35.0,,Bulwark of Azzinoth,,,Epic,70.0,14.0,,,,17.0,12.0,
+146.0,,,,11.0,85.0,,34.0,,Cobalt Triangle Shield,,,Uncommon,70.0,14.0,,,,17.0,11.0,
+142.0,,,,,120.0,,32.0,,Enamelled Disc of Mojo,1.0,,Epic,70.0,14.0,Prismatic socket,,,16.0,11.0,8.0
+142.0,,,,,120.0,,32.0,,Merciless Gladiator's Shield Wall,,,Epic,70.0,14.0,,,,16.0,11.0,12.0
+142.0,,,,,120.0,,32.0,,Gladiator's Shield Wall,,,Epic,70.0,14.0,,,,16.0,11.0,13.0
+142.0,,,,8.0,120.0,,32.0,,Bulwark of the Amani Empire,1.0,,Epic,70.0,14.0,Prismatic socket,,,16.0,11.0,
+138.0,,,,,85.0,,32.0,,Fel-Iron Shield,,,Uncommon,67.0,14.0,,,,16.0,11.0,
+142.0,,,6.0,,100.0,,32.0,,Beneficent Bulwark,,,Rare,69.0,14.0,,,,16.0,11.0,8.0
+133.0,,,,,85.0,,31.0,,Spell-Breaker Shield,,,Uncommon,65.0,14.0,,,,15.0,10.0,
+159.0,,,,,120.0,,37.0,,Brutal Gladiator's Redoubt,,,Epic,70.0,14.0,,,,18.0,12.0,10.0
+154.0,,,,13.0,100.0,,35.0,,Bulwark of the Tormented God,,,Rare,,14.0,,,,17.0,12.0,
+142.0,,,,,100.0,,32.0,,Demonic Bulwark,,,Rare,70.0,14.0,,,,16.0,11.0,
+142.0,,,,,120.0,,32.0,,Merciless Gladiator's Barrier,,,Epic,70.0,14.0,,,,16.0,11.0,10.0
+1635.0,,,69.0,,,,410.0,,Antonidas' Aegis of Rapt Concentration,,,Epic,70.0,14.0,,,,200.0,134.0,49.0
+146.0,,,9.0,,120.0,,34.0,,Felstone Bulwark,,,Epic,70.0,14.0,,,,17.0,11.0,6.0
+157.0,,,,9.0,85.0,,37.0,,Infiltrator's Shield,,,Uncommon,,14.0,,,,18.0,12.0,
+157.0,,,12.0,,85.0,,37.0,,Ritualistic Shield,,,Uncommon,,14.0,,,,18.0,12.0,
+143.0,,,,,85.0,,34.0,,Kaskala Buckler,,,Uncommon,69.0,14.0,,,,17.0,11.0,
+142.0,,,,,,,32.0,,Grand Marshal's Barricade,,,Rare,70.0,14.0,,,,16.0,11.0,13.0
+126.0,,,,,85.0,,29.0,,Modani War-Shield,,,Uncommon,62.0,14.0,,,,14.0,9.0,
+169.0,,,,12.0,85.0,,39.0,,Iron Coffin Lid,,,Uncommon,,14.0,,,,19.0,13.0,
+169.0,,,,,100.0,10.0,39.0,,Bulwark of Redemption,,,Rare,,14.0,,,,19.0,13.0,
+142.0,,,,,,,32.0,,High Warlord's Barricade,,,Rare,70.0,14.0,,,,16.0,11.0,13.0
+142.0,,,,,85.0,,32.0,,Forged-Iron Shield,,,Uncommon,68.0,14.0,,,,16.0,11.0,
+142.0,,,,,120.0,,32.0,,Merciless Gladiator's Redoubt,,,Epic,70.0,14.0,,,,16.0,11.0,10.0
+128.0,,,,,85.0,,29.0,,Zangari Shield,,,Uncommon,63.0,14.0,,,,14.0,9.0,
+149.0,,,,,120.0,,34.0,,Vengeful Gladiator's Barrier,,,Epic,70.0,14.0,,,,17.0,11.0,10.0
+142.0,,,,,85.0,,32.0,,Zeth'Gor Shield,,,Uncommon,69.0,14.0,,,,16.0,11.0,
+142.0,,,,,85.0,,32.0,,Dragonscale Shield,,,Uncommon,70.0,14.0,,,,16.0,11.0,
+141.0,,,,,85.0,,32.0,,Smouldering Shield,,,Uncommon,68.0,14.0,,,,16.0,11.0,
+138.0,,,,6.0,85.0,,32.0,,Iron Oak Shield,,,Uncommon,,14.0,,,,16.0,11.0,
+128.0,,,,9.0,85.0,,29.0,,Ancient Draenei Crest,,,Uncommon,,14.0,,,,14.0,9.0,
+123.0,,,,,85.0,,29.0,,Screaming Shield,,,Uncommon,61.0,14.0,,,,14.0,9.0,
+115.0,,,,,85.0,,,,Layered Bone Shield,,,Common,70.0,14.0,,,,,,
+154.0,,,,,85.0,,35.0,,Wolfslayer's Crest,,,Uncommon,,14.0,,,,17.0,12.0,14.0
+146.0,,,,,85.0,,34.0,,Spiked Targe,,,Uncommon,70.0,14.0,,,,17.0,11.0,
+142.0,,,,,85.0,,32.0,,Riveted Shield,,,Uncommon,67.0,14.0,,,,16.0,11.0,
+172.0,,,7.0,11.0,120.0,,40.0,,Royal Crest of Lordaeron,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,6.0,120.0,,40.0,,Neverending Winter,1.0,11.0,Epic,80.0,14.0,Prismatic socket,,,15.0,10.0,
+172.0,,,9.0,,120.0,8.0,40.0,,Pulsing Spellshield,,,Epic,80.0,14.0,,,,20.0,13.0,
+162.0,,,12.0,12.0,100.0,,37.0,,Shield of the Lion-Hearted,,,Rare,78.0,14.0,,,,18.0,12.0,
+172.0,,,7.0,,120.0,,40.0,,Protective Barricade of the Light,,,Epic,80.0,14.0,,,,20.0,13.0,10.0
+172.0,,,,8.0,120.0,,40.0,,Icecrown Glacial Wall,,9.0,Epic,80.0,14.0,,,,20.0,13.0,
+175.0,,,,8.0,120.0,,40.0,,Icecrown Glacial Wall,1.0,6.0,Epic,80.0,14.0,Prismatic socket,,,15.0,13.0,
+172.0,,,,17.0,120.0,,40.0,,Titansteel Shield Wall,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,,120.0,,40.0,,Zom's Crackling Bulwark,,,Epic,80.0,14.0,,,,20.0,13.0,13.0
+172.0,,,7.0,,120.0,9.0,40.0,,Wisdom's Hold,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+162.0,,,12.0,12.0,100.0,,37.0,,Bulwark of the Warchief,,,Rare,78.0,14.0,,,,18.0,12.0,
+172.0,,,,,120.0,9.0,40.0,,Lost Pavise of the Blue Flight,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+172.0,,,,10.0,120.0,,40.0,,Hero's Surrender,,7.0,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,10.0,120.0,,40.0,,Wall of Terror,,6.0,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,10.0,120.0,,40.0,,The Skull of Ruin,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,7.0,120.0,,40.0,,Splintered Door of the Citadel,,10.0,Epic,80.0,14.0,,,,20.0,13.0,
+175.0,,,9.0,,120.0,6.0,40.0,,Bulwark of Smouldering Steel,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,10.0,
+172.0,,,6.0,,120.0,6.0,40.0,,Northern Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,6.0
+172.0,,,,6.0,120.0,,40.0,,Neverending Winter,,11.0,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,9.0,,120.0,,40.0,,Wrathful Gladiator's Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+172.0,,,9.0,,120.0,7.0,40.0,,Aegis of Damnation,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,,120.0,7.0,40.0,,Barricade of Eternity,,11.0,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,8.0,,120.0,,40.0,,Protector of Frigid Souls,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+172.0,,,9.0,,120.0,9.0,40.0,,Bulwark of Smouldering Steel,,,Epic,80.0,14.0,,,,20.0,13.0,
+162.0,,,,,100.0,,37.0,,Lordaeron's Resolve,,,Rare,78.0,14.0,,,,18.0,12.0,
+172.0,,,,7.0,120.0,,40.0,,Aegis of the Coliseum,1.0,5.0,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+172.0,,,,,120.0,6.0,40.0,,Lost Pavise of the Blue Flight,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,10.0,9.0
+166.0,,,9.0,,100.0,,39.0,,Tharon'ja's Aegis,,,Rare,74.0,14.0,,,,19.0,13.0,
+172.0,,,,9.0,120.0,,40.0,,Bulwark of Algalon,1.0,7.0,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+172.0,,,,,120.0,11.0,40.0,,The Boreal Guard,2.0,,Epic,80.0,14.0,Prismatic socket,Prismatic socket,,20.0,13.0,6.0
+162.0,,,,,100.0,,37.0,,Warsong Stormshield,,,Rare,78.0,14.0,,,,18.0,12.0,
+172.0,,,9.0,,120.0,9.0,40.0,,Bastion of Resolve,,,Epic,80.0,14.0,,,,20.0,13.0,
+178.0,,,10.0,,100.0,8.0,42.0,,Don Gonzales' Shiny Shield,,,Rare,80.0,14.0,,,,21.0,14.0,
+172.0,,,,12.0,100.0,,40.0,,Saronite Bulwark,,,Rare,77.0,14.0,,,,20.0,13.0,
+172.0,,,10.0,,120.0,6.0,40.0,,Voice of Reason,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,,120.0,,40.0,,Wrathful Gladiator's Shield Wall,,,Epic,80.0,14.0,,,,20.0,13.0,17.0
+185.0,,,,,85.0,,44.0,7.0,Marine's Boarding Plank,,,Uncommon,,14.0,,,,21.0,14.0,11.0
+172.0,,,8.0,,120.0,,40.0,,Pride of the Kor'kron,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,8.0,6.0
+,,,,,,,,,Elementium Shield Spike,,,Uncommon,80.0,,,,2.1,,,
+185.0,,,10.0,,85.0,,44.0,8.0,Cannonball-Dented Shield,,,Uncommon,,14.0,,,,21.0,14.0,
+172.0,,,,,120.0,,40.0,,Wrathful Gladiator's Redoubt,,,Epic,80.0,14.0,,,,20.0,13.0,18.0
+172.0,,,,,120.0,9.0,40.0,,Shield of Assimilation,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+172.0,,,9.0,,120.0,9.0,40.0,,Bastion of Purity,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,7.0,120.0,,40.0,,Crystal Plated Vanguard,1.0,6.0,Epic,80.0,14.0,Prismatic socket,,,15.0,13.0,
+172.0,,,,10.0,120.0,,40.0,,Forlorn Barrier,,7.0,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,9.0,,120.0,9.0,40.0,,Bastion of Resolve,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+172.0,,,,,120.0,9.0,40.0,,Ice Layered Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,8.0
+172.0,,,,9.0,100.0,,40.0,,Riot Shield,,8.0,Rare,75.0,14.0,,,,20.0,13.0,
+172.0,,,,7.0,120.0,,40.0,,Bulwark of the Royal Guard,1.0,5.0,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+172.0,,,7.0,,120.0,,40.0,,Shieldwall of the Breaker,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,10.0
+172.0,,,,13.0,100.0,,40.0,,Leeka's Shield,,,Rare,78.0,14.0,,,,20.0,13.0,
+172.0,,,8.0,,120.0,,40.0,,Vigilant Ward,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,8.0,6.0
+172.0,,,11.0,,120.0,7.0,40.0,,Pulsing Spellshield,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,9.0,,120.0,9.0,40.0,,Bastion of Purity,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+196.0,,,11.0,,100.0,8.0,45.0,,Don Carlos' Drifting Shield,,,Rare,80.0,14.0,,,,22.0,15.0,
+172.0,,,,7.0,120.0,,40.0,,Aegis of the Coliseum,1.0,5.0,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+176.0,,,9.0,,85.0,,40.0,,Hardened Obsidium Shield,,9.0,Uncommon,80.0,14.0,,,2.6,20.0,13.0,
+172.0,,,7.0,11.0,120.0,,40.0,,Crygil's Discarded Plate Panel,,,Epic,80.0,14.0,,,,20.0,13.0,
+159.0,,,9.0,,100.0,,37.0,,Saronite Protector,,,Rare,73.0,14.0,,,,18.0,12.0,
+192.0,,,,,100.0,11.0,45.0,8.0,Tian Protector,,,Rare,,14.0,,,,22.0,15.0,
+172.0,,,,7.0,120.0,,40.0,,Forlorn Barrier,1.0,6.0,Epic,80.0,14.0,Prismatic socket,,,15.0,13.0,
+172.0,,,9.0,,120.0,,40.0,,Furious Gladiator's Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+1635.0,,,,,,72.0,410.0,46.0,Aegis of the Coliseum,,,Epic,80.0,14.0,,,,200.0,134.0,
+172.0,,,13.0,,100.0,,40.0,,Tor's Crest,,,Rare,78.0,14.0,,,,20.0,13.0,
+172.0,,,,13.0,100.0,,40.0,,Bulwark of the Noble Protector,,,Rare,80.0,14.0,,,,20.0,13.0,
+172.0,,,,,120.0,,40.0,,Hateful Gladiator's Redoubt,,,Epic,80.0,14.0,,,,20.0,13.0,18.0
+172.0,,,,,120.0,,40.0,,Furious Gladiator's Redoubt,,,Epic,80.0,14.0,,,,20.0,13.0,18.0
+159.0,,,,9.0,100.0,,37.0,,Saronite Defender,,,Rare,73.0,14.0,,,,18.0,12.0,
+149.0,,,,,85.0,,34.0,,Vrykul Shield,,,Uncommon,71.0,14.0,,,,17.0,11.0,
+196.0,,,,,120.0,,45.0,10.0,Yaungol Battle Barrier,,,Epic,80.0,14.0,,,,22.0,15.0,10.0
+173.0,,,,7.0,85.0,,40.0,10.0,Wildlife Defender,,,Uncommon,,14.0,,,,20.0,13.0,
+172.0,,,,10.0,120.0,,40.0,,Crystal Plated Vanguard,,7.0,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,,,,,120.0,,40.0,,Deadly Gladiator's Shield Wall,,,Epic,80.0,14.0,,,,20.0,13.0,17.0
+172.0,,,,,100.0,,40.0,,Facade Shield of Glyphs,,,Rare,80.0,14.0,,,,20.0,13.0,13.0
+169.0,,,,,85.0,,39.0,,Icy Kite Shield,,,Uncommon,78.0,14.0,,,,19.0,13.0,
+186.0,,,8.0,,85.0,,44.0,10.0,Spiritsage's Shield,,,Uncommon,,14.0,,,,21.0,14.0,
+185.0,,,,,85.0,,44.0,7.0,Skyguardian's Shield,,,Uncommon,,14.0,,,,21.0,14.0,11.0
+166.0,,,,,85.0,,39.0,,Plated Bulwark,,,Uncommon,77.0,14.0,,,,19.0,13.0,
+1635.0,,,54.0,,,,410.0,,Pride of the Kor'kron,,,Epic,80.0,14.0,,,,200.0,134.0,64.0
+192.0,,,,,100.0,,45.0,11.0,Tian Defender,,,Rare,,14.0,,,,22.0,15.0,8.0
+186.0,,,7.0,,85.0,,44.0,,Spiritsage's Protector,,,Uncommon,,14.0,,,,21.0,14.0,11.0
+175.0,,,,,85.0,,40.0,,Rethban Shield,,,Uncommon,78.0,14.0,,,,20.0,13.0,
+173.0,,,,,85.0,8.0,40.0,9.0,Bioluminescent Buckler,,,Uncommon,,14.0,,,,20.0,13.0,
+173.0,,,14.0,,85.0,,40.0,,Seedfilter Deflector,,,Uncommon,,14.0,,,,20.0,13.0,
+172.0,,,,,120.0,,40.0,,Deadly Gladiator's Redoubt,,,Epic,80.0,14.0,,,,20.0,13.0,18.0
+172.0,Warrior,,,8.0,85.0,,40.0,9.0,Valiant Bulwark,,,Uncommon,80.0,14.0,,,,20.0,13.0,
+172.0,,,,7.0,120.0,,40.0,,Bulwark of the Royal Guard,1.0,5.0,Epic,80.0,14.0,Prismatic socket,,,20.0,13.0,
+172.0,Shaman,,,,85.0,,40.0,9.0,Stormbinder Shield,,,Uncommon,80.0,14.0,,,,20.0,13.0,8.0
+172.0,,,9.0,,120.0,,40.0,,Deadly Gladiator's Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+166.0,,,,,120.0,9.0,39.0,,Protector's Buckler,,,Rare,74.0,14.0,,,,19.0,13.0,
+160.0,,,,,85.0,,37.0,,Embossed Brazen Shield,,,Uncommon,75.0,14.0,,,,18.0,12.0,
+157.0,,,,,85.0,,37.0,,Spoke Shield,,,Uncommon,74.0,14.0,,,,18.0,12.0,
+157.0,,,,,100.0,,37.0,,Blade-Binding Bulwark,,15.0,Rare,76.0,14.0,,,,18.0,12.0,
+185.0,,,10.0,,85.0,,44.0,8.0,Recovery Team Shield,,,Uncommon,,14.0,,,,21.0,14.0,
+178.0,,,,10.0,100.0,,42.0,8.0,Shield of the Iron Maiden,,,Rare,78.0,14.0,,,,21.0,14.0,
+172.0,,,,,85.0,,40.0,,Frozen Shield,,,Uncommon,80.0,14.0,,,,20.0,13.0,
+172.0,,,,,120.0,,40.0,,Hateful Gladiator's Shield Wall,,,Epic,80.0,14.0,,,,20.0,13.0,17.0
+172.0,,,,,120.0,,40.0,,Relentless Gladiator's Redoubt,,,Epic,80.0,14.0,,,,20.0,13.0,18.0
+172.0,,,,,120.0,,40.0,,Furious Gladiator's Shield Wall,,,Epic,80.0,14.0,,,,20.0,13.0,17.0
+172.0,,,8.0,,120.0,,40.0,,Pride of the Kor'kron,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,8.0,6.0
+172.0,,,9.0,,,,40.0,,Hateful Gladiator's Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+172.0,,,13.0,,100.0,4.0,40.0,,Protector of Frigid Souls,,,Rare,80.0,14.0,,,,20.0,13.0,
+162.0,,,,,85.0,,37.0,,Domed Buckler,,,Uncommon,76.0,14.0,,,,18.0,12.0,
+1635.0,,,,,120.0,72.0,410.0,46.0,Bulwark of the Royal Guard,,,Epic,80.0,14.0,,,,200.0,134.0,
+178.0,,,9.0,,100.0,,42.0,,Crepuscular Shield,,,Rare,78.0,14.0,,,,21.0,14.0,9.0
+173.0,,,9.0,8.0,85.0,,40.0,,Sand-Scoured Protector,,,Uncommon,,14.0,,,,20.0,13.0,
+172.0,,,,,85.0,,40.0,,Ivory Shield,,,Uncommon,79.0,14.0,,,,20.0,13.0,
+172.0,,,9.0,,120.0,,40.0,,Relentless Gladiator's Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,9.0
+172.0,,,,7.0,120.0,,40.0,,Barrier of the Earth Princess,1.0,6.0,Epic,80.0,14.0,Prismatic socket,,,15.0,13.0,
+172.0,,,4.0,,,,40.0,,Ice Layered Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,13.0
+172.0,,,8.0,,120.0,,40.0,,Vigilant Ward,1.0,,Epic,80.0,14.0,Prismatic socket,,,20.0,8.0,6.0
+172.0,,,,,120.0,,40.0,,Relentless Gladiator's Shield Wall,,,Epic,80.0,14.0,,,,20.0,13.0,17.0
+172.0,Shaman,,9.0,,85.0,8.0,40.0,,Stormbinder Aegis,,,Uncommon,80.0,14.0,,,,20.0,13.0,
+151.0,,,,,85.0,,35.0,,Strapped Heater Shield,,,Uncommon,72.0,14.0,,,,17.0,12.0,
+118.0,,,,,85.0,,,,Brunnhildar Shield,,,Uncommon,75.0,14.0,,,2.0,,,
+1635.0,,,54.0,,,,410.0,,Vigilant Ward,,,Epic,80.0,14.0,,,,200.0,134.0,64.0
+176.0,,,,,85.0,,40.0,,Direforge Shield,,,Uncommon,80.0,14.0,,,,20.0,13.0,
+175.0,,,,,85.0,,40.0,,Jasperlode Shield,,,Uncommon,79.0,14.0,,,,20.0,13.0,
+173.0,,,9.0,8.0,85.0,,40.0,,Sand-Scoured Protector,,,Uncommon,,14.0,,,,20.0,13.0,
+173.0,,,,,85.0,,40.0,,Dreadmaul Shield,,,Uncommon,77.0,14.0,,,,20.0,13.0,
+172.0,,,9.0,,,,40.0,,Northern Barrier,,,Epic,80.0,14.0,,,,20.0,13.0,8.0
+172.0,,,,,,8.0,40.0,,Wisdom's Hold,,,Epic,80.0,14.0,,,,20.0,13.0,10.0
+172.0,,,,,,6.0,40.0,,Shieldwall of the Breaker,,,Epic,80.0,14.0,,,,20.0,13.0,12.0
+172.0,,,4.0,,,14.0,40.0,,The Boreal Guard,,,Epic,80.0,14.0,,,,20.0,13.0,
+172.0,Paladin,,,9.0,85.0,,40.0,8.0,Zealous Bulwark,,,Uncommon,80.0,14.0,,,,20.0,13.0,
+172.0,Paladin,,,,85.0,8.0,40.0,9.0,Zealous Shield,,,Uncommon,80.0,14.0,,,,20.0,13.0,
+154.0,,,,,85.0,,35.0,,Kamagua Shield,,,Uncommon,73.0,14.0,,,,17.0,12.0,
+238.0,,,,,100.0,,,,Stormwind Shield,,,Rare,90.0,14.0,,,,,,
+185.0,,,,9.0,120.0,,44.0,10.0,Extinct Turtle Shell,,,Epic,85.0,14.0,,,,21.0,14.0,
+185.0,,,,,120.0,,44.0,10.0,Blockade's Lost Shield,,9.0,Epic,85.0,14.0,,,,21.0,14.0,
+185.0,,,,,120.0,8.0,44.0,10.0,Ward of Incantations,,,Epic,85.0,14.0,,,,21.0,14.0,
+199.0,,,,,100.0,10.0,47.0,10.0,Turpster's Sonorous Shield,,,Rare,85.0,14.0,,,,23.0,15.0,
+185.0,,,,,120.0,6.0,44.0,,Ward of the Red Widow,1.0,,Epic,85.0,14.0,Prismatic socket,,,21.0,11.0,10.0
+185.0,,,,3.0,120.0,,44.0,,Shard of Torment,2.0,4.0,Epic,85.0,14.0,Prismatic socket,Prismatic socket,,21.0,14.0,
+185.0,,,,8.0,120.0,,44.0,10.0,Corrupted Carapace,,,Epic,85.0,14.0,,,,21.0,14.0,
+189.0,,,,,,,44.0,,Weathered Observer's Shield,,,Heirloom,1.0,14.0,,,,21.0,14.0,14.0
+185.0,,,,,120.0,,44.0,9.0,"Akmin-Kurai, Dominion's Shield",,9.0,Epic,85.0,14.0,,,,21.0,14.0,
+189.0,,,,,,,44.0,,Flamescarred Draconian Deflector,,14.0,Heirloom,1.0,14.0,,,,21.0,14.0,
+212.0,,,10.0,,120.0,,50.0,,Shield of Mockery,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,9.0
+188.0,,,,5.0,120.0,,44.0,7.0,Blackhorn's Mighty Bulwark,2.0,,Epic,85.0,14.0,Prismatic socket,Prismatic socket,,21.0,8.0,
+185.0,,,,,120.0,,44.0,9.0,"Akmin-Kurai, Dominion's Shield",,9.0,Epic,85.0,14.0,,,,21.0,14.0,
+192.0,,,10.0,,120.0,,45.0,,Cataclysmic Gladiator's Shield Wall,,,Epic,85.0,14.0,,,,22.0,15.0,10.0
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+192.0,,,,,120.0,8.0,45.0,,Timepiece of the Bronze Flight,1.0,,Epic,85.0,14.0,Prismatic socket,,,22.0,12.0,8.0
+185.0,,,,,120.0,9.0,44.0,,Elementium Stormshield,1.0,,Epic,85.0,14.0,Prismatic socket,,,20.0,11.0,7.0
+186.0,,,,,85.0,,44.0,9.0,Spiritguard Shield,,,Uncommon,85.0,14.0,,,,21.0,14.0,10.0
+188.0,,,,3.0,120.0,,44.0,,Shard of Torment,2.0,4.0,Epic,85.0,14.0,Prismatic socket,Prismatic socket,,21.0,14.0,
+185.0,,,10.0,,120.0,9.0,44.0,,Zulian Ward,,,Epic,85.0,14.0,,,,21.0,14.0,
+203.0,,,7.0,,120.0,,47.0,,Visage of the Doomed,1.0,,Epic,90.0,14.0,Prismatic socket,,,20.0,15.0,9.0
+199.0,,,11.0,,100.0,,47.0,9.0,Masterwork Lightsteel Shield,,,Rare,90.0,14.0,,,,23.0,15.0,
+185.0,,,,,100.0,,44.0,9.0,Shield of the Mists,,,Rare,85.0,14.0,,,,21.0,14.0,9.0
+197.0,,,,,85.0,,45.0,,Loa-Binder Disc,,,Uncommon,90.0,14.0,,,,22.0,15.0,
+192.0,,,,6.0,120.0,,45.0,8.0,Blackhorn's Mighty Bulwark,2.0,,Epic,85.0,14.0,Prismatic socket,Prismatic socket,,22.0,9.0,
+185.0,,,,10.0,120.0,,44.0,9.0,Shield of the Blood God,,,Epic,85.0,14.0,,,,21.0,14.0,
+186.0,,,9.0,,120.0,,44.0,,Cataclysmic Gladiator's Shield Wall,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+,,,,,,,,,Ghost Iron Shield Spike,,,Common,85.0,,,,,,,
+197.0,,,,,85.0,,45.0,,Skyking Bulwark,,,Uncommon,90.0,14.0,,,,22.0,15.0,
+188.0,,,,,120.0,7.0,44.0,,Timepiece of the Bronze Flight,1.0,,Epic,85.0,14.0,Prismatic socket,,,21.0,11.0,7.0
+185.0,,,,9.0,100.0,,44.0,9.0,Shield of the Four Grey Towers,,,Rare,85.0,14.0,,,,21.0,14.0,
+219.0,,,,,120.0,,50.0,9.0,Greatshield of the Gloaming,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+186.0,,,10.0,,85.0,,44.0,9.0,Lightsteel Shield,,,Uncommon,85.0,14.0,,,,21.0,14.0,
+203.0,,,10.0,,120.0,7.0,47.0,,Tortos' Discarded Shell,1.0,,Epic,90.0,14.0,Prismatic socket,,,20.0,15.0,
+186.0,,,,,120.0,,44.0,,Cataclysmic Gladiator's Redoubt,,,Epic,85.0,14.0,,,,21.0,14.0,18.0
+185.0,,,10.0,,100.0,8.0,44.0,,Zulian Swirling Shield,,,Rare,85.0,14.0,,,,21.0,14.0,
+219.0,,,8.0,,120.0,,50.0,,Visage of the Doomed,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+203.0,,,9.0,,120.0,11.0,47.0,,Eye of the Ancient Spirit,,,Epic,90.0,14.0,,,,23.0,15.0,
+203.0,,,10.0,,120.0,,47.0,,"Steelskin, Qiang's Impervious Shield",,,Epic,90.0,14.0,,,,23.0,15.0,10.0
+199.0,,,,,100.0,,47.0,11.0,Skyrider's Shining Shield,,,Rare,84.0,14.0,,,,23.0,15.0,8.0
+223.0,,,11.0,,120.0,,52.0,11.0,Prideful Gladiator's Redoubt,,,Epic,90.0,14.0,,,,25.0,17.0,
+219.0,,,,,120.0,,50.0,9.0,Ultimate Protection of the Emperor,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+212.0,,,10.0,,120.0,,50.0,9.0,Bulwark of the Fallen General,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,7.0,,120.0,,48.0,,Visage of the Doomed,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+199.0,,,9.0,,120.0,11.0,47.0,,Eye of the Ancient Spirit,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,7.0,Malevolent Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,9.0,,120.0,11.0,47.0,,Eye of the Ancient Spirit,,,Epic,90.0,14.0,,,,23.0,15.0,
+188.0,,,,,120.0,6.0,44.0,,Ward of the Red Widow,1.0,,Epic,85.0,14.0,Prismatic socket,,,21.0,11.0,10.0
+186.0,,,9.0,,120.0,,44.0,,Cataclysmic Gladiator's Barrier,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,9.0,,85.0,9.0,44.0,,Stormforged Shield,,,Uncommon,82.0,14.0,,,2.6,21.0,14.0,
+185.0,,,9.0,,120.0,,44.0,,Kingdom's Heart,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+224.0,,,10.0,,120.0,,52.0,9.0,Bulwark of the Fallen General,1.0,,Epic,90.0,14.0,Prismatic socket,,,25.0,14.0,
+212.0,,,8.0,,120.0,,50.0,,Visage of the Doomed,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+211.0,,,,,120.0,,48.0,9.0,Greatshield of the Gloaming,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,9.0
+199.0,,,9.0,,100.0,11.0,47.0,,Shield of the Protectorate,,,Rare,90.0,14.0,,,,23.0,15.0,
+199.0,,,8.0,,100.0,,47.0,,Impervious Carapace,,,Rare,90.0,14.0,,,,23.0,15.0,13.0
+199.0,,,,,120.0,,47.0,11.0,Sutiru's Brazen Bulwark,,,Epic,90.0,14.0,,,,23.0,15.0,9.0
+192.0,,,10.0,,120.0,,45.0,,Cataclysmic Gladiator's Barrier,,,Epic,85.0,14.0,,,,22.0,15.0,10.0
+227.0,,,,,120.0,11.0,53.0,10.0,Visage of the Monstrous,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+223.0,,,11.0,,120.0,,52.0,11.0,Prideful Gladiator's Redoubt,,,Epic,90.0,14.0,,,,25.0,17.0,
+219.0,,,8.0,,120.0,,50.0,,Visage of the Doomed,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+219.0,,,,,120.0,11.0,50.0,7.0,Shield of Twinned Despair,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+199.0,,,,,100.0,,47.0,9.0,Shield of Blind Hate,,,Rare,87.0,14.0,,,,23.0,15.0,11.0
+199.0,,,10.0,,120.0,,47.0,8.0,Malevolent Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,100.0,,47.0,7.0,Crafted Malevolent Gladiator's Barrier,,,Rare,90.0,14.0,,,,23.0,15.0,
+192.0,,,,,85.0,,45.0,,Highpeak Shield,,,Uncommon,87.0,14.0,,,,22.0,15.0,
+186.0,,,,5.0,120.0,,44.0,7.0,Blackhorn's Mighty Bulwark,2.0,,Epic,85.0,14.0,Prismatic socket,Prismatic socket,,21.0,8.0,
+185.0,,,9.0,,120.0,,44.0,,Kingdom's Heart,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+227.0,,,10.0,,120.0,,53.0,9.0,Bulwark of the Fallen General,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+219.0,,,10.0,,120.0,,50.0,9.0,Bulwark of the Fallen General,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Redoubt,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Barrier,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,,,120.0,,48.0,8.0,Ultimate Protection of the Emperor,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,9.0
+199.0,,,,,120.0,,47.0,8.0,Daylight Protectorate,,,Epic,90.0,14.0,,,,23.0,15.0,11.0
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,100.0,,47.0,7.0,Crafted Malevolent Gladiator's Redoubt,,,Rare,90.0,14.0,,,,23.0,15.0,
+193.0,,,9.0,,85.0,,45.0,10.0,Shomi's Shield,,,Uncommon,,14.0,,,,22.0,15.0,
+186.0,,,,,120.0,7.0,44.0,,Timepiece of the Bronze Flight,1.0,,Epic,85.0,14.0,Prismatic socket,,,21.0,11.0,7.0
+185.0,,,7.0,,120.0,,44.0,7.0,Elementium Earthguard,1.0,,Epic,85.0,14.0,Prismatic socket,,,21.0,11.0,
+224.0,,,8.0,,120.0,,52.0,11.0,Norushen's Enigmatic Barrier,1.0,,Epic,90.0,14.0,Prismatic socket,,,25.0,14.0,
+223.0,,,11.0,,120.0,,52.0,11.0,Prideful Gladiator's Barrier,,,Epic,90.0,14.0,,,,25.0,17.0,
+219.0,,,11.0,,120.0,8.0,50.0,,Tortos' Discarded Shell,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+211.0,,,10.0,,120.0,7.0,48.0,,Tortos' Discarded Shell,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+199.0,,,,,100.0,10.0,47.0,10.0,Metanoia Shield,,,Rare,90.0,14.0,,,,23.0,15.0,
+199.0,,,,,100.0,,47.0,9.0,Shield of Blind Hate,,,Rare,90.0,14.0,,,,23.0,15.0,11.0
+199.0,,,10.0,,120.0,,47.0,8.0,Malevolent Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,Paladin,,,,85.0,,47.0,9.0,Sunsoul Bulwark,,,Uncommon,90.0,14.0,,,,23.0,15.0,11.0
+185.0,,,,,120.0,,44.0,,Vicious Gladiator's Redoubt,,,Epic,85.0,14.0,,,,21.0,14.0,18.0
+185.0,,,,10.0,100.0,,44.0,8.0,Shield of the Iron Maiden,,,Rare,85.0,14.0,,,,21.0,14.0,
+185.0,,,,,120.0,,44.0,,Vicious Gladiator's Redoubt,,,Epic,85.0,14.0,,,,21.0,14.0,18.0
+185.0,,,9.0,,100.0,,44.0,,Crepuscular Shield,,,Rare,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,,,100.0,10.0,44.0,8.0,Zora's Ward,,,Rare,85.0,14.0,,,,21.0,14.0,
+,,,,,,,,,Pyrium Shield Spike,,,Rare,85.0,,,,,,,
+227.0,,,,,120.0,,53.0,12.0,Ancient Mogu Tower Shield,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,8.0
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,,,120.0,11.0,48.0,6.0,Shield of Twinned Despair,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+207.0,,,11.0,,85.0,10.0,48.0,,Karabor Stargazer Shield,,,Uncommon,,14.0,,,,24.0,16.0,
+207.0,,,11.0,,85.0,9.0,48.0,,Frostwolf Spiritguard Shield,,,Uncommon,,14.0,,,,24.0,16.0,
+203.0,,,,,120.0,,47.0,8.0,Ultimate Protection of the Emperor,1.0,,Epic,90.0,14.0,Prismatic socket,,,20.0,15.0,9.0
+199.0,,,10.0,,120.0,,47.0,,"Steelskin, Qiang's Impervious Shield",,,Epic,90.0,14.0,,,,23.0,15.0,10.0
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,9.0,,120.0,,47.0,11.0,Shield of the Eternal Noon,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,,,100.0,,47.0,10.0,Masterwork Spiritguard Shield,,,Rare,90.0,14.0,,,,23.0,15.0,10.0
+199.0,,,10.0,,120.0,,47.0,8.0,Malevolent Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,,"Steelskin, Qiang's Impervious Shield",,,Epic,90.0,14.0,,,,23.0,15.0,10.0
+197.0,,,,,85.0,,45.0,,Temple Shield,,,Uncommon,88.0,14.0,,,,22.0,15.0,
+192.0,,,,,120.0,,45.0,,Cataclysmic Gladiator's Redoubt,,,Epic,85.0,14.0,,,,22.0,15.0,20.0
+186.0,,,9.0,,120.0,,44.0,9.0,Blood Guard's Shield,,,Epic,85.0,14.0,,,,21.0,14.0,
+185.0,,,,,85.0,,44.0,,Brick Shield,,,Uncommon,84.0,14.0,,,,21.0,14.0,
+185.0,,,,,100.0,10.0,44.0,8.0,Zora's Ward,,,Rare,83.0,14.0,,,,21.0,14.0,
+1635.0,,,,,,,410.0,59.0,"Akmin-Kurai, Dominion's Shield",,,Epic,85.0,14.0,,,,200.0,134.0,59.0
+1635.0,,,,,,56.0,410.0,,Ward of the Red Widow,,,Epic,85.0,14.0,,,,200.0,134.0,62.0
+224.0,,,,,120.0,,52.0,11.0,Ancient Mogu Tower Shield,1.0,,Epic,90.0,14.0,Prismatic socket,,,25.0,14.0,8.0
+223.0,,,11.0,,120.0,,52.0,11.0,Prideful Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,25.0,17.0,
+219.0,,,8.0,,120.0,,50.0,11.0,Norushen's Enigmatic Barrier,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+212.0,,,,,120.0,,50.0,11.0,Ancient Mogu Tower Shield,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,7.0
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,,,,,,,Grievous Gladiator's Redoubt,,,Epic,90.0,14.0,,,,,,
+207.0,,,10.0,,100.0,,48.0,,Carapace Shield of the Devourer,,,Rare,90.0,14.0,,,,24.0,16.0,11.0
+199.0,,,10.0,,100.0,,47.0,7.0,Crafted Malevolent Gladiator's Shield Wall,,,Rare,90.0,14.0,,,,23.0,15.0,
+199.0,,,8.0,,100.0,,47.0,,Impervious Carapace,,,Rare,90.0,14.0,,,,23.0,15.0,13.0
+199.0,,,10.0,,120.0,,47.0,7.0,Malevolent Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,9.0,,85.0,11.0,47.0,,Shield of the Wakener,,,Uncommon,,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,85.0,,47.0,10.0,Eye of the Wakener,,,Uncommon,,14.0,,,,23.0,15.0,
+188.0,,,10.0,,85.0,9.0,44.0,,Mountainscaler Shield,,,Uncommon,87.0,14.0,,,,21.0,14.0,
+185.0,,,11.0,,100.0,,44.0,8.0,Barnacled Shell Buckler,,,Rare,85.0,14.0,,,,21.0,14.0,
+179.0,,,,,85.0,9.0,42.0,,Shield of the Returning Prince,,,Uncommon,,14.0,,,,21.0,14.0,9.0
+176.0,,,,,85.0,,40.0,10.0,Catapult Loading Scoop,,7.0,Uncommon,,14.0,,,,20.0,13.0,
+1121.0,,,,,,,256.0,41.0,Golden Protectorate,,,Uncommon,90.0,14.0,,,,125.0,84.0,48.0
+311.0,,,,,85.0,,89.0,17.0,Hatch-Cover Bulwark,,,Uncommon,90.0,14.0,,,,43.0,29.0,20.0
+227.0,,,,,120.0,,53.0,12.0,Ancient Mogu Tower Shield,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,8.0
+227.0,,,,,120.0,,53.0,12.0,Ancient Mogu Tower Shield,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,8.0
+227.0,,,10.0,,120.0,,53.0,9.0,Bulwark of the Fallen General,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+227.0,,,10.0,,120.0,,53.0,9.0,Bulwark of the Fallen General,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+223.0,,,11.0,,120.0,,52.0,11.0,Prideful Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,25.0,17.0,
+223.0,,,11.0,,120.0,,52.0,11.0,Prideful Gladiator's Barrier,,,Epic,90.0,14.0,,,,25.0,17.0,
+219.0,,,,,120.0,,50.0,11.0,Ancient Mogu Tower Shield,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,7.0
+219.0,,,,,120.0,,50.0,9.0,Greatshield of the Gloaming,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+219.0,,,10.0,,120.0,,50.0,9.0,Bulwark of the Fallen General,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+212.0,,,,,120.0,10.0,50.0,9.0,Visage of the Monstrous,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+212.0,,,,,120.0,11.0,50.0,7.0,Shield of Twinned Despair,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+212.0,,,,,120.0,,50.0,9.0,Ultimate Protection of the Emperor,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Redoubt,,,Epic,90.0,14.0,,,,24.0,16.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,Paladin,,,,85.0,9.0,47.0,11.0,Sunsoul Shield,,,Uncommon,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,,,100.0,10.0,47.0,10.0,Metanoia Shield,,,Rare,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,8.0,Malevolent Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,Shaman,,9.0,,85.0,,47.0,11.0,Streamtalker Shield,,,Uncommon,90.0,14.0,,,,23.0,15.0,
+199.0,Shaman,,9.0,,85.0,,47.0,11.0,Streamtalker Shield,,,Uncommon,90.0,14.0,,,,23.0,15.0,
+199.0,Warrior,,,,85.0,,47.0,11.0,Oathsworn Bulwark,,,Uncommon,90.0,14.0,,,,23.0,15.0,9.0
+199.0,Warrior,,,,85.0,,47.0,11.0,Oathsworn Bulwark,,,Uncommon,90.0,14.0,,,,23.0,15.0,9.0
+197.0,,,10.0,,85.0,,45.0,10.0,Shield of the Lurking Mist,,,Uncommon,,14.0,,,,22.0,15.0,
+193.0,,,,,85.0,8.0,45.0,11.0,Flamecaller's Shield,,,Uncommon,,14.0,,,,22.0,15.0,
+193.0,,,10.0,,85.0,10.0,45.0,,Shomi's Ward,,,Uncommon,,14.0,,,,22.0,15.0,
+192.0,,,,,85.0,10.0,45.0,10.0,Wasteland Shield,,,Uncommon,88.0,14.0,,,,22.0,15.0,
+188.0,,,,,120.0,,44.0,,Ruthless Gladiator's Redoubt,,,Epic,85.0,14.0,,,,21.0,14.0,18.0
+188.0,,,10.0,,85.0,,44.0,8.0,Mountainscaler Barrier,,,Uncommon,87.0,14.0,,,,21.0,14.0,
+185.0,,,7.0,12.0,100.0,,44.0,,Bulwark of the Primordial Mound,,,Rare,83.0,14.0,,,,21.0,14.0,
+185.0,,,,,100.0,9.0,44.0,10.0,Ward of Incantations,,,Rare,85.0,14.0,,,,21.0,14.0,
+185.0,,,9.0,,120.0,,44.0,,Vicious Gladiator's Shield Wall,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,7.0,12.0,100.0,,44.0,,Bulwark of the Primordial Mound,,,Rare,85.0,14.0,,,,21.0,14.0,
+185.0,,,9.0,,85.0,,44.0,9.0,Faded Forest Shield,,,Uncommon,85.0,14.0,,,,21.0,14.0,
+178.0,,,9.0,,85.0,9.0,42.0,,Brightpolish Shield,,,Uncommon,,14.0,,,,21.0,14.0,
+1635.0,,,56.0,,,62.0,410.0,,Shard of Torment,,,Epic,85.0,14.0,,,,200.0,134.0,
+1121.0,,,,,,,256.0,41.0,Hatch-Cover Bulwark,,,Uncommon,90.0,14.0,,,,125.0,84.0,48.0
+227.0,,,8.0,,120.0,,53.0,11.0,Norushen's Enigmatic Barrier,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+227.0,,,8.0,,120.0,,53.0,11.0,Norushen's Enigmatic Barrier,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+227.0,,,11.0,,120.0,,53.0,,Shield of Mockery,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,10.0
+227.0,,,8.0,,120.0,,53.0,11.0,Norushen's Enigmatic Barrier,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+224.0,,,10.0,,120.0,,52.0,,Shield of Mockery,1.0,,Epic,90.0,14.0,Prismatic socket,,,25.0,14.0,9.0
+223.0,,,,,,,,,Prideful Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,,,
+219.0,,,,,120.0,10.0,50.0,9.0,Visage of the Monstrous,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+219.0,,,10.0,,120.0,,50.0,,Shield of Mockery,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,9.0
+219.0,,,8.0,,120.0,,50.0,11.0,Norushen's Enigmatic Barrier,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+219.0,,,,,120.0,11.0,50.0,7.0,Shield of Twinned Despair,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+212.0,,,8.0,,120.0,,50.0,11.0,Norushen's Enigmatic Barrier,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+211.0,,,,,,,,,Grievous Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,,,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Barrier,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Barrier,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,,,,,,,Grievous Gladiator's Barrier,,,Epic,90.0,14.0,,,,,,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Redoubt,,,Epic,90.0,14.0,,,,24.0,16.0,
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Redoubt,,,Epic,90.0,14.0,,,,24.0,16.0,
+207.0,,,,,85.0,11.0,48.0,10.0,Karabor Honor Guard Shield,,,Uncommon,,14.0,,,,24.0,16.0,
+207.0,,,,,100.0,,48.0,11.0,Rockhoof's Crest,,,Rare,90.0,14.0,,,,24.0,16.0,9.0
+207.0,,,,,85.0,11.0,48.0,10.0,Frostwolf Arrow-Swallower,,,Uncommon,,14.0,,,,24.0,16.0,
+203.0,,,,,120.0,10.0,47.0,6.0,Shield of Twinned Despair,1.0,,Epic,90.0,14.0,Prismatic socket,,,20.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,9.0,,100.0,11.0,47.0,,Shield of the Protectorate,,,Rare,87.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,8.0,Malevolent Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,9.0,,100.0,11.0,47.0,,Shield of the Protectorate,,,Rare,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,,,85.0,,47.0,,Frostbitten Shield,,,Uncommon,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,7.0,Malevolent Gladiator's Shield Wall,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,8.0,Malevolent Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,Paladin,,,,85.0,,47.0,9.0,Sunsoul Bulwark,,,Uncommon,90.0,14.0,,,,23.0,15.0,11.0
+199.0,Shaman,,11.0,,85.0,9.0,47.0,,Streamtalker Aegis,,,Uncommon,90.0,14.0,,,,23.0,15.0,
+199.0,Shaman,,11.0,,85.0,9.0,47.0,,Streamtalker Aegis,,,Uncommon,90.0,14.0,,,,23.0,15.0,
+197.0,,,11.0,,85.0,7.0,45.0,,Shield of Orbiss,,,Uncommon,,14.0,,,,22.0,15.0,
+193.0,,,,,85.0,,45.0,10.0,Bataari Warshield,,,Uncommon,,14.0,,,,22.0,15.0,9.0
+192.0,,,,,85.0,,45.0,,Snowy Shield,,,Uncommon,86.0,14.0,,,,22.0,15.0,
+192.0,,,7.0,,85.0,,45.0,,Wasteland Barrier,,,Uncommon,88.0,14.0,,,,22.0,15.0,11.0
+189.0,,,,,85.0,9.0,44.0,9.0,Hope's Shield,,,Uncommon,,14.0,,,,21.0,14.0,
+189.0,,,7.0,,85.0,,44.0,,Safari Defender,,,Uncommon,,14.0,,,,21.0,14.0,11.0
+188.0,,,,,85.0,,44.0,,Miner Shield,,,Uncommon,85.0,14.0,,,,21.0,14.0,
+188.0,,,9.0,,120.0,,44.0,,Ruthless Gladiator's Shield Wall,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,9.0,,120.0,,44.0,,Vicious Gladiator's Barrier,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,,,100.0,11.0,44.0,8.0,Zora's Ward,,,Rare,85.0,14.0,,,,21.0,14.0,
+185.0,,,9.0,,120.0,,44.0,,Ruthless Gladiator's Barrier,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,,,85.0,,44.0,8.0,Faded Forest Barrier,,,Uncommon,85.0,14.0,,,,21.0,14.0,10.0
+185.0,,,9.0,,120.0,,44.0,,Vicious Gladiator's Shield Wall,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,9.0,,100.0,,44.0,9.0,Dragonkin Ward,,,Rare,85.0,14.0,,,,21.0,14.0,
+182.0,,,,,85.0,,42.0,9.0,Skull Carrier,,,Uncommon,,14.0,,,,21.0,14.0,9.0
+182.0,,,,,85.0,,42.0,9.0,Skull Carrier,,,Uncommon,,14.0,,,,21.0,14.0,9.0
+182.0,,,,,85.0,,42.0,,Steelgrill Shield,,,Uncommon,85.0,14.0,,,,21.0,14.0,
+179.0,,,,,85.0,,42.0,,Crystalvein Shield,,,Uncommon,84.0,14.0,,,,21.0,14.0,
+178.0,,,,,85.0,,42.0,,Fargodeep Shield,,,Uncommon,81.0,14.0,,,,21.0,14.0,
+178.0,,,,,85.0,,42.0,,Ravencrest Shield,,,Uncommon,82.0,14.0,,,,21.0,14.0,
+311.0,,,,,85.0,,89.0,17.0,Golden Protectorate,,,Uncommon,90.0,14.0,,,,43.0,29.0,20.0
+227.0,,,,,120.0,11.0,53.0,10.0,Visage of the Monstrous,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+227.0,,,11.0,,120.0,,53.0,,Shield of Mockery,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,10.0
+227.0,,,,,120.0,11.0,53.0,10.0,Visage of the Monstrous,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,
+227.0,,,11.0,,120.0,,53.0,,Shield of Mockery,1.0,,Epic,90.0,14.0,Prismatic socket,,,26.0,14.0,10.0
+224.0,,,,,120.0,10.0,52.0,9.0,Visage of the Monstrous,1.0,,Epic,90.0,14.0,Prismatic socket,,,25.0,14.0,
+223.0,,,,,,,,,Prideful Gladiator's Barrier,,,Epic,90.0,14.0,,,,,,
+223.0,,,,,,,,,Prideful Gladiator's Redoubt,,,Epic,90.0,14.0,,,,,,
+219.0,,,11.0,,120.0,8.0,50.0,,Tortos' Discarded Shell,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+219.0,,,10.0,,120.0,,50.0,,Shield of Mockery,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,9.0
+219.0,,,,,120.0,,50.0,9.0,Ultimate Protection of the Emperor,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+219.0,,,,,120.0,10.0,50.0,9.0,Visage of the Monstrous,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,
+219.0,,,,,120.0,,50.0,11.0,Ancient Mogu Tower Shield,1.0,,Epic,90.0,14.0,Prismatic socket,,,24.0,13.0,7.0
+212.0,,,11.0,,120.0,8.0,50.0,,Tortos' Discarded Shell,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,
+212.0,,,,,120.0,,50.0,9.0,Greatshield of the Gloaming,1.0,,Epic,90.0,14.0,Prismatic socket,,,21.0,16.0,10.0
+211.0,,,11.0,,120.0,,48.0,11.0,Grievous Gladiator's Barrier,,,Epic,90.0,14.0,,,,24.0,16.0,
+207.0,,,,,120.0,,48.0,,Immaculate Pandaren Shield,,,Epic,90.0,14.0,,,1.7000000000000002,24.0,16.0,
+207.0,,,,,120.0,,48.0,,Immaculate Pandaren Protector,,,Epic,90.0,14.0,,,1.7000000000000002,24.0,16.0,
+203.0,,,,,120.0,,47.0,8.0,Greatshield of the Gloaming,1.0,,Epic,90.0,14.0,Prismatic socket,,,20.0,15.0,9.0
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Redoubt,,,Epic,90.0,14.0,,,,23.0,15.0,
+199.0,,,,,100.0,,47.0,9.0,Shield of Blind Hate,,,Rare,90.0,14.0,,,,23.0,15.0,11.0
+199.0,Paladin,,,,85.0,9.0,47.0,11.0,Sunsoul Shield,,,Uncommon,90.0,14.0,,,,23.0,15.0,
+199.0,,,10.0,,120.0,,47.0,10.0,Tyrannical Gladiator's Barrier,,,Epic,90.0,14.0,,,,23.0,15.0,
+189.0,,,8.0,,85.0,,44.0,10.0,Ward of Despair,,,Uncommon,,14.0,,,,21.0,14.0,
+189.0,,,,,85.0,8.0,44.0,10.0,Darkhide Barrier,,,Uncommon,,14.0,,,,21.0,14.0,
+188.0,,,9.0,,120.0,,44.0,,Ruthless Gladiator's Barrier,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,9.0,,120.0,,44.0,,Ruthless Gladiator's Shield Wall,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,,,85.0,,44.0,,Wall Shield,,,Uncommon,83.0,14.0,,,,21.0,14.0,
+185.0,,,,,120.0,,44.0,,Ruthless Gladiator's Redoubt,,,Epic,85.0,14.0,,,,21.0,14.0,18.0
+185.0,,,9.0,,,,44.0,,Vicious Gladiator's Barrier,,,Epic,85.0,14.0,,,,21.0,14.0,9.0
+185.0,,,9.0,10.0,100.0,,44.0,,Twilight Mirrorshield,,,Rare,,14.0,,,,21.0,14.0,
+185.0,,,,10.0,100.0,,44.0,8.0,Bulwark of the Scorned Man,,,Rare,84.0,14.0,,,,21.0,14.0,
+178.0,,,,,85.0,,42.0,,Stonewrought Shield,,,Uncommon,83.0,14.0,,,,21.0,14.0,
+239.0,,,11.0,,120.0,,56.0,13.0,Blackrock Bulwark,,,Epic,100.0,14.0,,,,28.0,18.0,
+130.0,,,,,120.0,,,,Furnace of the Great Machine,,,Epic,100.0,14.0,,,2.0,,,
+238.0,,,,,120.0,,56.0,,Steelforged Shield,,,Epic,91.0,14.0,,,,28.0,18.0,
+130.0,,,,,120.0,,,,Face of the Guardian,,,Epic,100.0,14.0,,,2.0,,,
+239.0,,,,,120.0,14.0,56.0,10.0,Absalom's Bloody Bulwark,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,120.0,,56.0,,Kromog's Protecting Palm,,,Epic,100.0,14.0,,,,28.0,18.0,12.0
+238.0,,,,,120.0,,56.0,,Steelforged Aegis,,,Epic,91.0,14.0,,,,28.0,18.0,
+239.0,,,19.0,,120.0,,60.0,7.0,Fallen Defender of Argus,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,7.0,,120.0,18.0,58.0,,Soulwarped Tower Shield,,,Epic,100.0,14.0,,,,28.0,19.0,
+219.0,,,,,100.0,,50.0,12.0,Jerek's Intractable Barrier,,,Rare,92.0,14.0,,,,24.0,16.0,10.0
+239.0,,,,,120.0,9.0,58.0,16.0,Smoldercore Bulwark,,,Epic,100.0,14.0,,,,28.0,19.0,
+239.0,,,12.0,,120.0,,56.0,12.0,Primal Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,120.0,12.0,56.0,12.0,Heart of the Clefthoof,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,15.0,,120.0,10.0,58.0,,Felforged Aegis,,,Epic,100.0,14.0,,,,28.0,19.0,
+239.0,,,12.0,,,,60.0,8.0,Hellscream's Shield Wall,2.0,,Heirloom,90.0,14.0,Prismatic socket,Prismatic socket,,29.0,13.0,
+238.0,,,,,100.0,13.0,56.0,11.0,Ogre Dinner Plate,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,120.0,11.0,56.0,13.0,Disc of the Third Moon,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,13.0,,120.0,,60.0,13.0,Warmongering Gladiator's Redoubt,,,Epic,100.0,14.0,,,,29.0,19.0,
+238.0,,,10.0,,100.0,,56.0,,Arrowbreaker Greatshield,,,Rare,100.0,14.0,,,,28.0,18.0,14.0
+212.0,,,,,85.0,,50.0,,Gul'rok Shield,,,Uncommon,94.0,14.0,,,,24.0,16.0,
+239.0,,,,,,13.0,60.0,13.0,Hellscream's Barrier,,,Heirloom,90.0,14.0,,,,29.0,19.0,
+239.0,,,13.0,,100.0,13.0,60.0,,Warmongering Combatant's Barrier,,,Rare,100.0,14.0,,,,29.0,19.0,
+207.0,,,,,85.0,,48.0,,Shardback Shield,,,Uncommon,93.0,14.0,,,,24.0,16.0,
+239.0,,,,,120.0,13.0,60.0,13.0,Wild Gladiator's Barrier,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,,,120.0,13.0,56.0,10.0,Maw of Souls,,,Epic,100.0,14.0,,,,28.0,18.0,
+240.0,,,12.0,,,,61.0,8.0,Hellscream's Shield Wall,2.0,,Heirloom,90.0,14.0,Prismatic socket,Prismatic socket,,30.0,14.0,
+238.0,,,12.0,,100.0,,56.0,12.0,Primal Combatant's Redoubt,,,Rare,100.0,14.0,,,,28.0,18.0,
+238.0,,,12.0,,100.0,,56.0,12.0,Primal Combatant's Shield Wall,,,Rare,100.0,14.0,,,,28.0,18.0,
+238.0,,,12.0,,100.0,,56.0,12.0,Draconian Doomshield,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,10.0,,120.0,15.0,56.0,,Decaying Draenic Shield,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,,,60.0,8.0,Hellscream's Shield Wall,2.0,,Heirloom,90.0,14.0,Prismatic socket,Prismatic socket,,29.0,13.0,
+239.0,,,12.0,,120.0,,56.0,12.0,Primal Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,28.0,18.0,
+238.0,,,12.0,,100.0,12.0,56.0,,Primal Combatant's Barrier,,,Rare,100.0,14.0,,,,28.0,18.0,
+238.0,,,14.0,,100.0,,56.0,,Etched Osteoderm Shield,,,Rare,100.0,14.0,,,,28.0,18.0,10.0
+239.0,,,,,120.0,13.0,60.0,13.0,Warmongering Gladiator's Barrier,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,13.0,,100.0,,60.0,13.0,Warmongering Combatant's Shield Wall,,,Rare,100.0,14.0,,,,29.0,19.0,
+239.0,,,10.0,,100.0,,56.0,14.0,Commander's Citadel Shield,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,13.0,,120.0,,60.0,13.0,Warmongering Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,,,,13.0,60.0,13.0,Hellscream's Barrier,,,Heirloom,90.0,14.0,,,,29.0,19.0,
+239.0,,,,,120.0,13.0,60.0,13.0,Wild Gladiator's Barrier,,,Epic,100.0,14.0,,,,29.0,19.0,
+238.0,,,,,85.0,,56.0,,Stonecrag Shield,,,Uncommon,100.0,14.0,,,,28.0,18.0,
+233.0,,,,,85.0,,55.0,,Ironfist Shield,,,Uncommon,99.0,14.0,,,,27.0,18.0,
+238.0,,,12.0,,100.0,,56.0,12.0,Primal Combatant's Redoubt,,,Rare,100.0,14.0,,,,28.0,18.0,
+231.0,,,,,100.0,12.0,53.0,11.0,Shadowbark's Shin,,,Rare,96.0,14.0,,,,26.0,17.0,
+239.0,,,,,,,,,Warmongering Gladiator's Barrier,,,Epic,100.0,14.0,,,,,,
+239.0,,,13.0,,120.0,,60.0,13.0,Warmongering Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,12.0,,120.0,12.0,56.0,,Primal Gladiator's Barrier,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,14.0,,120.0,,56.0,9.0,Earthbound Shield,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,100.0,,56.0,12.0,Wild Combatant's Shield Wall,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,120.0,12.0,56.0,,Shield of Violent Upheaval,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,120.0,13.0,56.0,11.0,Mirrorshield of Arcane Fortification,,,Epic,100.0,14.0,,,,28.0,18.0,
+238.0,,,10.0,,100.0,,56.0,14.0,Fragment of Oshu'gun,,,Rare,98.0,14.0,,,,28.0,18.0,
+238.0,,,12.0,,100.0,,56.0,12.0,Primal Combatant's Shield Wall,,,Rare,100.0,14.0,,,,28.0,18.0,
+238.0,,,11.0,,100.0,13.0,56.0,,Flinthide's Impenetrable Crest,,,Rare,98.0,14.0,,,,28.0,18.0,
+238.0,Paladin,,13.0,,100.0,,56.0,11.0,Sunsoul Bulwark,,,Rare,100.0,14.0,,,,28.0,18.0,
+235.0,,,,,85.0,10.0,55.0,13.0,Plainshunter Shademaker,,,Uncommon,,14.0,,,,27.0,18.0,
+229.0,,,,,85.0,11.0,53.0,,Admiral Taylor's Shield,,,Uncommon,,14.0,,,,26.0,17.0,12.0
+224.0,,,,,100.0,11.0,52.0,11.0,Talador Spellbarrier,,,Rare,,14.0,,,,25.0,17.0,
+239.0,,,,,,,,,Warmongering Gladiator's Redoubt,,,Epic,100.0,14.0,,,,,,
+239.0,,,12.0,,120.0,12.0,56.0,,Primal Gladiator's Barrier,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,120.0,,56.0,,Stonebinder Shield,,,Epic,100.0,14.0,,,,28.0,18.0,
+238.0,,,12.0,,100.0,12.0,56.0,,Primal Combatant's Barrier,,,Rare,100.0,14.0,,,,28.0,18.0,
+235.0,,,,,100.0,12.0,55.0,12.0,Shield of Shining Fate,,,Rare,96.0,14.0,,,,27.0,18.0,
+215.0,,,,,85.0,10.0,50.0,,Steamscar Shield,,,Uncommon,,14.0,,,,24.0,16.0,12.0
+203.0,,,,,85.0,,47.0,,Rockspine Shield,,,Uncommon,92.0,14.0,,,,23.0,15.0,
+199.0,,,,,85.0,,47.0,,Rimeplate Shield,,,Uncommon,91.0,14.0,,,,23.0,15.0,
+239.0,,,,,120.0,13.0,60.0,13.0,Warmongering Gladiator's Barrier,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,13.0,,120.0,,60.0,13.0,Wild Gladiator's Redoubt,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,13.0,,120.0,,60.0,13.0,Wild Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,8.0,,120.0,,56.0,16.0,Demonhorn Buckler,,,Epic,100.0,14.0,,,,28.0,18.0,
+235.0,,,,,85.0,11.0,55.0,,Plainshunter Sunbarrier,,,Uncommon,,14.0,,,,27.0,18.0,13.0
+224.0,,,12.0,,100.0,,52.0,10.0,Ra'tok's Buckler,,,Rare,,14.0,,,,25.0,17.0,
+219.0,,,,,85.0,,50.0,,Stonebreaker Shield,,,Uncommon,95.0,14.0,,,,24.0,16.0,
+239.0,,,13.0,,120.0,,60.0,13.0,Wild Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,13.0,,100.0,,60.0,13.0,Warmongering Combatant's Shield Wall,,,Rare,100.0,14.0,,,,29.0,19.0,
+239.0,,,13.0,,120.0,,60.0,13.0,Wild Gladiator's Redoubt,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,13.0,,100.0,,60.0,13.0,Warmongering Combatant's Redoubt,,,Rare,100.0,14.0,,,,29.0,19.0,
+239.0,Paladin,,,,85.0,,56.0,11.0,Duskbreaker Bulwark,,,Uncommon,100.0,14.0,,,,28.0,18.0,14.0
+239.0,,,12.0,,100.0,12.0,56.0,,Wild Combatant's Barrier,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,100.0,,56.0,12.0,Wild Combatant's Shield Wall,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,Warrior,,,,85.0,,56.0,11.0,Defiant Bulwark,,,Uncommon,100.0,14.0,,,,28.0,18.0,14.0
+239.0,,,12.0,,120.0,,56.0,12.0,Primal Gladiator's Redoubt,,,Epic,100.0,14.0,,,,28.0,18.0,
+238.0,,,10.0,,100.0,,56.0,,Rockworm Carapace Shield,,,Rare,100.0,14.0,,,,28.0,18.0,13.0
+238.0,,,12.0,,100.0,,56.0,12.0,Viryx's Indomitable Bulwark,,,Rare,100.0,14.0,,,,28.0,18.0,
+227.0,,,,,100.0,,53.0,10.0,Felbark's Shin,,,Rare,94.0,14.0,,,,26.0,17.0,13.0
+227.0,,,,,85.0,,53.0,,Ravenskar Shield,,,Uncommon,97.0,14.0,,,,26.0,17.0,
+240.0,,,,,,13.0,61.0,13.0,Hellscream's Barrier,,,Heirloom,90.0,14.0,,,,30.0,20.0,
+239.0,,,,,120.0,,,,Warmongering Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,,,
+239.0,,,13.0,,120.0,,60.0,13.0,Warmongering Gladiator's Redoubt,,,Epic,100.0,14.0,,,,29.0,19.0,
+239.0,,,,,,,,,Wild Gladiator's Barrier,,,Epic,100.0,14.0,,,,,,
+239.0,,,13.0,,100.0,,60.0,13.0,Warmongering Combatant's Redoubt,,,Rare,100.0,14.0,,,,29.0,19.0,
+239.0,,,,,,,,,Wild Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,,,
+239.0,,,,,120.0,13.0,56.0,11.0,Steelbringer's Polished Shield,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,100.0,12.0,56.0,,Wild Combatant's Barrier,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,120.0,,56.0,12.0,Primal Gladiator's Redoubt,,,Epic,100.0,14.0,,,,28.0,18.0,
+239.0,,,12.0,,100.0,,56.0,12.0,Wild Combatant's Redoubt,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,,,,,Primal Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,,,
+239.0,Warrior,,,,85.0,,56.0,13.0,Oathsworn Bulwark,,,Uncommon,100.0,14.0,,,,28.0,18.0,11.0
+239.0,Shaman,,13.0,,85.0,11.0,56.0,,Streamtalker Aegis,,,Uncommon,100.0,14.0,,,,28.0,18.0,
+239.0,Shaman,,11.0,,85.0,,56.0,13.0,Streamtalker Shield,,,Uncommon,100.0,14.0,,,,28.0,18.0,
+239.0,Paladin,,,,85.0,11.0,56.0,13.0,Sunsoul Shield,,,Uncommon,100.0,14.0,,,,28.0,18.0,
+239.0,Paladin,,,,85.0,,56.0,11.0,Sunsoul Bulwark,,,Uncommon,100.0,14.0,,,,28.0,18.0,13.0
+238.0,,,9.0,,100.0,14.0,56.0,,Desiccated Husk Shield,,,Rare,100.0,14.0,,,,28.0,18.0,
+238.0,Warrior,,11.0,,100.0,,56.0,13.0,Oathsworn Bulwark,,,Rare,100.0,14.0,,,,28.0,18.0,
+227.0,,,,,85.0,,53.0,,Talon Guard Shield,,,Uncommon,98.0,14.0,,,,26.0,17.0,
+223.0,,,,,85.0,,52.0,,Sharptusk Shield,,,Uncommon,96.0,14.0,,,,25.0,17.0,
+33.0,,,,,120.0,,,,Tournament Gladiator's Barrier,,,Epic,100.0,14.0,,,,,,
+33.0,,,,,120.0,,,,Tournament Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,,,
+239.0,,,,,,,,,Wild Gladiator's Redoubt,,,Epic,100.0,14.0,,,,,,
+239.0,,,13.0,,100.0,13.0,60.0,,Warmongering Combatant's Barrier,,,Rare,100.0,14.0,,,,29.0,19.0,
+239.0,,,12.0,,100.0,,56.0,12.0,Wild Combatant's Redoubt,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,,,10.0,,100.0,,56.0,14.0,Belgork's Bastion,,,Rare,100.0,14.0,,,,28.0,18.0,
+239.0,Paladin,,,,85.0,14.0,56.0,11.0,Duskbreaker Shield,,,Uncommon,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,,,,,Primal Gladiator's Barrier,,,Epic,100.0,14.0,,,,,,
+239.0,Shaman,,11.0,,,14.0,56.0,,Stormseeker Aegis,,,Uncommon,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,,,,,Primal Gladiator's Redoubt,,,Epic,100.0,14.0,,,,,,
+239.0,Shaman,,14.0,,85.0,,56.0,11.0,Stormseeker Shield,,,Uncommon,100.0,14.0,,,,28.0,18.0,
+239.0,,,,,120.0,,56.0,,Bouldercrush Shield,,,Epic,100.0,14.0,,,,28.0,18.0,
+238.0,Paladin,,,,100.0,11.0,56.0,13.0,Sunsoul Shield,,,Rare,100.0,14.0,,,,28.0,18.0,
+238.0,Shaman,,13.0,,100.0,11.0,56.0,,Streamtalker Aegis,,,Rare,100.0,14.0,,,,28.0,18.0,
+238.0,Shaman,,11.0,,100.0,,56.0,13.0,Streamtalker Shield,,,Rare,100.0,14.0,,,,28.0,18.0,
+215.0,,,9.0,,85.0,,50.0,,Steamscar Shaman's Barrier,,,Uncommon,,14.0,,,,24.0,16.0,12.0
+33.0,,,,,120.0,,,,Tournament Gladiator's Redoubt,,,Epic,100.0,14.0,,,,,,
+33.0,,,,,120.0,,,,Tournament Gladiator's Redoubt,,,Epic,100.0,14.0,,,,,,
+33.0,,,,,120.0,,,,Tournament Gladiator's Barrier,,,Epic,100.0,14.0,,,,,,
+33.0,,,,,120.0,,,,Tournament Gladiator's Shield Wall,,,Epic,100.0,14.0,,,,,,
+319.0,,,,,,,,,Brilliant Daybreak Aegis,,,Epic,110.0,14.0,,,,,,
+319.0,,,,,,,,,Lustrous Daybreak Aegis,,,Epic,110.0,14.0,,,,,,
+319.0,,,,,,,,,Brilliant Eventide Aegis,,,Epic,110.0,14.0,,,,,,
+319.0,,,,,,,,,Lustrous Eventide Aegis,,,Epic,110.0,14.0,,,,,,
+275.0,,,,,100.0,,69.0,15.0,Bloodseeker's Bulwark,,,Rare,110.0,14.0,,,,34.0,23.0,15.0
+275.0,,,15.0,,100.0,15.0,69.0,,Soulstealer's Barrier,,,Rare,110.0,14.0,,,,34.0,23.0,
+303.0,,,,,100.0,21.0,84.0,13.0,Mac'Aree Vigilant's Crest,,,Rare,110.0,14.0,,,,41.0,27.0,
+291.0,,,17.0,,85.0,15.0,77.0,,Tideguard Bulwark,,,Uncommon,,14.0,,,,38.0,25.0,
+291.0,,,17.0,,85.0,,77.0,15.0,Jambani Deflector,,,Uncommon,,14.0,,,,38.0,25.0,
+291.0,,,10.0,,85.0,22.0,77.0,,Barbthorn Bulwark,,,Uncommon,,14.0,,,,38.0,25.0,
+303.0,,,13.0,,100.0,,84.0,,Mac'Aree Vigilant's Shield,,,Rare,110.0,14.0,,,,41.0,27.0,21.0
+291.0,,,15.0,,85.0,,77.0,17.0,Gilded Lilypad,,,Uncommon,,14.0,,,,38.0,25.0,
+180.0,,,,,85.0,,,,Dented Triptych Shield,,,Poor,110.0,14.0,,,,,,
+970.0,,,29.0,,100.0,37.0,213.0,,Dread Aspirant's Barrier,,,Rare,110.0,14.0,,,,104.0,69.0,
+970.0,,,36.0,,100.0,30.0,213.0,,Dread Aspirant's Shield Wall,,,Rare,110.0,14.0,,,,104.0,69.0,
+970.0,,,36.0,,100.0,30.0,213.0,,Dread Aspirant's Shield Wall,,,Rare,110.0,14.0,,,,104.0,69.0,
+303.0,,,21.0,,100.0,,84.0,,Mac'Aree Vigilant's Bastion,,,Rare,110.0,14.0,,,,41.0,27.0,13.0
+291.0,,,15.0,,85.0,17.0,77.0,,Faithless Skyrider's Shield,,,Uncommon,,14.0,,,,38.0,25.0,
+291.0,,,,,85.0,,77.0,14.0,Proudmoore Marine's Crest,,,Uncommon,,14.0,,,,38.0,25.0,18.0
+291.0,,,17.0,,85.0,,77.0,15.0,Ashenwood Defender,,,Uncommon,,14.0,,,,38.0,25.0,
+291.0,,,14.0,,85.0,,77.0,,Waycrest Inquisitor's Shield,,,Uncommon,,14.0,,,,38.0,25.0,18.0
+291.0,,,,,85.0,17.0,77.0,,Ai'twen's Defender,,,Uncommon,,14.0,,,,38.0,25.0,15.0
+970.0,,,,,,,,26.0,Dread Combatant's Shield Wall,,,Uncommon,110.0,14.0,,,,104.0,69.0,40.0
+328.0,Warrior,,26.0,,120.0,,97.0,14.0,Bladeplate Barrier,,,Rare,110.0,14.0,,,,47.0,32.0,
+311.0,Shaman,,17.0,,85.0,19.0,89.0,,Streamtalker Aegis,,,Uncommon,110.0,14.0,,,,43.0,29.0,
+291.0,,,15.0,,85.0,,77.0,17.0,Death Defier's Aegis,,,Uncommon,,14.0,,,,38.0,25.0,
+291.0,,,17.0,,85.0,,77.0,15.0,Anchor-Strapped Barrier,,,Uncommon,,14.0,,,,38.0,25.0,
+291.0,,,14.0,,85.0,,77.0,17.0,Great Sea Buckler,,,Uncommon,,14.0,,,,38.0,25.0,
+166.0,,,,,85.0,,,,Arrow-Pocked Aegis,,,Poor,110.0,14.0,,,,,,
+970.0,,,29.0,,,38.0,213.0,,Dread Combatant's Barrier,,,Uncommon,110.0,14.0,,,,104.0,,
+970.0,,,36.0,,,30.0,,,Dread Combatant's Shield Wall,,,Uncommon,110.0,14.0,,,,104.0,69.0,
+970.0,,,29.0,,100.0,37.0,213.0,,Dread Aspirant's Barrier,,,Rare,110.0,14.0,,,,104.0,69.0,
+328.0,Shaman,,14.0,,120.0,26.0,97.0,,Earthpyre Shield,,,Rare,110.0,14.0,,,,47.0,32.0,
+291.0,,,,,85.0,17.0,77.0,15.0,Golden Fleet Buckler,,,Uncommon,,14.0,,,,38.0,25.0,
+970.0,,,,,,,213.0,36.0,Dread Combatant's Barrier,,,Uncommon,110.0,14.0,,,,104.0,,30.0
+328.0,Paladin,,,,120.0,26.0,97.0,14.0,Sacrosanct Protector,,,Rare,110.0,14.0,,,,47.0,32.0,
+311.0,Paladin,,,,,17.0,89.0,19.0,Sunsoul Shield,,,Uncommon,110.0,14.0,,,,43.0,29.0,
+311.0,Paladin,,,,85.0,,89.0,17.0,Sunsoul Bulwark,,,Uncommon,110.0,14.0,,,,43.0,29.0,19.0
+311.0,Shaman,,19.0,,85.0,,89.0,17.0,Streamtalker Shield,,,Uncommon,110.0,14.0,,,,43.0,29.0,
+311.0,Warrior,,,,85.0,,89.0,19.0,Oathsworn Bulwark,,,Uncommon,110.0,14.0,,,,43.0,29.0,17.0
+303.0,,,,,100.0,13.0,84.0,21.0,Mac'Aree Vigilant's Redoubt,,,Rare,110.0,14.0,,,,41.0,27.0,
+291.0,,,,,85.0,15.0,77.0,,Jambani Barrier,,,Uncommon,,14.0,,,,38.0,25.0,17.0
+291.0,,,15.0,,85.0,17.0,77.0,,Durable Seashell Barrier,,,Uncommon,,14.0,,,,38.0,25.0,
+291.0,,,,,85.0,,77.0,15.0,Scorched Plateau Defender,,,Uncommon,,14.0,,,,38.0,25.0,17.0
+2277.0,,,,,120.0,90.0,652.0,,Great Reef Barrier,,,Epic,120.0,14.0,,,,319.0,212.0,56.0
+1686.0,,,47.0,,120.0,,429.0,,Deathguard's Warshield,,,Rare,120.0,14.0,,,,210.0,140.0,73.0
+1740.0,,,,,120.0,79.0,448.0,44.0,Coralspine Bulwark,,,Epic,120.0,14.0,,,,219.0,146.0,
+2277.0,,,82.0,,120.0,,652.0,64.0,Bulwark of the Seaborn Avatar,,,Epic,120.0,14.0,,,,319.0,212.0,
+1635.0,,,72.0,,120.0,46.0,410.0,,Sunburst Crest,,,Epic,120.0,14.0,,,,200.0,134.0,
+1740.0,,,,,120.0,67.0,448.0,,Reinforced Grease Deflector,,,Epic,120.0,14.0,,,,219.0,146.0,56.0
+1121.0,,,,,120.0,,256.0,48.0,Improvised Riot Shield,,,Rare,120.0,14.0,,,,125.0,84.0,41.0
+1635.0,,,,,120.0,,410.0,64.0,Oswain's Impassive Guard,,,Epic,120.0,14.0,,,,200.0,134.0,54.0
+1121.0,,,,,120.0,37.0,256.0,52.0,Disc of Indomitable Will,,,Rare,120.0,14.0,,,,125.0,84.0,
+1686.0,,,47.0,,120.0,,429.0,,Sentinel's Bulwark,,,Rare,120.0,14.0,,,,210.0,140.0,73.0
+1121.0,,,37.0,,120.0,52.0,256.0,,G0-4W4Y Crowd Repeller,,,Rare,120.0,14.0,,,,125.0,84.0,
+1740.0,,,,,120.0,79.0,448.0,44.0,Notorious Gladiator's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+2536.0,,,,,120.0,,750.0,84.0,Salvaged Mekacycle Shielding,,,Epic,120.0,14.0,,,,367.0,245.0,
+1857.0,,,,,120.0,,494.0,,Notorious Combatant's Shield,,,Epic,120.0,14.0,,,,241.0,161.0,
+1635.0,,,,,120.0,64.0,410.0,54.0,Barricade of Purifying Resolve,,,Epic,120.0,14.0,,,,200.0,134.0,
+1121.0,,,51.0,,120.0,,256.0,38.0,Targe of the Ancient Warder,,,Rare,120.0,14.0,,,,125.0,84.0,
+1121.0,,,41.0,,120.0,,256.0,,Bulwark of Brimming Potential,,,Rare,120.0,14.0,,,,125.0,84.0,48.0
+1539.0,,,,,120.0,,373.0,,Sinister Combatant's Shield,,,Epic,120.0,14.0,,,,182.0,121.0,
+1857.0,,,,,120.0,,494.0,,Notorious Combatant's Shield,,,Epic,120.0,14.0,,,,241.0,161.0,
+970.0,,,34.0,,120.0,,213.0,32.0,Gnarlwood Barrier,,,Rare,120.0,14.0,,,,104.0,69.0,
+1410.0,,,,,100.0,60.0,324.0,,Plundered Beacon-Light Bulwark,,,Rare,120.0,14.0,,,,159.0,106.0,43.0
+390.0,,,,,85.0,,127.0,,Monel-Hardened Shield,,,Uncommon,111.0,14.0,,,,62.0,42.0,
+1451.0,,,,,100.0,61.0,340.0,45.0,Sinister Aspirant's Shield Wall,,,Rare,120.0,14.0,,,,166.0,111.0,
+1740.0,,,,,120.0,79.0,448.0,44.0,Sinister Gladiator's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+1635.0,,,64.0,,120.0,,410.0,,Vector Deflector,,,Epic,120.0,14.0,,,,200.0,134.0,54.0
+2124.0,Paladin,,,,,67.0,594.0,73.0,Sunsoul Shield,,,Uncommon,120.0,14.0,,,,290.0,194.0,
+970.0,,,26.0,,120.0,,213.0,,Dread Gladiator's Barrier,,,Epic,120.0,14.0,,,,104.0,69.0,40.0
+1121.0,,,,,100.0,,256.0,,Honorable Combatant's Shield,,,Rare,120.0,14.0,,,,125.0,84.0,
+1740.0,,,,,120.0,79.0,448.0,44.0,Notorious Gladiator's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+1410.0,,,,,100.0,47.0,324.0,56.0,Plundered Totem Barrier,,,Rare,120.0,14.0,,,,159.0,106.0,
+970.0,,,,,85.0,,213.0,,Shipwrecker Shield,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+1740.0,,,,,100.0,79.0,448.0,44.0,Notorious Aspirant's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+1410.0,,,43.0,,100.0,,324.0,60.0,Plundered Jadefury Shield,,,Rare,120.0,14.0,,,,159.0,106.0,
+1740.0,,,,,120.0,79.0,448.0,44.0,Sinister Gladiator's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+1635.0,,,,,120.0,,410.0,46.0,Blockade Bulwark,,,Epic,120.0,14.0,,,,200.0,134.0,72.0
+1121.0,,,,,100.0,,256.0,,Stormsteel Shield,,,Rare,120.0,14.0,,,,125.0,84.0,
+970.0,,,,,120.0,42.0,213.0,,Dread Gladiator's Shield Wall,,,Epic,120.0,14.0,,,,104.0,69.0,24.0
+1451.0,,,,,100.0,61.0,340.0,45.0,Sinister Aspirant's Shield Wall,,,Rare,120.0,14.0,,,,166.0,111.0,
+970.0,,,37.0,,100.0,,213.0,,Golden Empire Buckler,,,Rare,120.0,14.0,,,,104.0,69.0,29.0
+970.0,,,,,85.0,,213.0,,Zem'lan Buckler,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+1121.0,,,,,100.0,,256.0,,Honorable Combatant's Aegis,,,Rare,120.0,14.0,,,,125.0,84.0,
+970.0,,,,,100.0,36.0,213.0,30.0,Ironcrest Bulwark,,,Rare,120.0,14.0,,,,104.0,69.0,
+2124.0,Warrior,,,,85.0,,594.0,73.0,Oathsworn Bulwark,,,Uncommon,120.0,14.0,,,,290.0,194.0,67.0
+970.0,,,,,100.0,21.0,213.0,45.0,Silvershell Defender,,,Rare,120.0,14.0,,,,104.0,69.0,
+1740.0,,,,,,52.0,448.0,70.0,Notorious Aspirant's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+1410.0,,,60.0,,100.0,43.0,324.0,,Plundered Torga Blessed Bulwark,,,Rare,120.0,14.0,,,,159.0,106.0,
+970.0,,,,,85.0,,213.0,,Bleached Bone Shield,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+2124.0,Shaman,,67.0,,85.0,73.0,594.0,,Streamtalker Aegis,,,Uncommon,120.0,14.0,,,,290.0,194.0,
+1121.0,,,,,100.0,,256.0,,Stormsteel Shield,,,Rare,120.0,14.0,,,,125.0,84.0,
+970.0,,,,,85.0,,213.0,,Wavecaller Buckler,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,85.0,,213.0,,Zocali Shield,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+1740.0,,,,,,52.0,448.0,70.0,Notorious Aspirant's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+1539.0,,,,,120.0,,373.0,,Sinister Combatant's Shield,,,Epic,120.0,14.0,,,,182.0,121.0,
+970.0,,,,,85.0,,213.0,,Wintersail Bulwark,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,120.0,42.0,213.0,,Dread Gladiator's Shield Wall,,,Epic,120.0,14.0,,,,104.0,69.0,24.0
+970.0,,,26.0,,120.0,,213.0,,Dread Gladiator's Barrier,,,Epic,120.0,14.0,,,,104.0,69.0,40.0
+970.0,,,,,,,213.0,,8.0 PH - Shield,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+390.0,,,,,85.0,,127.0,,Monel-Hardened Shield,,,Uncommon,111.0,14.0,,,,62.0,42.0,
+970.0,,,32.0,,100.0,,213.0,34.0,Golden Tomb Defender,,,Rare,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,85.0,,213.0,,Deepwarden Redoubt,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+2124.0,Paladin,,,,85.0,,594.0,67.0,Sunsoul Bulwark,,,Uncommon,120.0,14.0,,,,290.0,194.0,73.0
+1740.0,,,,,100.0,79.0,448.0,44.0,Notorious Aspirant's Shield Wall,,,Epic,120.0,14.0,,,,219.0,146.0,
+970.0,,,,,85.0,,213.0,,Warport Aegis,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,100.0,37.0,213.0,,Loa-Bound Defender,,,Rare,120.0,14.0,,,,104.0,69.0,29.0
+970.0,,,,,85.0,,213.0,,Rivermarsh Defender,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,37.0,,100.0,29.0,213.0,,Giant Yeti's Bowl,,,Rare,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,85.0,,213.0,,Loa-Blessed Warshield,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,85.0,,213.0,,Coldscale Shield,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,,,213.0,,8.0 PH - Shield,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+2124.0,Shaman,,73.0,,,,594.0,67.0,Streamtalker Shield,,,Uncommon,120.0,14.0,,,,290.0,194.0,
+970.0,,,,,85.0,,213.0,,Golden Fleet Buckler,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,,,213.0,,Gol Osigr Targe,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,85.0,,213.0,,Coralshell Barrier,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+970.0,,,,,85.0,,213.0,,Dockyard Targe,,,Uncommon,120.0,14.0,,,,104.0,69.0,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

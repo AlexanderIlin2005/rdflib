@@ -1,0 +1,703 @@
+classes,cooldown,critstrkrtng,frores,hastertng,int,mastrtng,name_enus,nsockets,quality,reqlevel,slotbak,socket1,speed,sta,versatility
+,,,,51.0,410.0,,Lei of the Lifegiver,,Epic,10.0,23.0,,,200.0,66.0
+,,,,,491.0,,Therazane's Touch,,Epic,10.0,23.0,,,200.0,
+,,,,74.0,410.0,,Tome of Fiery Arcana,,Epic,10.0,23.0,,,200.0,44.0
+,,46.0,,72.0,410.0,,Tome of the Ice Lord,,Epic,10.0,23.0,,,200.0,
+,,,,,8.0,,Unidentified Cooking Utensil,,Uncommon,,23.0,,2.0,4.0,
+,,54.0,,,410.0,,Tome of Arcane Domination,,Epic,10.0,23.0,,,200.0,64.0
+,,84.0,,,410.0,,Tome of Shadow Force,,Epic,10.0,23.0,,,200.0,34.0
+,,,,,6.0,,Spring Gadget,,Uncommon,,23.0,,,3.0,
+,,,,,5.0,,Kobold Candle,,Uncommon,,23.0,,,,
+,,,,,5.0,,Journeyman's Stave,,Uncommon,5.0,23.0,,,2.0,
+,,,,,6.0,,Flesh and Bone,,Uncommon,,23.0,,,,
+,,,,,5.0,,Ancestral Orb,,Uncommon,7.0,23.0,,,,
+,0.002777777777777778,,,,,,Egg Basket,,Uncommon,,23.0,,,,
+,,,,,10.0,,Grayson's Torch,,Uncommon,,23.0,,,5.0,3.0
+,,,,,5.0,,Disciple's Stein,,Uncommon,7.0,23.0,,,2.0,
+,,,,,8.0,,Carved Crystalline Orb,,Uncommon,,23.0,,2.0,4.0,
+Mage,0.25,,,,6.0,,Ley Orb,,Uncommon,,23.0,,,,2.0
+,,3.0,,,8.0,,Divining Crystal,,Uncommon,,23.0,,,4.0,
+,,,,,5.0,,Mori's Compass,,Uncommon,,23.0,,,2.0,
+,0.16666666666666666,,,,10.0,,Sunwell Orb,,Uncommon,,23.0,,,,
+,,,,,6.0,,Simple Branch,,Uncommon,10.0,23.0,,,3.0,
+,,,,,6.0,,Native Branch,,Uncommon,10.0,23.0,,2.0,3.0,
+,,,,,6.0,,Out-of-Date Manual,,Uncommon,,23.0,,,,
+,,,,,5.0,,Beaded Orb,,Uncommon,5.0,23.0,,2.0,2.0,
+,,,,,8.0,,Forsaken Ball,,Uncommon,,23.0,,,4.0,
+,,,,,6.0,,Glowing Murloc Eye,,Uncommon,,23.0,,2.0,3.0,
+,,2.0,,2.0,10.0,,Eerie Stable Lantern,,Rare,16.0,23.0,,,5.0,
+,,,,,11.0,,Consecrated Scepter,,Uncommon,,23.0,,,,
+,,,,,8.0,,Vial of Chloroform,,Uncommon,,23.0,,,,
+,,3.0,,,11.0,,Blossom of the Earthen Ring,,Uncommon,,23.0,,,6.0,
+,,,,,10.0,,Mystic Tome,,Rare,15.0,23.0,,,,
+,,,,,10.0,,Seer's Fine Stein,,Uncommon,16.0,23.0,,,,2.0
+,,,,,,,Bouquet of Scarlet Begonias,,Common,,23.0,,2.0,,
+,,3.0,,,11.0,,Tarren Orb,,Rare,,23.0,,,6.0,
+,,,,,10.0,,Pulsating Hydra Heart,,Rare,15.0,23.0,,,5.0,
+,,5.0,,,11.0,,Blossom of the Earthen Ring,,Uncommon,,23.0,,,6.0,
+,,3.0,,,10.0,,Daggerspine Ball,,Uncommon,,23.0,,,5.0,
+,,6.0,,,13.0,,Strategy Guide,,Uncommon,,23.0,,,6.0,
+,,,,,11.0,,Book of Survival,,Rare,20.0,23.0,,,6.0,
+,,,,,11.0,,Ritual Stein,,Uncommon,19.0,23.0,,2.0,6.0,
+,,,,,11.0,,Mystic's Sphere,,Uncommon,18.0,23.0,,,6.0,5.0
+,,,,,8.0,,Runic Cane,,Uncommon,12.0,23.0,,,4.0,
+,,,,,11.0,,Venomous Tome,,Uncommon,20.0,23.0,,,6.0,
+,,,,,10.0,,Antipodean Rod,,Rare,17.0,23.0,,1.6,,
+,,,,,11.0,,Tome of the Dawn,,Rare,20.0,23.0,,,6.0,
+,,,,,11.0,,Shimmering Stave,,Uncommon,20.0,23.0,,,6.0,
+,,,,,11.0,,Accountant's Lantern,,Uncommon,,23.0,,,6.0,
+,,,,,11.0,,Buccaneer's Orb,,Uncommon,18.0,23.0,,,6.0,
+,,,,,8.0,,Spellbinder Orb,,Uncommon,12.0,23.0,,,,
+,,,,,10.0,,Aboriginal Rod,,Uncommon,15.0,23.0,,2.0,5.0,
+,,,,,8.0,,Willow Branch,,Uncommon,14.0,23.0,,,4.0,
+,,,,,15.0,,Cursed Eye of Paleth,,Uncommon,26.0,23.0,,,,
+,,,,,15.0,,Orb of the Forgotten Seer,,Rare,26.0,23.0,,,,
+,,,,,13.0,,Orb of Mistmantle,,Rare,23.0,23.0,,1.6,6.0,5.0
+,,,,,,,Stitches' Femur,,Common,25.0,23.0,,2.0,,
+,,,,,13.0,,Sanguine Star,,Uncommon,23.0,23.0,,,6.0,5.0
+,,,,,13.0,,Greenweave Branch,,Uncommon,22.0,23.0,,,6.0,
+,,,,,16.0,,Rod of Molten Fire,,Rare,30.0,23.0,,,,
+,,,,,15.0,,Silver-Thread Rod,,Uncommon,26.0,23.0,,,7.0,7.0
+,0.16666666666666666,5.0,,5.0,16.0,,Tome of Kings,,Rare,30.0,23.0,,,8.0,
+,,,,,15.0,,Sage's Stave,,Uncommon,27.0,23.0,,,7.0,
+,,,,,13.0,,Fireproof Orb,,Uncommon,23.0,23.0,,,6.0,
+,,,,,11.0,,Orb of Power,,Uncommon,21.0,23.0,,,6.0,
+,,,,,11.0,,Pagan Rod,,Uncommon,21.0,23.0,,2.0,6.0,
+,,,,7.0,16.0,,Star of Stranglethorn,,Rare,,23.0,,,8.0,
+,,,,,16.0,,Elder's Amber Stave,,Uncommon,30.0,23.0,,2.0,8.0,
+,0.08333333333333333,,,,16.0,,Royal Guide of Escape Routes,,Rare,30.0,23.0,,,,
+,,3.0,,,15.0,,Satyr's Rod,,Uncommon,28.0,23.0,,,7.0,
+,,,,,15.0,,Raincaller Scepter,,Uncommon,26.0,23.0,,2.0,7.0,
+,,,,,15.0,,Strength of Will,,Uncommon,25.0,23.0,,,,4.0
+,,4.0,,,15.0,,Tranquility of Furien,,Rare,,23.0,,,7.0,
+,,,,,15.0,,Watcher's Star,,Uncommon,25.0,23.0,,2.0,7.0,
+,,,,,16.0,,Durable Rod,,Uncommon,29.0,23.0,,,8.0,
+,,,,,15.0,,Rageroar Trophy,,Uncommon,,23.0,,,7.0,
+,,,,,13.0,,Ivy Orb,,Uncommon,24.0,23.0,,,6.0,
+,,,,,13.0,,Bright Sphere,,Uncommon,22.0,23.0,,,,3.0
+,,,,,18.0,,Mok'Morokk's Grog Bottle,,Uncommon,,23.0,,,,
+,0.03333333333333333,8.0,,,21.0,,Fire Eater's Guide,,Rare,40.0,23.0,,,10.0,
+,,,,,19.0,,Umbral Crystal,,Rare,38.0,23.0,,,9.0,
+,,7.0,,,18.0,,Beacon of Hope,,Rare,35.0,23.0,,2.0,9.0,
+,,6.0,,,24.0,,Nilminer's Notes,,Uncommon,,23.0,,,12.0,
+,,6.0,,,21.0,,Mordresh's Lifeless Skull,,Rare,40.0,23.0,,,10.0,4.0
+,,,,,21.0,,Spellbound Tome,,Rare,40.0,23.0,,,10.0,7.0
+,,,,,19.0,,Geomancer's Rod,,Uncommon,36.0,23.0,,2.0,9.0,
+,,,,7.0,24.0,,Cracked Orb of Dominion,,Rare,,23.0,,,12.0,
+,,,,,18.0,,Swampchill Fetish,,Rare,33.0,23.0,,,,
+,,13.0,,,23.0,,Thermotastic Egg Timer,,Uncommon,,23.0,,,11.0,
+,,,,,21.0,,Regal Star,,Uncommon,40.0,23.0,,2.0,10.0,
+,,,,,19.0,,Flamecloth Stave,,Uncommon,37.0,23.0,,2.0,9.0,
+,,,,,19.0,,Aurora Sphere,,Uncommon,36.0,23.0,,2.0,,5.0
+,,,,2.0,18.0,,Cloud Stone,,Rare,34.0,23.0,,,9.0,6.0
+,,,,,18.0,,Conjurer's Sphere,,Uncommon,33.0,23.0,,2.0,9.0,
+,,,,,18.0,,Nightsky Orb,,Uncommon,32.0,23.0,,,9.0,4.0
+,,7.0,,,21.0,,Emerald Orb,,Uncommon,,23.0,,,10.0,
+,,,,,18.0,,Twilight Orb,,Uncommon,35.0,23.0,,2.0,9.0,
+,,,,7.0,24.0,,Cracked Orb of Dominion,,Rare,,23.0,,,12.0,
+,,4.0,,,21.0,,Dud Bomb,,Uncommon,,23.0,,,10.0,
+,,,,,18.0,,Stonecloth Branch,,Uncommon,34.0,23.0,,,9.0,
+,,,,,18.0,,Light-Imbued Lantern,,Uncommon,,23.0,,,9.0,5.0
+,,,,,18.0,,Book of the Adept,,Uncommon,,23.0,,,,
+,,,,6.0,23.0,,Orb of Kel'theril,,Uncommon,,23.0,,,11.0,
+,0.03333333333333333,6.0,,,21.0,,Book of Stars,,Rare,40.0,23.0,,,10.0,
+,,,,,21.0,,Silksand Star,,Uncommon,39.0,23.0,,2.0,10.0,6.0
+,,,,,19.0,,Sorcerer Sphere,,Uncommon,38.0,23.0,,2.0,9.0,
+,,6.0,,,21.0,,Oilfist Globe,,Uncommon,,23.0,,,10.0,
+,,4.0,,,21.0,,Dud Bomb,,Uncommon,,23.0,,,10.0,
+,,,,,18.0,,Vital Orb,,Uncommon,32.0,23.0,,2.0,9.0,
+,,,,,16.0,,Thistlefur Branch,,Uncommon,31.0,23.0,,2.0,8.0,
+,0.3333333333333333,,,,24.0,,Furbolg Medicine Pouch,,Uncommon,45.0,23.0,,,12.0,
+,,,,3.0,23.0,,Desertwalker Cane,,Rare,44.0,23.0,,,11.0,7.0
+,,,,5.0,21.0,,Book of the Dead,,Epic,42.0,23.0,,,10.0,4.0
+,,4.0,,6.0,24.0,,Drakestone,,Rare,50.0,23.0,,,12.0,
+,,,,,21.0,,Lord Sakrasis' Scepter,,Uncommon,42.0,23.0,,,,9.0
+,,,,6.0,24.0,,Enthralled Sphere,,Rare,47.0,23.0,,,12.0,5.0
+,,4.0,,,23.0,,Kreeg's Mug,,Rare,44.0,23.0,,,11.0,6.0
+,0.03333333333333333,8.0,,,24.0,,Stormbound Tome,,Rare,50.0,23.0,,,12.0,
+,,,,,23.0,,Bloodwoven Rod,,Uncommon,46.0,23.0,,2.0,11.0,
+,,,,4.0,23.0,,Brightly Glowing Stone,,Rare,44.0,23.0,,,11.0,6.0
+,,,,,23.0,,Royal Scepter,,Uncommon,43.0,23.0,,2.0,11.0,
+,0.08333333333333333,,,,24.0,,Manual of Clouds,,Rare,50.0,23.0,,,12.0,8.0
+,,7.0,,4.0,24.0,,Skull of Burning Shadows,,Rare,48.0,23.0,,,12.0,
+,,,,,24.0,,Abjurer's Crystal,,Uncommon,48.0,23.0,,,12.0,
+,,4.0,,,21.0,,Tome of Knowledge,,Rare,42.0,23.0,,,10.0,5.0
+,,,,,23.0,,Hibernal Sphere,,Uncommon,46.0,23.0,,2.0,,6.0
+,,5.0,5.0,,23.0,,Basilisk Bone,,Rare,46.0,23.0,,,5.0,5.0
+,,,,,21.0,,Mistscape Stave,,Uncommon,41.0,23.0,,,10.0,
+,,,,,24.0,,Duskwoven Branch,,Uncommon,50.0,23.0,,,12.0,
+,,,,,23.0,,Gossamer Rod,,Uncommon,45.0,23.0,,,11.0,
+,,13.0,,,23.0,,Windchaser Orb,,Uncommon,44.0,23.0,,,11.0,
+,,,,,21.0,,Darkmist Orb,,Uncommon,41.0,23.0,,2.0,10.0,
+,,,,,24.0,,Venomshroud Orb,,Uncommon,49.0,23.0,,2.0,12.0,7.0
+,,,,,24.0,,Gaea's Scepter,,Uncommon,47.0,23.0,,2.0,12.0,
+,,,,,21.0,,Lunar Sphere,,Uncommon,42.0,23.0,,2.0,10.0,
+,,,,13.0,29.0,,Musty Tome of the Lost,,Heirloom,1.0,23.0,,,14.0,
+,0.016666666666666666,,,,26.0,,Ancient Cornerstone Grimoire,,Epic,60.0,23.0,,,13.0,6.0
+,,,,,27.0,,Deep Core Lantern,,Uncommon,,23.0,,,13.0,
+,,7.0,,4.0,27.0,,Royal Scepter of Vek'lor,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Fire Runed Grimoire,,Epic,60.0,23.0,,,13.0,
+,,,,5.0,26.0,,Thaurissan's Royal Scepter,,Rare,51.0,23.0,,,13.0,7.0
+,0.16666666666666666,13.0,,,26.0,,Lapidis Tankard of Tidesippe,,Rare,54.0,23.0,,,13.0,
+,,,,,26.0,,Tome of Shadow Force,,Epic,60.0,23.0,,,13.0,
+,,,,7.0,26.0,,Magmus Stone,,Rare,51.0,23.0,,,13.0,4.0
+,,,,,27.0,,Dreamseeker Dandelion,,Uncommon,57.0,23.0,,,13.0,
+,,7.0,,4.0,27.0,,Sapphiron's Left Eye,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Lei of the Lifegiver,,Epic,60.0,23.0,,,,5.0
+,,,,,26.0,,Tome of Fiery Arcana,,Epic,60.0,23.0,,,,
+,,,,,26.0,,Therazane's Touch,,Epic,60.0,23.0,,,,
+,,,,,26.0,,Tome of the Ice Lord,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Glowing Black Orb,,Uncommon,55.0,23.0,,,13.0,
+,,,,5.0,26.0,,Jin'do's Bag of Whammies,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Master's Rod,,Uncommon,60.0,23.0,,,13.0,
+,,,,,26.0,,Highborne Star,,Uncommon,54.0,23.0,,,13.0,
+,,12.0,,,26.0,,Globe of D'sak,,Rare,55.0,23.0,,,13.0,
+,,8.0,,,26.0,,Tome of the Lost,,Rare,55.0,23.0,,,13.0,
+,,8.0,,,27.0,,Demoniac Soul Prison,,Uncommon,,23.0,,,13.0,
+,,,,,27.0,,Hellfire Tome,,Rare,60.0,23.0,,,,
+,,,,,26.0,,Elunarian Sphere,,Uncommon,59.0,23.0,,,13.0,
+,,,,,26.0,,Mystical Orb,,Uncommon,53.0,23.0,,,13.0,
+,,,,,34.0,,Hypergizmatic Energy Booster,,Uncommon,,23.0,,,17.0,
+,,,,,27.0,,Sapphiron's Right Eye,,Epic,60.0,23.0,,,13.0,5.0
+,,,,,27.0,,Master Dragonslayer's Orb,,Epic,60.0,23.0,,,13.0,
+,,,,,27.0,,Noth's Frigid Heart,,Epic,60.0,23.0,,,13.0,7.0
+,,,,,26.0,,Sartura's Might,,Epic,60.0,23.0,,,13.0,6.0
+,,,,,26.0,,Tome of Divine Right,,Rare,55.0,23.0,,,13.0,8.0
+,,,,,34.0,,Greatmother's Talisman of Cleansing,,Uncommon,,23.0,,,17.0,
+,0.08333333333333333,6.0,,9.0,27.0,,Book of Clever Tricks,,Rare,60.0,23.0,,,13.0,
+,,,,,26.0,,Tome of Arcane Domination,,Epic,60.0,23.0,,,,5.0
+,,8.0,,,26.0,,Talon of Furious Concentration,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Bonecaster's Star,,Uncommon,55.0,23.0,,2.0,13.0,
+,,,,,26.0,,High Warlord's Tome of Destruction,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Elegant Scepter,,Uncommon,57.0,23.0,,,13.0,
+,,,,,26.0,,Replica High Warlord's Tome of Destruction,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Opulent Scepter,,Uncommon,51.0,23.0,,2.0,13.0,
+,,14.0,,14.0,34.0,,Manual of the Tides,,Uncommon,,23.0,,,17.0,
+,,,,,27.0,,Supplicant's Rod,,Uncommon,60.0,23.0,,,13.0,
+,,,,,27.0,,Laughing Skull Orb,,Uncommon,59.0,23.0,,,13.0,
+,,,,,27.0,,Bleeding Eye,,Uncommon,58.0,23.0,,,13.0,
+,,5.0,,,27.0,,Gem of Nerubis,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Trance Stone,,Epic,60.0,23.0,,,13.0,4.0
+,,,,,26.0,,Grand Marshal's Tome of Power,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Arcane Star,,Uncommon,56.0,23.0,,,13.0,9.0
+,,,,,26.0,,Replica Grand Marshal's Tome of Restoration,,Epic,60.0,23.0,,,13.0,7.0
+,,,,,26.0,,Blackwood's Thigh,,Rare,57.0,23.0,,,13.0,
+,,,,,26.0,,High Warlord's Tome of Mending,,Epic,60.0,23.0,,,13.0,7.0
+,,,,,26.0,,Eternal Rod,,Uncommon,60.0,23.0,,2.0,13.0,
+,,,,16.0,34.0,,Tome of Alacrity,,Uncommon,,23.0,,,17.0,
+,,,,,27.0,,Digested Hand of Power,,Epic,60.0,23.0,,,13.0,13.0
+,,,,,26.0,,Replica Grand Marshal's Tome of Power,,Epic,60.0,23.0,,,13.0,
+,,,,,26.0,,Grand Marshal's Tome of Restoration,,Epic,60.0,23.0,,,13.0,7.0
+,,,,,26.0,,Astral Orb,,Uncommon,56.0,23.0,,2.0,13.0,
+,,,,,26.0,,Resplendent Orb,,Uncommon,58.0,23.0,,2.0,13.0,
+,,,,,26.0,,Replica High Warlord's Tome of Mending,,Epic,60.0,23.0,,,13.0,7.0
+,,10.0,,,26.0,,Arlokk's Hoodoo Stick,,Rare,60.0,23.0,,,13.0,
+,,,,,26.0,,High Councillor's Scepter,,Uncommon,59.0,23.0,,,13.0,
+,,,,,26.0,,Arachnidian Branch,,Uncommon,52.0,23.0,,2.0,13.0,
+,,,,,26.0,,Imperial Red Scepter,,Uncommon,51.0,23.0,,,13.0,
+,,,,,26.0,,Elemental Ember,,Uncommon,54.0,23.0,,,13.0,
+,,11.0,,6.0,26.0,,Scepter of Interminable Focus,,Rare,58.0,23.0,,,13.0,
+,,,,,26.0,,Councillor's Scepter,,Uncommon,54.0,23.0,,,13.0,
+,,8.0,,,32.0,,Talisman of Nightbane,,Epic,70.0,23.0,,,16.0,
+,,,,,32.0,,Tears of Heaven,,Epic,70.0,23.0,,,,8.0
+,,,,,32.0,,Talisman of Kalecgos,,Epic,70.0,23.0,,,16.0,
+,,,,,32.0,,Orb of the Soul-Eater,,Epic,70.0,23.0,,,16.0,
+,,,,,32.0,,Aran's Soothing Sapphire,,Epic,70.0,23.0,,,16.0,9.0
+,,,,,31.0,,Windcaller's Orb,,Epic,70.0,23.0,,,15.0,6.0
+,,10.0,,,32.0,,Jewel of Infinite Possibilities,,Epic,70.0,23.0,,,16.0,
+,,8.0,,,32.0,,Flametongue Seal,,Epic,70.0,23.0,,,16.0,
+,,7.0,,,32.0,,Star-Heart Lamp,,Rare,68.0,23.0,,,16.0,
+,,10.0,,,32.0,,Fathomstone,,Epic,70.0,23.0,,,16.0,
+,0.16666666666666666,10.0,,,37.0,,Rituals of the New Moon,,Rare,70.0,23.0,,,18.0,
+,,9.0,,6.0,34.0,,Chronicle of Dark Secrets,,Epic,70.0,23.0,,,17.0,
+,,,,,29.0,,Mistyreed Torch,,Uncommon,62.0,23.0,,,14.0,
+,,11.0,,,32.0,,Manual of the Nethermancer,,Rare,68.0,23.0,,,16.0,
+,,,,34.0,410.0,,Scepter of Purification,,Epic,70.0,23.0,,,200.0,84.0
+,,,,8.0,35.0,,Book of Highborne Hymns,,Epic,70.0,23.0,,,17.0,8.0
+,,7.0,,7.0,32.0,,Talisman of Kalecgos,,Rare,70.0,23.0,,,16.0,
+,,,,11.0,35.0,,Heart of the Pit,,Epic,70.0,23.0,,,17.0,
+,,7.0,,7.0,32.0,,Lamp of Peaceful Radiance,,Rare,70.0,23.0,,,16.0,
+,,,,,32.0,,Khadgar's Knapsack,,Epic,70.0,23.0,,,,
+,,,,,32.0,,The Saga of Terokk,,Rare,,23.0,,,16.0,
+,,,,,32.0,,Talisman of the Sun King,,Epic,70.0,23.0,,,16.0,7.0
+,,8.0,,,34.0,,Touch of Inspiration,,Epic,70.0,23.0,,,17.0,6.0
+,,6.0,,,32.0,,Sapphiron's Wing Bone,,Epic,70.0,23.0,,,16.0,
+,,,,,32.0,,Swamplight Lantern,,Rare,70.0,23.0,,,16.0,9.0
+,0.16666666666666666,10.0,,,37.0,,Rituals of the New Moon,,Rare,70.0,23.0,,,18.0,
+,,,,,31.0,,Book of Many Blessings,,Uncommon,,23.0,,,,13.0
+,0.16666666666666666,10.0,,,37.0,,Rituals of the New Moon,,Rare,70.0,23.0,,,18.0,
+,,,,,32.0,,Lamp of Peaceful Repose,,Rare,70.0,23.0,,,16.0,9.0
+,,,,,32.0,,Elementalist Star,,Uncommon,67.0,23.0,,,16.0,
+,,,,,32.0,,Voodoo Shaker,,Epic,70.0,23.0,,,16.0,10.0
+,,,,,32.0,,Netherwing Spiritualist's Charm,,Rare,,23.0,,,16.0,14.0
+,,,,,35.0,,Scepter of Purification,,Epic,70.0,23.0,,,17.0,9.0
+,,,,,34.0,,Suntouched Flowers,,Uncommon,,23.0,,,,16.0
+,,9.0,,,39.0,,Bonecaster's Endgame,,Rare,,23.0,,,19.0,
+,0.16666666666666666,10.0,,,37.0,,Rituals of the New Moon,,Rare,70.0,23.0,,,18.0,
+,,,,,34.0,,Tome of the Violet Tower,,Uncommon,,23.0,,,17.0,
+,,,,10.0,37.0,,Twilight Tome,,Rare,70.0,23.0,,,18.0,
+,,,,,34.0,,Medicine Stick,,Uncommon,,23.0,,,17.0,11.0
+,,,,,32.0,,Karaborian Talisman,,Epic,70.0,23.0,,,16.0,
+,,6.0,,,32.0,,Imbued Draenethyst Crystal,,Uncommon,,23.0,,,16.0,
+,0.16666666666666666,10.0,,,37.0,,Rituals of the New Moon,,Rare,70.0,23.0,,,18.0,
+,,,,,32.0,,Hortus' Seal of Brilliance,,Rare,70.0,23.0,,,16.0,
+,,9.0,,,32.0,,Netherwing Sorceror's Charm,,Rare,,23.0,,,16.0,9.0
+,,,,,31.0,,Crystal Orb of Enlightenment,,Epic,70.0,23.0,,,15.0,
+,,,,7.0,32.0,,Fetish of the Primal Gods,,Epic,70.0,23.0,,,16.0,
+,,,,,32.0,,Signet of Unshakable Faith,,Epic,70.0,23.0,,,16.0,10.0
+,,,,,39.0,,Lantern of Enchanted Flame,,Uncommon,,23.0,,,19.0,
+,,,,,32.0,,Merciless Gladiator's Endgame,,Epic,70.0,23.0,,,16.0,10.0
+,,,,,32.0,,Lordaeron Medical Guide,,Rare,70.0,23.0,,,16.0,9.0
+,,,,,32.0,,Gladiator's Endgame,,Epic,70.0,23.0,,,16.0,7.0
+,,,,,29.0,,Slavehandler Rod,,Uncommon,61.0,23.0,,,14.0,
+,,,,,37.0,,Brutal Gladiator's Grimoire,,Epic,70.0,23.0,,,18.0,16.0
+,,,,,37.0,,Brutal Gladiator's Reprieve,,Epic,70.0,23.0,,,18.0,10.0
+,,,,,34.0,,Life Binder Talisman,,Uncommon,,23.0,,,17.0,
+,,,,,32.0,,Faol's Signet of Cleansing,,Rare,70.0,23.0,,,,10.0
+,,7.0,,,32.0,,Karrog's Shard,,Rare,70.0,23.0,,,16.0,
+,,,,,32.0,,Merciless Gladiator's Reprieve,,Epic,70.0,23.0,,,16.0,10.0
+,,,,,32.0,,Icy Orb,,Uncommon,67.0,23.0,,,16.0,
+,,,,,32.0,,Archmage Orb,,Uncommon,66.0,23.0,,,16.0,
+,,,,,31.0,,Eldr'naan Scepter,,Uncommon,65.0,23.0,,,15.0,
+,,,,,31.0,,Shadow Council Orb,,Uncommon,64.0,23.0,,,15.0,
+,,,,,37.0,,Brutal Gladiator's Endgame,,Epic,70.0,23.0,,,18.0,10.0
+,,11.0,,,35.0,,Glowing Voodoo Orb,,Uncommon,,23.0,,,17.0,
+,,,,,34.0,,Vengeful Gladiator's Reprieve,,Epic,70.0,23.0,,,17.0,10.0
+,,9.0,,,34.0,,Blind-Seers Icon,,Epic,70.0,23.0,,,17.0,
+,,,,,34.0,,Demon-Skull Orb,,Uncommon,69.0,23.0,,,17.0,
+,,,,,32.0,,High Warlord's Battletome,,Rare,70.0,23.0,,,16.0,7.0
+,,,,,32.0,,Grand Marshal's Battletome,,Rare,70.0,23.0,,,16.0,7.0
+,,,,,32.0,,Tuurik Torch,,Uncommon,69.0,23.0,,,16.0,
+,,,,,32.0,,Draenei Crystal Rod,,Uncommon,70.0,23.0,,,16.0,
+,,,,,39.0,,The Witching Grimoire,,Rare,,23.0,,,19.0,15.0
+,,,,,37.0,,Vile Tome of Tenets,,Uncommon,,23.0,,,18.0,7.0
+,,,,10.0,35.0,,Branch of Insightful Dreams,,Uncommon,,23.0,,,17.0,
+,,,,,34.0,,Vengeful Gladiator's Endgame,,Epic,70.0,23.0,,,17.0,10.0
+,,,,13.0,34.0,,Vengeful Gladiator's Grimoire,,Epic,70.0,23.0,,,17.0,8.0
+,,,,,34.0,,Touch of Inspiration,,Epic,70.0,23.0,,,17.0,11.0
+,,,,,32.0,,Northern Star,,Uncommon,68.0,23.0,,,16.0,
+,,,,,32.0,,Astralaan Orb,,Uncommon,68.0,23.0,,,16.0,
+,,,,,,,Manaforged Sphere,,Rare,70.0,23.0,,,16.0,
+,,,,,29.0,,Unearthed Orb,,Uncommon,,23.0,,,14.0,8.0
+,,,,,35.0,,Scepter of Passionate Reprisal,,Uncommon,,23.0,,,17.0,10.0
+,,7.0,,8.0,34.0,,Blind-Seers Icon,,Epic,70.0,23.0,,,17.0,
+,,,,,34.0,,Coldarra Crystal,,Uncommon,70.0,23.0,,,17.0,
+,,,,,32.0,,Gladiator's Reprieve,,Epic,70.0,23.0,,,16.0,7.0
+,,,,,29.0,,Consortium Crystal,,Uncommon,63.0,23.0,,,14.0,
+,,,,8.0,29.0,,Mekeda's Gift,,Uncommon,,23.0,,,14.0,
+,,10.0,,10.0,40.0,,Shriveled Heart,,Epic,80.0,23.0,,,20.0,
+,,9.0,,9.0,40.0,,Shadow Silk Spindle,,Epic,80.0,23.0,,,20.0,
+,,8.0,,9.0,40.0,,Cosmos,,Epic,80.0,23.0,,,20.0,
+,,9.0,,9.0,40.0,,Shadow Silk Spindle,,Epic,80.0,23.0,,,20.0,
+,,,,,40.0,,Prison Manifest,,Rare,80.0,23.0,,,20.0,10.0
+,,7.0,,10.0,40.0,,Ward of the Violet Citadel,,Epic,80.0,23.0,,,20.0,
+,0.25,,,,40.0,,Antique Cornerstone Grimoire,,Epic,80.0,23.0,,,11.0,5.0
+,,,,8.0,40.0,,Ironmender,,Epic,80.0,23.0,,,20.0,9.0
+,,11.0,,,40.0,,Faces of Doom,,Epic,77.0,23.0,,2.0,20.0,11.0
+,,10.0,,,40.0,,Urn of Lost Memories,,Epic,80.0,23.0,,,20.0,10.0
+,,,,,37.0,,Tome of the Lore Keepers,,Rare,71.0,23.0,,,18.0,9.0
+,,,,9.0,40.0,,Sundial of Eternal Dusk,,Epic,80.0,23.0,,,20.0,9.0
+,,9.0,,9.0,40.0,,Leviathan Fueling Manual,,Epic,80.0,23.0,,,20.0,
+,,,,9.0,40.0,,Sundial of Eternal Dusk,,Epic,80.0,23.0,,,20.0,9.0
+,,7.0,,10.0,40.0,,Surplus Limb,,Epic,80.0,23.0,,,20.0,
+,,,,13.0,40.0,,Temple Crystal Fragment,,Rare,80.0,23.0,,,20.0,
+,,,,7.0,40.0,,Handbook of Obscure Remedies,,Epic,80.0,23.0,,,20.0,10.0
+,,7.0,,8.0,40.0,,Chalice of Benedictus,1.0,Epic,80.0,23.0,Prismatic socket,,18.0,
+,0.25,,,,40.0,,Antediluvian Cornerstone Grimoire,,Epic,80.0,23.0,,,11.0,5.0
+,,9.0,,9.0,40.0,,Symbol of Transgression,,Epic,80.0,23.0,,,20.0,
+,,,,12.0,37.0,,Darkspear Orb,,Rare,78.0,23.0,,,18.0,
+,,12.0,,,40.0,,Telestra's Journal,,Rare,80.0,23.0,,,20.0,
+,,9.0,,9.0,40.0,,Talisman of Heedless Sins,,Epic,80.0,23.0,,,20.0,
+,,9.0,,7.0,40.0,,Watchful Eye,,Epic,80.0,23.0,,,20.0,
+,,7.0,,8.0,40.0,,Lightbane Focus,1.0,Epic,80.0,23.0,Prismatic socket,,18.0,
+,,9.0,,,40.0,,Iron-Bound Tome,,Epic,77.0,23.0,,2.0,20.0,4.0
+,,8.0,,9.0,40.0,,Scourgelord's Baton,,Epic,80.0,23.0,,,20.0,
+,,,,9.0,40.0,,Wrathful Gladiator's Compendium,,Epic,80.0,23.0,,,20.0,9.0
+,,10.0,,,40.0,,Scepter of Murmuring Spirits,,Epic,80.0,23.0,,,20.0,8.0
+,,10.0,,,40.0,,Igniter Rod,,Epic,80.0,23.0,,,20.0,8.0
+,,,,7.0,40.0,,Matriarch's Spawn,,Epic,80.0,23.0,,,20.0,10.0
+,,,,,40.0,,Frostbridge Orb,,Rare,80.0,23.0,,,20.0,13.0
+,,,,,35.0,,Evergreen Branch,,Uncommon,73.0,23.0,,,17.0,
+,,9.0,,,40.0,,Chalice of Searing Light,,Epic,80.0,23.0,,,20.0,9.0
+,,10.0,,,40.0,,Accursed Spine,,Epic,80.0,23.0,,,20.0,7.0
+,,,,,40.0,,Moonbrook Crystal,,Uncommon,77.0,23.0,,,20.0,
+,,,,,40.0,,Carved Rod,,Uncommon,80.0,23.0,,,20.0,
+,,9.0,,9.0,40.0,,Symbol of Transgression,,Epic,80.0,23.0,,,20.0,
+,,,,9.0,40.0,,Relentless Gladiator's Compendium,,Epic,80.0,23.0,,,20.0,9.0
+,,5.0,,9.0,40.0,,Scourgelord's Baton,1.0,Epic,80.0,23.0,Prismatic socket,,20.0,
+,,,,,35.0,,Darkened Scepter,,Uncommon,72.0,23.0,,,17.0,
+,,,,,40.0,,Ice Crystal,,Uncommon,79.0,23.0,,,20.0,
+,,9.0,,,40.0,,Mystifying Charm,,Epic,80.0,23.0,,,20.0,9.0
+,,,,12.0,37.0,,Orb of the Eastern Kingdoms,,Rare,78.0,23.0,,,18.0,
+,,,,13.0,40.0,,Claw of Corroded Hope,,Uncommon,,23.0,,,20.0,
+,,9.0,,,40.0,,Mystifying Charm,,Epic,80.0,23.0,,,20.0,9.0
+,,7.0,,8.0,40.0,,Chalice of Benedictus,1.0,Epic,80.0,23.0,Prismatic socket,,18.0,
+,,11.0,,7.0,40.0,,Igniter Rod,,Epic,80.0,23.0,,,20.0,
+,,,,9.0,40.0,8.0,Bottled Neurons,,Rare,,23.0,,,20.0,
+,,9.0,,9.0,40.0,,Talisman of Heedless Sins,,Epic,80.0,23.0,,,20.0,
+,,13.0,,,40.0,,Tome of Salramm,,Rare,78.0,23.0,,,20.0,7.0
+,,7.0,,8.0,40.0,,Lightbane Focus,1.0,Epic,80.0,23.0,Prismatic socket,,18.0,
+,,,,11.0,40.0,,Hateful Gladiator's Grimoire,,Epic,80.0,23.0,,,20.0,9.0
+,,9.0,,,40.0,,Chalice of Searing Light,,Epic,80.0,23.0,,,20.0,9.0
+,,,,,39.0,,Lidless Orb,,Uncommon,77.0,23.0,,,19.0,
+,,,,,39.0,,Talisman of Scourge Command,,Rare,73.0,23.0,,,19.0,12.0
+,,,,6.0,34.0,,Branch of Sinful Reprieve,,Rare,73.0,23.0,,,17.0,
+,,8.0,,10.0,42.0,,Beauty's Favorite Bone,,Rare,78.0,23.0,,,21.0,
+,,,,,40.0,,Mirkfallon Crystal,,Uncommon,80.0,23.0,,,20.0,
+,,,,,40.0,,Sishir Crystal,,Uncommon,79.0,23.0,,,20.0,
+,,9.0,,,40.0,,Furious Gladiator's Endgame,,Epic,80.0,23.0,,,20.0,9.0
+,,9.0,,,40.0,,Relentless Gladiator's Endgame,,Epic,80.0,23.0,,,20.0,9.0
+,,,,13.0,40.0,,Seal of Valgarde,,Rare,78.0,23.0,,,20.0,
+,,,,,40.0,,Wrathful Gladiator's Grimoire,,Epic,80.0,23.0,,,20.0,18.0
+,,,,12.0,40.0,,Leviathan Fueling Manual,,Epic,80.0,23.0,,,20.0,6.0
+,,8.0,,9.0,40.0,,Ironmender,,Epic,80.0,23.0,,,20.0,
+,,,,,40.0,,Hateful Gladiator's Reprieve,,Epic,80.0,23.0,,,20.0,18.0
+,,,,,40.0,,Deadly Gladiator's Reprieve,,Epic,80.0,23.0,,,20.0,18.0
+,,9.0,,,40.0,,Wrathful Gladiator's Endgame,,Epic,80.0,23.0,,,20.0,9.0
+,,,,,40.0,,Wrathful Gladiator's Reprieve,,Epic,80.0,23.0,,,20.0,18.0
+,,,,11.0,40.0,,Furious Gladiator's Grimoire,,Epic,80.0,23.0,,,20.0,9.0
+,,9.0,,,40.0,,Hateful Gladiator's Endgame,,Epic,80.0,23.0,,,20.0,9.0
+,,,,,39.0,,Gilded Scepter,,Uncommon,78.0,23.0,,,19.0,
+,,,,,37.0,,Glistening Star,,Uncommon,76.0,23.0,,,18.0,
+,,,,,37.0,,Reflecting Sphere,,Uncommon,75.0,23.0,,,18.0,
+,,8.0,,,42.0,,Bioluminescent Lamp,,Rare,78.0,23.0,,,21.0,10.0
+,,,,,40.0,,Swamplight Crystal,,Uncommon,78.0,23.0,,,20.0,
+,,9.0,,,40.0,,Deadly Gladiator's Endgame,,Epic,80.0,23.0,,,20.0,9.0
+,,,,,40.0,,Furious Gladiator's Reprieve,,Epic,80.0,23.0,,,20.0,18.0
+,,,,,40.0,,Relentless Gladiator's Reprieve,,Epic,80.0,23.0,,,20.0,18.0
+,,,,11.0,40.0,,Deadly Gladiator's Grimoire,,Epic,80.0,23.0,,,20.0,9.0
+,,,,11.0,40.0,,Relentless Gladiator's Grimoire,,Epic,80.0,23.0,,,20.0,9.0
+,,,,,37.0,,Facetted Orb,,Uncommon,74.0,23.0,,,18.0,
+,,,,,34.0,,Polished Orb,,Uncommon,71.0,23.0,,,17.0,
+,,,,,44.0,9.0,Heartbound Tome,,Epic,85.0,23.0,,,21.0,10.0
+,,8.0,,,44.0,,Bone-Inlaid Sarcophagus Key,,Rare,85.0,23.0,,,21.0,10.0
+,,,,10.0,47.0,10.0,Umbrella of Chi-Ji,,Rare,85.0,23.0,,,23.0,
+,,,,9.0,44.0,10.0,Book of Origination,,Rare,83.0,23.0,,,21.0,
+,,11.0,,,47.0,9.0,Scroll of Whispered Secrets,,Epic,90.0,23.0,,,23.0,
+,,,,14.0,44.0,,Musty Tome of the Lost,,Heirloom,1.0,23.0,,,21.0,
+,,,,8.0,44.0,,Divine Companion,,Rare,85.0,23.0,,,21.0,10.0
+,,10.0,,,47.0,10.0,Inscribed Red Fan,,Epic,90.0,23.0,,,23.0,
+,,,,7.0,44.0,8.0,Dragonfire Orb,1.0,Epic,85.0,23.0,Prismatic socket,,21.0,
+,,9.0,,,44.0,9.0,Globe of Moonlight,,Epic,85.0,23.0,,,21.0,
+,,,,10.0,47.0,10.0,Bottle of Potent Potables,,Rare,90.0,23.0,,,23.0,
+,,9.0,,9.0,44.0,,Hermit's Lamp,,Rare,85.0,23.0,,,21.0,
+,,7.0,,10.0,42.0,,Petrified Camel Haunch,,Rare,83.0,23.0,,,21.0,
+,,,,,44.0,9.0,Scepter of Ice,,Epic,85.0,23.0,,,21.0,9.0
+,,11.0,,11.0,48.0,,Void-Boiled Squirrel,,Rare,90.0,23.0,,,24.0,
+,,10.0,,8.0,44.0,,Orb of the First Satyrs,,Epic,85.0,23.0,,,21.0,
+,,10.0,,,44.0,9.0,Dungeoneering Guide,,Rare,85.0,23.0,,,21.0,
+,,10.0,,,44.0,,Lost Bag of Whammies,,Epic,85.0,23.0,,,21.0,9.0
+,,,,,44.0,10.0,Demonic Skull,,Epic,85.0,23.0,,,21.0,8.0
+,,9.0,,8.0,52.0,,Juggernaut's Power Core,1.0,Epic,90.0,23.0,Prismatic socket,,25.0,
+,,,,11.0,47.0,9.0,Fan of Fiery Winds,,Epic,90.0,23.0,,,23.0,
+,,,,,44.0,9.0,Battle Tome,,Rare,85.0,23.0,,,21.0,9.0
+,,,,6.0,47.0,9.0,Orb of Arcing Lightning,1.0,Epic,90.0,23.0,Prismatic socket,,23.0,
+,,,,11.0,47.0,9.0,Fan of Fiery Winds,,Epic,90.0,23.0,,,23.0,
+,,10.0,,10.0,47.0,,Wakener's Light,,Uncommon,,23.0,,,23.0,
+,,,,7.0,44.0,,Ledger of Revolting Rituals,1.0,Epic,85.0,23.0,Prismatic socket,,21.0,8.0
+,,8.0,,10.0,52.0,,Festering Primordial Globule,1.0,Epic,90.0,23.0,Prismatic socket,,25.0,
+,,,,8.0,45.0,,Ledger of Revolting Rituals,1.0,Epic,85.0,23.0,Prismatic socket,,22.0,8.0
+,,9.0,,9.0,44.0,,Book of Binding Will,,Epic,85.0,23.0,,,21.0,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Endgame,,Epic,90.0,23.0,,,24.0,
+,,12.0,,8.0,47.0,,Tornado-Summoning Censer,,Epic,90.0,23.0,,,23.0,
+,,,,9.0,52.0,9.0,Revelations of Y'Shaarj,1.0,Epic,90.0,23.0,Prismatic socket,,25.0,
+,,,,6.0,48.0,10.0,Orb of Arcing Lightning,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,9.0,,7.0,48.0,,Lei Shen's Orb of Command,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,9.0,,,44.0,,Vicious Gladiator's Endgame,,Epic,85.0,23.0,,,21.0,9.0
+,,,,10.0,44.0,,Goblet of Anger,,Epic,85.0,23.0,,,21.0,9.0
+,,10.0,,9.0,44.0,,Molten Scream,,Epic,85.0,23.0,,,21.0,
+,,12.0,,8.0,48.0,,Tornado-Summoning Censer,,Epic,90.0,23.0,,,24.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,10.0,,10.0,47.0,,Bone-Inlaid Fan,,Rare,83.0,23.0,,,23.0,
+,,,,9.0,45.0,10.0,Inscribed Fan,,Rare,86.0,23.0,,,22.0,
+,,,,9.0,44.0,,Apple-Bent Bough,,Rare,85.0,23.0,,,21.0,9.0
+,,,,,44.0,,Vicious Gladiator's Reprieve,,Epic,85.0,23.0,,,21.0,18.0
+,,,,,42.0,10.0,Prophet's Scepter,,Rare,81.0,23.0,,,21.0,8.0
+,,11.0,,,52.0,11.0,Prideful Gladiator's Endgame,,Epic,90.0,23.0,,,25.0,
+,,,,9.0,50.0,9.0,Revelations of Y'Shaarj,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,9.0,,,48.0,,Karabor Arcanist Tome,,Uncommon,,23.0,,,24.0,11.0
+,,10.0,,,47.0,10.0,Inscribed Jade Fan,,Epic,90.0,23.0,,,23.0,
+,,12.0,,8.0,47.0,,Tornado-Summoning Censer,,Epic,90.0,23.0,,,23.0,
+,,,,,45.0,10.0,Shomi's Fan,,Uncommon,,23.0,,,22.0,10.0
+,,10.0,,8.0,42.0,,Book of Blood,,Rare,81.0,23.0,,,21.0,
+,,,,7.0,50.0,10.0,Orb of Arcing Lightning,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,7.0,50.0,10.0,Purehearted Cricket Cage,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Reprieve,,Epic,90.0,23.0,,,24.0,
+,,,,9.0,48.0,,Frostwolf Wind-Talker Rod,,Uncommon,,23.0,,,24.0,11.0
+,,,,,47.0,,Coldsinger Crystal,,Uncommon,90.0,23.0,,,23.0,
+,,,,10.0,47.0,10.0,Record of Mysterious Deeds,,Rare,85.0,23.0,,,23.0,
+,,10.0,,10.0,45.0,,Mayor's Hand Fan,,Uncommon,,23.0,,,22.0,
+,,10.0,,,45.0,,Cataclysmic Gladiator's Endgame,,Epic,85.0,23.0,,,22.0,10.0
+,,,,10.0,44.0,,Goblet of Anger,,Epic,85.0,23.0,,,21.0,9.0
+,,10.0,,9.0,44.0,,Molten Scream,,Epic,85.0,23.0,,,21.0,
+,,,,7.0,44.0,,Ledger of Revolting Rituals,1.0,Epic,85.0,23.0,Prismatic socket,,21.0,8.0
+,,62.0,,56.0,410.0,,Molten Scream,,Epic,85.0,23.0,,,200.0,
+,,,,64.0,410.0,,Goblet of Anger,,Epic,85.0,23.0,,,200.0,54.0
+,,10.0,,8.0,53.0,,Juggernaut's Power Core,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,10.0,,8.0,53.0,,Juggernaut's Power Core,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,10.0,,8.0,53.0,,Juggernaut's Power Core,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,,,7.0,53.0,11.0,Purehearted Cricket Cage,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,,,,,,Prideful Gladiator's Endgame,,Epic,90.0,23.0,,,,
+,,7.0,,10.0,50.0,,Festering Primordial Globule,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,7.0,50.0,10.0,Purehearted Cricket Cage,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,9.0,,7.0,50.0,,Juggernaut's Power Core,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,8.0,,9.0,48.0,,Fetish of the Hydra,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,,,,Grievous Gladiator's Reprieve,,Epic,90.0,23.0,,,,
+,,,,10.0,47.0,10.0,Chronicle of a Hundred Wars,,Uncommon,,23.0,,,23.0,
+,,,,,45.0,,Immaculate Crystal,,Uncommon,88.0,23.0,,,22.0,
+,,,,,45.0,,Cataclysmic Gladiator's Reprieve,,Epic,85.0,23.0,,,22.0,20.0
+,,9.0,,9.0,44.0,,Lantern of Hope,,Uncommon,,23.0,,,21.0,
+,,,,9.0,44.0,9.0,Air Raid Beacon,,Rare,,23.0,,,21.0,
+,,,,9.0,44.0,9.0,Skyflight Beacon,,Rare,,23.0,,,21.0,
+,,8.0,,10.0,44.0,,Beauty's Favorite Bone,,Rare,85.0,23.0,,,21.0,
+,,,,,42.0,,Sorrowmurk Crystal,,Uncommon,85.0,23.0,,,21.0,
+,,,,,42.0,8.0,Lord Rottington's Pressed Wisp Book,,Rare,81.0,23.0,,,21.0,10.0
+,,,,,42.0,,Blackwolf Crystal,,Uncommon,84.0,23.0,,,21.0,
+,,,,9.0,53.0,10.0,Revelations of Y'Shaarj,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,,,9.0,53.0,10.0,Revelations of Y'Shaarj,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,11.0,,,52.0,11.0,Prideful Gladiator's Endgame,,Epic,90.0,23.0,,,25.0,
+,,11.0,,,52.0,11.0,Prideful Gladiator's Reprieve,,Epic,90.0,23.0,,,25.0,
+,,,,9.0,50.0,9.0,Revelations of Y'Shaarj,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,7.0,50.0,10.0,Orb of Arcing Lightning,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,7.0,,10.0,50.0,,Festering Primordial Globule,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,,,,Grievous Gladiator's Endgame,,Epic,90.0,23.0,,,,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Endgame,,Epic,90.0,23.0,,,24.0,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Reprieve,,Epic,90.0,23.0,,,24.0,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Reprieve,,Epic,90.0,23.0,,,24.0,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Endgame,,Epic,90.0,23.0,,,24.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,,,11.0,47.0,9.0,Fan of Fiery Winds,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,9.0,Malevolent Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,9.0,Malevolent Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,,,10.0,45.0,10.0,Bureaucrat's Handbook,,Uncommon,,23.0,,,22.0,
+,,,,,45.0,,Bejeweled Crystal,,Uncommon,87.0,23.0,,,22.0,
+,,,,9.0,44.0,9.0,Safari Lantern,,Uncommon,,23.0,,,21.0,
+,,,,,44.0,,Shamanic Crystal,,Uncommon,85.0,23.0,,,21.0,
+,,,,,44.0,,Cataclysmic Gladiator's Reprieve,,Epic,85.0,23.0,,,21.0,18.0
+,,9.0,,,44.0,,Cataclysmic Gladiator's Endgame,,Epic,85.0,23.0,,,21.0,9.0
+,,9.0,,,44.0,,Vicious Gladiator's Endgame,,Epic,85.0,23.0,,,21.0,9.0
+,,,,,44.0,9.0,Scepter of Ice,,Epic,85.0,23.0,,,21.0,9.0
+,,,,,44.0,,Intricate Crystal,,Uncommon,83.0,23.0,,,21.0,
+,,9.0,,,44.0,,Ruthless Gladiator's Endgame,,Epic,85.0,23.0,,,21.0,9.0
+,,,,,44.0,,Gemmed Crystal,,Uncommon,84.0,23.0,,,21.0,
+,,8.0,,,44.0,,Bioluminescent Lamp,,Rare,85.0,23.0,,,21.0,10.0
+,,10.0,,7.0,42.0,,Shining Scorpid Eye,,Uncommon,,23.0,,,21.0,
+,,,,,42.0,,Thondroril Crystal,,Uncommon,83.0,23.0,,,21.0,
+,,8.0,,11.0,53.0,,Festering Primordial Globule,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,,,7.0,52.0,11.0,Purehearted Cricket Cage,1.0,Epic,90.0,23.0,Prismatic socket,,25.0,
+,,11.0,,,52.0,11.0,Prideful Gladiator's Reprieve,,Epic,90.0,23.0,,,25.0,
+,,9.0,,7.0,50.0,,Juggernaut's Power Core,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,10.0,,7.0,50.0,,Lei Shen's Orb of Command,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,10.0,,7.0,50.0,,Lei Shen's Orb of Command,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,9.0,,7.0,50.0,,Juggernaut's Power Core,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,7.0,,10.0,50.0,,Festering Primordial Globule,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,8.0,,9.0,50.0,,Fetish of the Hydra,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Endgame,,Epic,90.0,23.0,,,24.0,
+,,11.0,,,48.0,11.0,Grievous Gladiator's Reprieve,,Epic,90.0,23.0,,,24.0,
+,,,,,48.0,,Immaculate Pandaren Cane,,Epic,90.0,23.0,,1.7000000000000002,24.0,
+,,,,,48.0,,Immaculate Pandaren Rod,,Epic,90.0,23.0,,1.7000000000000002,24.0,
+,,,,,48.0,11.0,Smoldering Lavacore Orb,,Rare,90.0,23.0,,,24.0,9.0
+,,7.0,,9.0,47.0,,Fetish of the Hydra,1.0,Epic,90.0,23.0,Prismatic socket,,23.0,
+,,9.0,,7.0,47.0,,Lei Shen's Orb of Command,1.0,Epic,90.0,23.0,Prismatic socket,,23.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,8.0,Malevolent Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,8.0,Malevolent Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,8.0,Malevolent Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,8.0,Malevolent Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Reprieve,,Epic,90.0,23.0,,,23.0,
+,,10.0,,,47.0,10.0,Tyrannical Gladiator's Endgame,,Epic,90.0,23.0,,,23.0,
+,,,,10.0,47.0,10.0,Bottle of Potent Potables,,Rare,90.0,23.0,,,23.0,
+,,10.0,,,45.0,10.0,Shomi's Crane,,Uncommon,,23.0,,,22.0,
+,,,,9.0,44.0,,Red Crane Scepter,,Uncommon,,23.0,,,21.0,9.0
+,,9.0,,,44.0,9.0,Safari Journal,,Uncommon,,23.0,,,21.0,
+,,,,,44.0,,Ruthless Gladiator's Reprieve,,Epic,85.0,23.0,,,21.0,18.0
+,,9.0,,,44.0,,Ruthless Gladiator's Endgame,,Epic,85.0,23.0,,,21.0,9.0
+,,8.0,,11.0,44.0,,Bioluminescent Lamp,,Rare,85.0,23.0,,,21.0,
+,,,,,44.0,,Vicious Gladiator's Reprieve,,Epic,85.0,23.0,,,21.0,18.0
+,,,,,44.0,10.0,Prophet's Scepter,,Rare,85.0,23.0,,,21.0,8.0
+,,,,,42.0,,Nethander Crystal,,Uncommon,81.0,23.0,,,21.0,
+,,,,,42.0,,Mereldar Crystal,,Uncommon,82.0,23.0,,,21.0,
+,,,,7.0,53.0,11.0,Purehearted Cricket Cage,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,8.0,,11.0,53.0,,Festering Primordial Globule,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,,,9.0,53.0,10.0,Revelations of Y'Shaarj,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,,,7.0,53.0,11.0,Purehearted Cricket Cage,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,8.0,,11.0,53.0,,Festering Primordial Globule,1.0,Epic,90.0,23.0,Prismatic socket,,26.0,
+,,,,,,,Prideful Gladiator's Reprieve,,Epic,90.0,23.0,,,,
+,,,,7.0,50.0,10.0,Purehearted Cricket Cage,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,8.0,,9.0,50.0,,Fetish of the Hydra,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,7.0,50.0,10.0,Orb of Arcing Lightning,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,8.0,,9.0,50.0,,Fetish of the Hydra,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,9.0,50.0,9.0,Revelations of Y'Shaarj,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,10.0,,7.0,50.0,,Lei Shen's Orb of Command,1.0,Epic,90.0,23.0,Prismatic socket,,24.0,
+,,,,10.0,45.0,9.0,Bottle of Potent Potables,,Rare,85.0,23.0,,,22.0,
+,,,,,45.0,,Grummle Crystal,,Uncommon,86.0,23.0,,,22.0,
+,,9.0,,9.0,44.0,,Book of Binding Will,,Epic,85.0,23.0,,,21.0,
+,,,,,44.0,,Ruthless Gladiator's Reprieve,,Epic,85.0,23.0,,,21.0,18.0
+,,,,9.0,44.0,10.0,Prophet's Scepter,,Rare,85.0,23.0,,,21.0,
+,,10.0,,8.0,42.0,,Broken Emergency Brake,,Uncommon,,23.0,,,21.0,
+,,,,,56.0,,Shadowtome,,Rare,91.0,23.0,,,28.0,
+,,,,12.0,56.0,,Erorus' Ledger of Trade,,Epic,100.0,23.0,,,28.0,12.0
+,,12.0,,,56.0,12.0,Wild Combatant's Endgame,,Rare,100.0,23.0,,,28.0,
+,,,,,,,Tesseract Timepiece,,Epic,100.0,23.0,,,,
+,,8.0,,,58.0,17.0,Gibbering Madness,,Epic,100.0,23.0,,,28.0,
+,,13.0,,11.0,60.0,,Hellscream's Tome of Destruction,,Heirloom,90.0,23.0,,,29.0,
+,,13.0,,,56.0,11.0,Tor'goroth's Soul Prism,,Rare,100.0,23.0,,,28.0,
+,,,,,,,Wild Gladiator's Endgame,,Epic,100.0,23.0,,,,
+,,12.0,,12.0,56.0,,Primal Combatant's Reprieve,,Rare,100.0,23.0,,,28.0,
+,,13.0,,11.0,56.0,,Bileslinger's Censer,,Epic,100.0,23.0,,,28.0,
+,,,,8.0,60.0,18.0,Thumping Demonheart Fetish,,Epic,100.0,23.0,,,29.0,
+,,12.0,,,56.0,12.0,Primal Combatant's Endgame,,Rare,100.0,23.0,,,28.0,
+,,13.0,,11.0,60.0,,Hellscream's Tome of Destruction,,Heirloom,90.0,23.0,,,29.0,
+,,,,12.0,53.0,12.0,Ephial's Grimoire,,Rare,98.0,23.0,,,26.0,
+,,,,,56.0,11.0,Caged Living Ooze,,Epic,100.0,23.0,,,28.0,13.0
+,,12.0,,,56.0,12.0,Wild Combatant's Endgame,,Rare,100.0,23.0,,,28.0,
+,,13.0,,12.0,61.0,,Hellscream's Tome of Destruction,,Heirloom,90.0,23.0,,,30.0,
+,,,,8.0,58.0,17.0,Deserter's Honor,,Epic,100.0,23.0,,,28.0,
+,,14.0,,10.0,56.0,,Engine-Stoker's Lantern,,Epic,100.0,23.0,,,28.0,
+,,,,,56.0,,Oshu'gun Basin,,Uncommon,100.0,23.0,,,28.0,
+,,13.0,,13.0,60.0,,Wild Gladiator's Reprieve,,Epic,100.0,23.0,,,29.0,
+,,12.0,,12.0,56.0,,Resonating Tome of Zyzzix,,Rare,100.0,23.0,,,28.0,
+,,12.0,,,56.0,12.0,Primal Combatant's Endgame,,Rare,100.0,23.0,,,28.0,
+,,13.0,,13.0,60.0,,Wild Gladiator's Reprieve,,Epic,100.0,23.0,,,29.0,
+,,,,,55.0,,Ancestral Branch,,Uncommon,99.0,23.0,,,27.0,
+,,12.0,,,53.0,11.0,Transcription of Hir Oto'ro,,Rare,95.0,23.0,,,26.0,
+,,,,,50.0,,Soulkeeper Ledger,,Uncommon,95.0,23.0,,,24.0,
+,,,,,,,Warmongering Gladiator's Endgame,,Epic,100.0,23.0,,,,
+,,12.0,,,56.0,12.0,Primal Gladiator's Endgame,,Epic,100.0,23.0,,,28.0,
+,,,,,50.0,11.0,Beastskull Vessel,,Rare,92.0,23.0,,,24.0,11.0
+,,,,,48.0,,Evermorn Twig,,Uncommon,93.0,23.0,,,24.0,
+,,,,,,,Warmongering Gladiator's Reprieve,,Epic,100.0,23.0,,,,
+,,8.0,,17.0,58.0,,Fel-Light Lantern,,Epic,100.0,23.0,,,28.0,
+,,,,13.0,56.0,11.0,Flickering Lantern Wisp,,Epic,100.0,23.0,,,28.0,
+,,,,13.0,56.0,12.0,Interloper's Mossy Skull,,Rare,100.0,23.0,,,28.0,
+,,,,,56.0,13.0,Gug'rokk's Grandmother,,Rare,100.0,23.0,,,28.0,11.0
+,,,,,55.0,,Vile Branch of Festerbloom,,Rare,96.0,23.0,,,27.0,24.0
+,,,,,50.0,,Zangarra Crystal,,Uncommon,95.0,23.0,,,24.0,
+,,13.0,,13.0,60.0,,Warmongering Gladiator's Reprieve,,Epic,100.0,23.0,,,29.0,
+,,13.0,,13.0,60.0,,Warmongering Gladiator's Reprieve,,Epic,100.0,23.0,,,29.0,
+,,13.0,,,60.0,13.0,Warmongering Combatant's Endgame,,Rare,100.0,23.0,,,29.0,
+,,13.0,,13.0,60.0,,Warmongering Combatant's Reprieve,,Rare,100.0,23.0,,,29.0,
+,,13.0,,,60.0,13.0,Wild Gladiator's Endgame,,Epic,100.0,23.0,,,29.0,
+,,12.0,,12.0,56.0,,Captured Arcane Fragment,,Epic,100.0,23.0,,,28.0,
+,,12.0,,12.0,56.0,,Sadana's Grisly Visage,,Rare,100.0,23.0,,,28.0,
+,,,,,52.0,,Sunsworn Transcription,,Uncommon,96.0,23.0,,,25.0,
+,,,,11.0,50.0,,Steamscar Vessel,,Uncommon,,23.0,,,24.0,11.0
+,,,,,47.0,,Moonwhisper Crystal,,Uncommon,91.0,23.0,,,23.0,
+,,,,,,,Nethershorn Lantern,,Poor,100.0,23.0,,,,
+,,13.0,,,60.0,13.0,Warmongering Gladiator's Endgame,,Epic,100.0,23.0,,,29.0,
+,,13.0,,,60.0,13.0,Warmongering Gladiator's Endgame,,Epic,100.0,23.0,,,29.0,
+,,13.0,,,60.0,13.0,Wild Gladiator's Endgame,,Epic,100.0,23.0,,,29.0,
+,,12.0,,,56.0,12.0,Primal Gladiator's Endgame,,Epic,100.0,23.0,,,28.0,
+,,12.0,,12.0,56.0,,Wild Combatant's Reprieve,,Rare,100.0,23.0,,,28.0,
+,,,,,56.0,,Blackfire Crystal,,Epic,100.0,23.0,,,28.0,
+,,12.0,,12.0,56.0,,Primal Combatant's Reprieve,,Rare,100.0,23.0,,,28.0,
+,,10.0,,,56.0,14.0,Boneboiler's Cauldron,,Rare,99.0,23.0,,,28.0,
+,,,,13.0,55.0,10.0,Plainshunter Dowsing Rod,,Uncommon,,23.0,,1.7000000000000002,27.0,
+,,,,,53.0,,Shadowsage Cauldron,,Uncommon,97.0,23.0,,,26.0,
+,,12.0,,10.0,52.0,,Teroclaw Nest Branch,,Rare,,23.0,,,25.0,
+,,,,,,,Tournament Gladiator's Endgame,,Epic,100.0,23.0,,,,
+,,13.0,,,60.0,13.0,Warmongering Combatant's Endgame,,Rare,100.0,23.0,,,29.0,
+,,13.0,,13.0,60.0,,Warmongering Combatant's Reprieve,,Rare,100.0,23.0,,,29.0,
+,,,,,,,Wild Gladiator's Reprieve,,Epic,100.0,23.0,,,,
+,,12.0,,12.0,56.0,,Wild Combatant's Reprieve,,Rare,100.0,23.0,,,28.0,
+,,,,,,,Primal Gladiator's Endgame,,Epic,100.0,23.0,,,,
+,,,,12.0,56.0,12.0,Primal Gladiator's Reprieve,,Epic,100.0,23.0,,,28.0,
+,,12.0,,12.0,56.0,,Eye of the Beholder,,Rare,100.0,23.0,,,28.0,
+,,,,,53.0,,Ruhkmari Bowl,,Uncommon,98.0,23.0,,,26.0,
+,,,,,47.0,,Growthshaper Branch,,Uncommon,92.0,23.0,,,23.0,
+,,,,,,,Tournament Gladiator's Endgame,,Epic,100.0,23.0,,,,
+,,10.0,,14.0,56.0,,Genesaur Braid,,Epic,100.0,23.0,,,28.0,
+,,,,12.0,56.0,12.0,Primal Gladiator's Reprieve,,Epic,100.0,23.0,,,28.0,
+,,,,,,,Primal Gladiator's Reprieve,,Epic,100.0,23.0,,,,
+,,,,11.0,56.0,13.0,Socrethar's Stone,,Rare,100.0,23.0,,,28.0,
+,,,,,,,Tournament Gladiator's Reprieve,,Epic,100.0,23.0,,,,
+,,,,,,,Tournament Gladiator's Reprieve,,Epic,100.0,23.0,,,,
+,,16.0,,,77.0,,Abyssal Beacon,,Uncommon,,23.0,,,38.0,15.0
+,,,,16.0,77.0,15.0,Crow's Nest Spotlight,,Uncommon,,23.0,,,38.0,
+,,22.0,,16.0,77.0,,Drust-Speaker's Pathfinder,,Uncommon,,23.0,,,38.0,
+,,16.0,,17.0,77.0,,Alluring Glowfly Lantern,,Uncommon,,23.0,,,38.0,
+,,16.0,,15.0,77.0,,Ghoulish Blood Idol,,Uncommon,,23.0,,,38.0,
+,,,,19.0,77.0,,Wickerwood Torch,,Uncommon,,23.0,,,38.0,17.0
+,,,,36.0,213.0,30.0,Dread Aspirant's Reprieve,,Rare,110.0,23.0,,,104.0,
+,,40.0,,,213.0,26.0,Dread Combatant's Reprieve,,Uncommon,110.0,23.0,,,104.0,
+,,,,36.0,213.0,30.0,Dread Aspirant's Reprieve,,Rare,110.0,23.0,,,104.0,
+,,,,16.0,77.0,,First-Watcher's Lantern,,Uncommon,,23.0,,,38.0,17.0
+,,,,,77.0,15.0,Jambani Hex Focus,,Uncommon,,23.0,,,38.0,15.0
+,,17.0,,,77.0,15.0,Ai'twen's Light,,Uncommon,,23.0,,,38.0,
+,,,,15.0,77.0,,Fort Daelin Lantern,,Uncommon,,23.0,,,38.0,17.0
+,,16.0,,,77.0,17.0,Faithless Skyrider's Focus,,Uncommon,,23.0,,,38.0,
+,,17.0,,,77.0,,Southport Searchlight,,Uncommon,,23.0,,,38.0,19.0
+,,,,22.0,77.0,,Tortollan Traveling Lantern,,Uncommon,,23.0,,,38.0,16.0
+,,,,36.0,213.0,30.0,Dread Combatant's Reprieve,,Uncommon,110.0,23.0,,,104.0,
+,,,,17.0,77.0,16.0,Jambani Voodoo Focus,,Uncommon,,23.0,,,38.0,
+,,15.0,,,77.0,17.0,Blue Flame Spelltorch,,Uncommon,,23.0,,,38.0,
+,,,,17.0,77.0,15.0,Salvage-Hunter's Torch,,Uncommon,,23.0,,,38.0,
+,,17.0,,15.0,77.0,,Deserted Divining Rod,,Uncommon,,23.0,,,38.0,
+,,,,94.0,652.0,,Stormtamer's Orb,,Epic,120.0,23.0,,,319.0,52.0
+,,82.0,,,652.0,64.0,Tidebinder's Driftglobe,,Epic,120.0,23.0,,,319.0,
+,,74.0,,,448.0,,Scroll of Violent Tides,,Epic,120.0,23.0,,,219.0,49.0
+,,,,35.0,256.0,55.0,Vessel of Last Rites,,Rare,120.0,23.0,,,125.0,
+,,48.0,,41.0,256.0,,Rattling Jar of Eyes,,Rare,120.0,23.0,,,125.0,
+,,42.0,,,256.0,,Aureus Vessel,,Rare,120.0,23.0,,,125.0,47.0
+,,,,,256.0,48.0,Solena's Watchful Collection,,Rare,120.0,23.0,,,125.0,40.0
+,,,,51.0,410.0,,Cursed Monkey Palm,,Epic,120.0,23.0,,,200.0,66.0
+,,,,49.0,324.0,,Plundered Ambershaper's Egg,,Rare,120.0,23.0,,,159.0,54.0
+,,49.0,,,410.0,69.0,"Fogbreaker, Light of the Sea",,Epic,120.0,23.0,,,200.0,
+,,,,,256.0,,Inscribed Vessel of Mysticism,,Rare,120.0,23.0,,,125.0,
+,,,,,256.0,,Honorable Combatant's Etched Vessel,,Rare,120.0,23.0,,,125.0,
+,,,,,494.0,,Notorious Combatant's Etched Vessel,,Epic,120.0,23.0,,,241.0,
+,,54.0,,,324.0,49.0,Plundered Codex of Otherworldly Vision,,Rare,120.0,23.0,,,159.0,
+,,,,,373.0,,Sinister Combatant's Etched Vessel,,Epic,120.0,23.0,,,182.0,
+,,79.0,,,448.0,44.0,Notorious Gladiator's Reprieve,,Epic,120.0,23.0,,,219.0,
+,,,,64.0,410.0,55.0,Codex of Imminent Ruin,,Epic,120.0,23.0,,,200.0,
+,,,,,494.0,,Notorious Combatant's Etched Vessel,,Epic,120.0,23.0,,,241.0,
+,,,,,324.0,49.0,Plundered Sapling Seed,,Rare,120.0,23.0,,,159.0,54.0
+,,,,,213.0,,Ironcrest Lantern,,Uncommon,120.0,23.0,,,104.0,
+,,,,,410.0,50.0,Miss Miggi's Towering Spire,,Epic,120.0,23.0,,,200.0,68.0
+,,,,,213.0,,Deeptide Scroll,,Uncommon,120.0,23.0,,,104.0,
+,,69.0,,,410.0,,Uldir Subject Manifest,,Epic,120.0,23.0,,,200.0,50.0
+,,,,37.0,213.0,,Coldscale Lantern,,Rare,120.0,23.0,,,104.0,29.0
+,,37.0,,29.0,213.0,,Gilded Hex-Maw,,Rare,120.0,23.0,,,104.0,
+,,27.0,,,213.0,39.0,Earthshaker's Flame,,Rare,120.0,23.0,,,104.0,
+,,36.0,,,213.0,,Wavecaller Beacon,,Rare,120.0,23.0,,,104.0,30.0
+,,,,,213.0,,Warport Hex Focus,,Uncommon,120.0,23.0,,,104.0,
+,,,,,213.0,,Gol Osigr Torch,,Uncommon,120.0,23.0,,,104.0,
+,,33.0,,32.0,213.0,,Ancient Chronicler's Focus,,Rare,120.0,23.0,,,104.0,
+,,79.0,,,448.0,44.0,Notorious Gladiator's Reprieve,,Epic,120.0,23.0,,,219.0,
+,,,,,213.0,,Deepwarden Torch,,Uncommon,120.0,23.0,,,104.0,
+,,,,,213.0,,Golden Fleet Mojo Charm,,Uncommon,120.0,23.0,,,104.0,
+,,,,,127.0,,Manual of Reverse Wounding,,Uncommon,111.0,23.0,,,62.0,
+,,,,,127.0,,Manual of Elemental Enchancement,,Uncommon,111.0,23.0,,,62.0,
+,,,,,127.0,,Manual of Elemental Enchancement,,Uncommon,111.0,23.0,,,62.0,
+,,,,,256.0,,Honorable Combatant's Etched Vessel,,Rare,120.0,23.0,,,125.0,
+,,32.0,,34.0,213.0,,Loa-Pledged Rod,,Rare,120.0,23.0,,,104.0,
+,,,,,213.0,,Zocali Voodoo Idol,,Uncommon,120.0,23.0,,,104.0,
+,,,,,256.0,,Inscribed Vessel of Mysticism,,Rare,120.0,23.0,,,125.0,
+,,42.0,,,213.0,24.0,Dread Gladiator's Reprieve,,Epic,120.0,23.0,,,104.0,
+,,,,,127.0,,Manual of Reverse Wounding,,Uncommon,111.0,23.0,,,62.0,
+,,40.0,,65.0,324.0,,Plundered Sand-Scoured Fetish,,Rare,120.0,23.0,,,159.0,
+,,,,,256.0,,Inked Vessel of Robust Regeneration,,Rare,120.0,23.0,,,125.0,
+,,,,,213.0,,Rivermarsh Juju,,Uncommon,120.0,23.0,,,104.0,
+,,79.0,,,448.0,44.0,Notorious Aspirant's Reprieve,,Epic,120.0,23.0,,,219.0,
+,,,,,373.0,,Sinister Combatant's Etched Vessel,,Epic,120.0,23.0,,,182.0,
+,,,,,256.0,,Inked Vessel of Robust Regeneration,,Rare,120.0,23.0,,,125.0,
+,,,,26.0,213.0,,Soul-Pillar Lantern,,Rare,120.0,23.0,,,104.0,42.0
+,,42.0,,,213.0,24.0,Dread Gladiator's Reprieve,,Epic,120.0,23.0,,,104.0,
+,,79.0,,,448.0,44.0,Notorious Aspirant's Reprieve,,Epic,120.0,23.0,,,219.0,
+,,,,,256.0,,Honorable Combatant's Inked Vessel,,Rare,120.0,23.0,,,125.0,
+,,,,,256.0,,Honorable Combatant's Inked Vessel,,Rare,120.0,23.0,,,125.0,
+,,29.0,,,213.0,,PH Gladiator's Reprieve,,Rare,120.0,23.0,,,104.0,38.0
+,,26.0,,,213.0,40.0,PH Gladiator's Reprieve,,Rare,120.0,23.0,,,104.0,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
