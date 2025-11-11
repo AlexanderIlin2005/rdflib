@@ -9,6 +9,7 @@ import re
 import requests
 import zipfile
 import io
+from tqdm import tqdm
 
 
 class WoWDataConverter:
@@ -290,41 +291,41 @@ class WoWDataConverter:
             processed_count = 0
             error_count = 0
 
-            for idx, row in df.iterrows():
-                try:
-                    if pd.isna(row.get('name_enus')):
-                        continue
+            with tqdm(total=len(df), desc=f"Обработка {os.path.basename(file_path)}", unit="предмет") as pbar:
+                for idx, row in df.iterrows():
+                    try:
+                        if pd.isna(row.get('name_enus')):
+                            pbar.update(1)
+                            continue
 
-                    item_name = row['name_enus']
-                    item_uri_name = self.clean_uri(item_name)
+                        item_name = row['name_enus']
+                        item_uri_name = self.clean_uri(item_name)
 
-                    item_uri = self.WOW[f"Item_{item_uri_name}_{hash(item_name) % 10000:04d}"]
+                        item_uri = self.WOW[f"Item_{item_uri_name}_{hash(item_name) % 10000:04d}"]
 
-                    item_class = self.get_item_class(slot_name, item_name)
+                        item_class = self.get_item_class(slot_name, item_name)
 
-                    self.g.add((item_uri, RDF.type, self.WOW.Item))
-                    self.g.add((item_uri, RDF.type, self.WOW[item_class]))
+                        self.g.add((item_uri, RDF.type, self.WOW.Item))
+                        self.g.add((item_uri, RDF.type, self.WOW[item_class]))
 
-                    slot_uri = self.WOW[self.get_slot_mapping(slot_name)]
-                    self.g.add((item_uri, self.WOW.hasSlotObj, slot_uri))
+                        slot_uri = self.WOW[self.get_slot_mapping(slot_name)]
+                        self.g.add((item_uri, self.WOW.hasSlotObj, slot_uri))
 
-                    if 'slotbak' in row and not pd.isna(row['slotbak']):
-                        self.g.add((item_uri, self.WOW.slotName, Literal(row['slotbak'])))
+                        if 'slotbak' in row and not pd.isna(row['slotbak']):
+                            self.g.add((item_uri, self.WOW.slotName, Literal(row['slotbak'])))
 
-                    self.add_item_properties(item_uri, row, slot_name)
+                        self.add_item_properties(item_uri, row, slot_name)
 
-                    self.add_stats_to_item(item_uri, row)
+                        self.add_stats_to_item(item_uri, row)
 
-                    processed_count += 1
+                        processed_count += 1
 
-                    if processed_count % 500 == 0:
-                        print(f"   Обработано: {processed_count} предметов")
+                    except Exception as e:
+                        error_count += 1
+                        if error_count <= 3:
+                            print(f"Ошибка в строке {idx}: {e}")
 
-                except Exception as e:
-                    error_count += 1
-                    if error_count <= 3:
-                        print(f"   Ошибка в строке {idx}: {e}")
-                    continue
+                    pbar.update(1)
 
             print(f"{os.path.basename(file_path)}: {processed_count} предметов, {error_count} ошибок")
             return processed_count
